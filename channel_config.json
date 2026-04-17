@@ -1,0 +1,21 @@
+{
+  "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
+  "channel_user_id": "D2tQfzg9giJWdcaqtma8rA",
+  "channel_name": "akbarashok",
+  "report_timezone": "UTC",
+  "max_videos_for_reports": 10,
+  "default_keywords_seed": [
+    "youtube growth",
+    "youtube seo",
+    "video promotion",
+    "content strategy",
+    "channel analytics"
+  ],
+  "output_files": {
+    "analytics": "output/channel_analytics.json",
+    "seo": "output/seo_suggestions.json",
+    "topics": "output/topic_ideas.json",
+    "thumbnails": "output/thumbnail_ideas.json",
+    "calendar": "output/content_calendar.json"
+  }
+}

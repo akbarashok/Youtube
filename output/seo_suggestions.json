@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-04-17T05:16:05.601181+00:00",
+  "seed_keywords": [
+    "youtube growth",
+    "youtube seo",
+    "video promotion",
+    "content strategy",
+    "channel analytics"
+  ],
+  "high_priority_keywords": [
+    "youtube growth",
+    "youtube seo",
+    "video promotion",
+    "content strategy",
+    "channel analytics",
+    "holy",
+    "lance",
+    "1000",
+    "fake",
+    "history",
+    "lesson",
+    "lie"
+  ],
+  "title_patterns": [
+    "How to Improve Youtube Growth Without Guesswork",
+    "Youtube Growth Tips That Actually Help Small Channels",
+    "How to Improve Youtube Seo Without Guesswork",
+    "Youtube Seo Tips That Actually Help Small Channels",
+    "How to Improve Video Promotion Without Guesswork",
+    "Video Promotion Tips That Actually Help Small Channels",
+    "How to Improve Content Strategy Without Guesswork",
+    "Content Strategy Tips That Actually Help Small Channels"
+  ],
+  "description_elements": [
+    "Lead with a 1-2 sentence summary of the video promise.",
+    "Include the primary keyword naturally in the first paragraph: youtube growth.",
+    "Reference a related audience interest or seed theme: youtube growth.",
+    "Add 3-5 concise bullet points covering the main takeaways.",
+    "Close with a clear next step, playlist mention, or subscribe call to action."
+  ],
+  "tag_clusters": [
+    {
+      "cluster": "high_intent",
+      "tags": [
+        "youtube growth",
+        "youtube seo",
+        "video promotion",
+        "content strategy",
+        "channel analytics"
+      ]
+    },
+    {
+      "cluster": "seed_topics",
+      "tags": [
+        "youtube growth",
+        "youtube seo",
+        "video promotion",
+        "content strategy",
+        "channel analytics"
+      ]
+    },
+    {
+      "cluster": "creator_audience",
+      "tags": [
+        "small channel growth",
+        "creator workflow",
+        "video publishing plan",
+        "audience retention",
+        "content planning"
+      ]
+    }
+  ]
+}

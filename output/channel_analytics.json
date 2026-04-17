@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-04-17T05:16:05.482663+00:00",
+  "channel": {
+    "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
+    "title": "NOOLISAM",
+    "published_at": "2021-06-25T14:53:59.672569Z",
+    "subscriber_count": 317,
+    "video_count": 746,
+    "view_count": 136193
+  },
+  "summary": {
+    "total_channel_subscribers": 317,
+    "total_channel_videos": 746,
+    "total_channel_views": 136193,
+    "videos_analyzed": 10,
+    "recent_total_views": 1983,
+    "recent_total_likes": 21,
+    "recent_total_comments": 0,
+    "average_views_per_video": 198.3,
+    "average_likes_per_video": 2.1,
+    "average_comments_per_video": 0.0,
+    "average_channel_views_per_video": 182.56
+  },
+  "top_videos": [
+    {
+      "video_id": "fRGYTlNQR_4",
+      "title": "சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்",
+      "published_at": "2026-04-12T09:00:51Z",
+      "views": 658,
+      "likes": 9,
+      "comments": 0
+    },
+    {
+      "video_id": "VI_kF8fvP-U",
+      "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
+      "published_at": "2026-04-09T09:00:41Z",
+      "views": 523,
+      "likes": 5,
+      "comments": 0
+    },
+    {
+      "video_id": "j2DQyBByNtc",
+      "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
+      "published_at": "2026-04-15T09:01:07Z",
+      "views": 355,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "PCPln4Bs_RE",
+      "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
+      "published_at": "2026-04-16T15:22:41Z",
+      "views": 250,
+      "likes": 3,
+      "comments": 0
+    },
+    {
+      "video_id": "v2DJqTUqLYY",
+      "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
+      "published_at": "2026-04-16T15:22:49Z",
+      "views": 74,
+      "likes": 0,
+      "comments": 0
+    }
+  ],
+  "recent_videos": [
+    {
+      "video_id": "M0BO3sEpQ-w",
+      "title": "புனித ஈட்டியின் முடிவு: வரலாற்றின் பாடம்! (Holy Lance: History's Lesson)",
+      "published_at": "2026-04-16T15:22:50Z",
+      "views": 51,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "v2DJqTUqLYY",
+      "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
+      "published_at": "2026-04-16T15:22:49Z",
+      "views": 74,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "PCPln4Bs_RE",
+      "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
+      "published_at": "2026-04-16T15:22:41Z",
+      "views": 250,
+      "likes": 3,
+      "comments": 0
+    },
+    {
+      "video_id": "j2DQyBByNtc",
+      "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
+      "published_at": "2026-04-15T09:01:07Z",
+      "views": 355,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "fRGYTlNQR_4",
+      "title": "சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்",
+      "published_at": "2026-04-12T09:00:51Z",
+      "views": 658,
+      "likes": 9,
+      "comments": 0
+    },
+    {
+      "video_id": "VI_kF8fvP-U",
+      "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
+      "published_at": "2026-04-09T09:00:41Z",
+      "views": 523,
+      "likes": 5,
+      "comments": 0
+    },
+    {
+      "video_id": "eHzVbYM4jwQ",
+      "title": "ஜெருசலேம் முற்றுகை: சிலுவைப் போரின் அரசியல் பின்னணி",
+      "published_at": "2026-04-08T09:00:54Z",
+      "views": 64,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "URC7JM3t6O0",
+      "title": "புனித ஈட்டி: அந்தியோக்கியா முற்றுகையின் ரகசியம் உடைந்தது!",
+      "published_at": "2026-04-07T09:00:41Z",
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "Pc-32UFy9Gc",
+      "title": "துரோகமும் பசியும்: ஆண்டியோக் கோட்டையின் வீழ்ச்சி ரகசியம்",
+      "published_at": "2026-04-06T09:00:28Z",
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "D1fmAskNSi0",
+      "title": "சிலுவைப்படை Vs டோரி லேயம்: வீரர்களின் இறுதி யுத்தம்!",
+      "published_at": "2026-04-05T09:00:15Z",
+      "views": 4,
+      "likes": 0,
+      "comments": 0
+    }
+  ],
+  "recommendations": [
+    "Review the format and topic of 'சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'புனித ஈட்டியின் முடிவு: வரலாற்றின் பாடம்! (Holy Lance: History's Lesson)' with stronger titles, descriptions, and thumbnails.",
+    "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
+    "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
+  ]
+}

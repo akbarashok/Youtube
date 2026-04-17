@@ -31,17 +31,28 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run metadata processor
+      - name: Run safe growth automation suite
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python process_video.py
+        run: |
+          python process_video.py
+          python analytics_report.py
+          python keyword_ideas.py
+          python content_plan.py
+          python thumbnail_ideas.py
 
-      - name: Commit and push updated queue and results
+      - name: Commit and push updated planning outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add queue.json output/results.json
+          git add queue.json channel_config.json
+          git add output/results.json
+          if [ -f output/channel_analytics.json ]; then git add output/channel_analytics.json; fi
+          if [ -f output/seo_suggestions.json ]; then git add output/seo_suggestions.json; fi
+          if [ -f output/topic_ideas.json ]; then git add output/topic_ideas.json; fi
+          if [ -f output/content_calendar.json ]; then git add output/content_calendar.json; fi
+          if [ -f output/thumbnail_ideas.json ]; then git add output/thumbnail_ideas.json; fi
           if [ -f error.log ]; then git add error.log; fi
           git diff --cached --quiet && exit 0
-          git commit -m "Automated YouTube metadata processing"
+          git commit -m "Automated YouTube growth planning update"
           git push
