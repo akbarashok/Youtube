@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-17T05:16:05.482663+00:00",
+  "generated_at": "2026-04-17T07:22:00.679834+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 317,
+    "subscriber_count": 318,
     "video_count": 746,
     "view_count": 136193
   },
   "summary": {
-    "total_channel_subscribers": 317,
+    "total_channel_subscribers": 318,
     "total_channel_videos": 746,
     "total_channel_views": 136193,
     "videos_analyzed": 10,
-    "recent_total_views": 1983,
+    "recent_total_views": 1998,
     "recent_total_likes": 21,
     "recent_total_comments": 0,
-    "average_views_per_video": 198.3,
+    "average_views_per_video": 199.8,
     "average_likes_per_video": 2.1,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 182.56
@@ -34,7 +34,7 @@
       "video_id": "VI_kF8fvP-U",
       "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
       "published_at": "2026-04-09T09:00:41Z",
-      "views": 523,
+      "views": 524,
       "likes": 5,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "j2DQyBByNtc",
       "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
       "published_at": "2026-04-15T09:01:07Z",
-      "views": 355,
+      "views": 369,
       "likes": 2,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "j2DQyBByNtc",
       "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
       "published_at": "2026-04-15T09:01:07Z",
-      "views": 355,
+      "views": 369,
       "likes": 2,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "VI_kF8fvP-U",
       "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
       "published_at": "2026-04-09T09:00:41Z",
-      "views": 523,
+      "views": 524,
       "likes": 5,
       "comments": 0
     },
