@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-17T13:00:00.797638+00:00",
+  "generated_at": "2026-04-17T18:46:28.008578+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 318,
+    "subscriber_count": 319,
     "video_count": 749,
     "view_count": 136404
   },
   "summary": {
-    "total_channel_subscribers": 318,
+    "total_channel_subscribers": 319,
     "total_channel_videos": 749,
     "total_channel_views": 136404,
     "videos_analyzed": 10,
-    "recent_total_views": 2163,
-    "recent_total_likes": 22,
+    "recent_total_views": 2690,
+    "recent_total_likes": 28,
     "recent_total_comments": 0,
-    "average_views_per_video": 216.3,
-    "average_likes_per_video": 2.2,
+    "average_views_per_video": 269.0,
+    "average_likes_per_video": 2.8,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 182.11
   },
@@ -26,39 +26,39 @@
       "video_id": "fRGYTlNQR_4",
       "title": "சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்",
       "published_at": "2026-04-12T09:00:51Z",
-      "views": 659,
+      "views": 662,
       "likes": 9,
-      "comments": 0
-    },
-    {
-      "video_id": "VI_kF8fvP-U",
-      "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
-      "published_at": "2026-04-09T09:00:41Z",
-      "views": 526,
-      "likes": 5,
       "comments": 0
     },
     {
       "video_id": "j2DQyBByNtc",
       "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
       "published_at": "2026-04-15T09:01:07Z",
-      "views": 518,
-      "likes": 3,
+      "views": 572,
+      "likes": 5,
+      "comments": 0
+    },
+    {
+      "video_id": "VI_kF8fvP-U",
+      "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
+      "published_at": "2026-04-09T09:00:41Z",
+      "views": 527,
+      "likes": 5,
       "comments": 0
     },
     {
       "video_id": "PCPln4Bs_RE",
       "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
       "published_at": "2026-04-16T15:22:41Z",
-      "views": 252,
+      "views": 275,
       "likes": 3,
       "comments": 0
     },
     {
-      "video_id": "v2DJqTUqLYY",
-      "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
-      "published_at": "2026-04-16T15:22:49Z",
-      "views": 77,
+      "video_id": "zI67PZnvxP0",
+      "title": "ஆண்டியோக்கின் போர்: புனித ஈட்டியின் அதிசயம்! (Miracle of Antioch)",
+      "published_at": "2026-04-17T12:04:34Z",
+      "views": 196,
       "likes": 0,
       "comments": 0
     }
@@ -68,23 +68,23 @@
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 0,
-      "likes": 0,
+      "views": 107,
+      "likes": 3,
       "comments": 0
     },
     {
       "video_id": "We8Svsrt-sw",
       "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
       "published_at": "2026-04-17T12:04:40Z",
-      "views": 11,
-      "likes": 0,
+      "views": 134,
+      "likes": 1,
       "comments": 0
     },
     {
       "video_id": "zI67PZnvxP0",
       "title": "ஆண்டியோக்கின் போர்: புனித ஈட்டியின் அதிசயம்! (Miracle of Antioch)",
       "published_at": "2026-04-17T12:04:34Z",
-      "views": 0,
+      "views": 196,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "M0BO3sEpQ-w",
       "title": "புனித ஈட்டியின் முடிவு: வரலாற்றின் பாடம்! (Holy Lance: History's Lesson)",
       "published_at": "2026-04-16T15:22:50Z",
-      "views": 51,
+      "views": 52,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "v2DJqTUqLYY",
       "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
       "published_at": "2026-04-16T15:22:49Z",
-      "views": 77,
+      "views": 92,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "PCPln4Bs_RE",
       "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
       "published_at": "2026-04-16T15:22:41Z",
-      "views": 252,
+      "views": 275,
       "likes": 3,
       "comments": 0
     },
@@ -116,15 +116,15 @@
       "video_id": "j2DQyBByNtc",
       "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
       "published_at": "2026-04-15T09:01:07Z",
-      "views": 518,
-      "likes": 3,
+      "views": 572,
+      "likes": 5,
       "comments": 0
     },
     {
       "video_id": "fRGYTlNQR_4",
       "title": "சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்",
       "published_at": "2026-04-12T09:00:51Z",
-      "views": 659,
+      "views": 662,
       "likes": 9,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "VI_kF8fvP-U",
       "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
       "published_at": "2026-04-09T09:00:41Z",
-      "views": 526,
+      "views": 527,
       "likes": 5,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "eHzVbYM4jwQ",
       "title": "ஜெருசலேம் முற்றுகை: சிலுவைப் போரின் அரசியல் பின்னணி",
       "published_at": "2026-04-08T09:00:54Z",
-      "views": 69,
+      "views": 73,
       "likes": 2,
       "comments": 0
     }
