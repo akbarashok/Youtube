@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T01:28:46.290785+00:00",
+  "generated_at": "2026-04-18T06:58:32.005730+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,29 +13,29 @@
     "total_channel_videos": 749,
     "total_channel_views": 136404,
     "videos_analyzed": 10,
-    "recent_total_views": 2920,
-    "recent_total_likes": 30,
+    "recent_total_views": 3173,
+    "recent_total_likes": 32,
     "recent_total_comments": 0,
-    "average_views_per_video": 292.0,
-    "average_likes_per_video": 3.0,
+    "average_views_per_video": 317.3,
+    "average_likes_per_video": 3.2,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 182.11
   },
   "top_videos": [
+    {
+      "video_id": "j2DQyBByNtc",
+      "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
+      "published_at": "2026-04-15T09:01:07Z",
+      "views": 674,
+      "likes": 6,
+      "comments": 0
+    },
     {
       "video_id": "fRGYTlNQR_4",
       "title": "சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்",
       "published_at": "2026-04-12T09:00:51Z",
       "views": 663,
       "likes": 9,
-      "comments": 0
-    },
-    {
-      "video_id": "j2DQyBByNtc",
-      "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
-      "published_at": "2026-04-15T09:01:07Z",
-      "views": 647,
-      "likes": 6,
       "comments": 0
     },
     {
@@ -50,16 +50,16 @@
       "video_id": "PCPln4Bs_RE",
       "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
       "published_at": "2026-04-16T15:22:41Z",
-      "views": 297,
+      "views": 315,
       "likes": 3,
       "comments": 0
     },
     {
-      "video_id": "zI67PZnvxP0",
-      "title": "ஆண்டியோக்கின் போர்: புனித ஈட்டியின் அதிசயம்! (Miracle of Antioch)",
-      "published_at": "2026-04-17T12:04:34Z",
-      "views": 215,
-      "likes": 0,
+      "video_id": "We8Svsrt-sw",
+      "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
+      "published_at": "2026-04-17T12:04:40Z",
+      "views": 308,
+      "likes": 3,
       "comments": 0
     }
   ],
@@ -68,23 +68,23 @@
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 177,
-      "likes": 3,
+      "views": 237,
+      "likes": 4,
       "comments": 0
     },
     {
       "video_id": "We8Svsrt-sw",
       "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
       "published_at": "2026-04-17T12:04:40Z",
-      "views": 168,
-      "likes": 2,
+      "views": 308,
+      "likes": 3,
       "comments": 0
     },
     {
       "video_id": "zI67PZnvxP0",
       "title": "ஆண்டியோக்கின் போர்: புனித ஈட்டியின் அதிசயம்! (Miracle of Antioch)",
       "published_at": "2026-04-17T12:04:34Z",
-      "views": 215,
+      "views": 217,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "M0BO3sEpQ-w",
       "title": "புனித ஈட்டியின் முடிவு: வரலாற்றின் பாடம்! (Holy Lance: History's Lesson)",
       "published_at": "2026-04-16T15:22:50Z",
-      "views": 54,
+      "views": 56,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "v2DJqTUqLYY",
       "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
       "published_at": "2026-04-16T15:22:49Z",
-      "views": 93,
+      "views": 96,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "PCPln4Bs_RE",
       "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
       "published_at": "2026-04-16T15:22:41Z",
-      "views": 297,
+      "views": 315,
       "likes": 3,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "j2DQyBByNtc",
       "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
       "published_at": "2026-04-15T09:01:07Z",
-      "views": 647,
+      "views": 674,
       "likes": 6,
       "comments": 0
     },
@@ -140,13 +140,13 @@
       "video_id": "eHzVbYM4jwQ",
       "title": "ஜெருசலேம் முற்றுகை: சிலுவைப் போரின் அரசியல் பின்னணி",
       "published_at": "2026-04-08T09:00:54Z",
-      "views": 77,
+      "views": 78,
       "likes": 2,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload 'ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
