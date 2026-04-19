@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T01:54:13.620809+00:00",
+  "generated_at": "2026-04-19T07:08:47.480088+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,11 +13,11 @@
     "total_channel_videos": 751,
     "total_channel_views": 138089,
     "videos_analyzed": 10,
-    "recent_total_views": 3662,
-    "recent_total_likes": 33,
+    "recent_total_views": 3730,
+    "recent_total_likes": 34,
     "recent_total_comments": 0,
-    "average_views_per_video": 366.2,
-    "average_likes_per_video": 3.3,
+    "average_views_per_video": 373.0,
+    "average_likes_per_video": 3.4,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 183.87
   },
@@ -26,7 +26,7 @@
       "video_id": "j2DQyBByNtc",
       "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
       "published_at": "2026-04-15T09:01:07Z",
-      "views": 756,
+      "views": 770,
       "likes": 7,
       "comments": 0
     },
@@ -39,6 +39,14 @@
       "comments": 0
     },
     {
+      "video_id": "We8Svsrt-sw",
+      "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
+      "published_at": "2026-04-17T12:04:40Z",
+      "views": 543,
+      "likes": 5,
+      "comments": 0
+    },
+    {
       "video_id": "VI_kF8fvP-U",
       "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
       "published_at": "2026-04-09T09:00:41Z",
@@ -47,18 +55,10 @@
       "comments": 0
     },
     {
-      "video_id": "We8Svsrt-sw",
-      "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
-      "published_at": "2026-04-17T12:04:40Z",
-      "views": 518,
-      "likes": 5,
-      "comments": 0
-    },
-    {
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 422,
+      "views": 438,
       "likes": 4,
       "comments": 0
     }
@@ -76,7 +76,7 @@
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 422,
+      "views": 438,
       "likes": 4,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "We8Svsrt-sw",
       "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
       "published_at": "2026-04-17T12:04:40Z",
-      "views": 518,
+      "views": 543,
       "likes": 5,
       "comments": 0
     },
@@ -108,15 +108,15 @@
       "video_id": "v2DJqTUqLYY",
       "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
       "published_at": "2026-04-16T15:22:49Z",
-      "views": 115,
-      "likes": 0,
+      "views": 123,
+      "likes": 1,
       "comments": 0
     },
     {
       "video_id": "PCPln4Bs_RE",
       "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
       "published_at": "2026-04-16T15:22:41Z",
-      "views": 372,
+      "views": 377,
       "likes": 3,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "j2DQyBByNtc",
       "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
       "published_at": "2026-04-15T09:01:07Z",
-      "views": 756,
+      "views": 770,
       "likes": 7,
       "comments": 0
     },
