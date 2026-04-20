@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T07:53:39.330146+00:00",
+  "generated_at": "2026-04-20T13:10:34.078090+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,20 +13,28 @@
     "total_channel_videos": 754,
     "total_channel_views": 138998,
     "videos_analyzed": 10,
-    "recent_total_views": 2102,
-    "recent_total_likes": 19,
+    "recent_total_views": 3088,
+    "recent_total_likes": 23,
     "recent_total_comments": 0,
-    "average_views_per_video": 210.2,
-    "average_likes_per_video": 1.9,
+    "average_views_per_video": 308.8,
+    "average_likes_per_video": 2.3,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 184.35
   },
   "top_videos": [
     {
+      "video_id": "YC6VmpAG6-s",
+      "title": "Why Nations Fight Over Profit #geopolitics #historical",
+      "published_at": "2026-04-20T05:27:52Z",
+      "views": 975,
+      "likes": 4,
+      "comments": 0
+    },
+    {
       "video_id": "We8Svsrt-sw",
       "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
       "published_at": "2026-04-17T12:04:40Z",
-      "views": 662,
+      "views": 674,
       "likes": 6,
       "comments": 0
     },
@@ -34,7 +42,7 @@
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 524,
+      "views": 526,
       "likes": 6,
       "comments": 0
     },
@@ -53,14 +61,6 @@
       "views": 218,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "v2DJqTUqLYY",
-      "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
-      "published_at": "2026-04-16T15:22:49Z",
-      "views": 134,
-      "likes": 1,
-      "comments": 0
     }
   ],
   "recent_videos": [
@@ -68,7 +68,7 @@
       "video_id": "Ff8kRezlDeQ",
       "title": "Strong Management: Handling Diverse People & Challenges",
       "published_at": "2026-04-20T05:28:10Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -76,23 +76,23 @@
       "video_id": "m5uEW6dMe94",
       "title": "Humanitarianism: Survival or Administrative Reality?",
       "published_at": "2026-04-20T05:27:56Z",
-      "views": 41,
+      "views": 48,
       "likes": 0,
       "comments": 0
     },
     {
       "video_id": "YC6VmpAG6-s",
-      "title": "Commerce: How it Unites the World and Seeks Profit",
+      "title": "Why Nations Fight Over Profit #geopolitics #historical",
       "published_at": "2026-04-20T05:27:52Z",
-      "views": 22,
-      "likes": 0,
+      "views": 975,
+      "likes": 4,
       "comments": 0
     },
     {
       "video_id": "HCTRdsz2A7A",
       "title": "சிலுவைப்போர் அரசுகளின் வீழ்ச்சியும் அதிகார அரசியலும் #சிலுவைப்போர் #வரலாறு #noolisam",
       "published_at": "2026-04-18T09:00:21Z",
-      "views": 47,
+      "views": 58,
       "likes": 3,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 524,
+      "views": 526,
       "likes": 6,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "We8Svsrt-sw",
       "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
       "published_at": "2026-04-17T12:04:40Z",
-      "views": 662,
+      "views": 674,
       "likes": 6,
       "comments": 0
     },
@@ -146,7 +146,7 @@
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'Why Nations Fight Over Profit #geopolitics #historical' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload 'Strong Management: Handling Diverse People & Challenges' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
