@@ -1,82 +1,106 @@
 {
-  "generated_at": "2026-04-20T01:55:55.463800+00:00",
+  "generated_at": "2026-04-20T07:53:39.330146+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 325,
-    "video_count": 750,
-    "view_count": 138756
+    "video_count": 754,
+    "view_count": 138998
   },
   "summary": {
     "total_channel_subscribers": 325,
-    "total_channel_videos": 750,
-    "total_channel_views": 138756,
+    "total_channel_videos": 754,
+    "total_channel_views": 138998,
     "videos_analyzed": 10,
-    "recent_total_views": 3999,
-    "recent_total_likes": 38,
+    "recent_total_views": 2102,
+    "recent_total_likes": 19,
     "recent_total_comments": 0,
-    "average_views_per_video": 399.9,
-    "average_likes_per_video": 3.8,
+    "average_views_per_video": 210.2,
+    "average_likes_per_video": 1.9,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.01
+    "average_channel_views_per_video": 184.35
   },
   "top_videos": [
-    {
-      "video_id": "j2DQyBByNtc",
-      "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
-      "published_at": "2026-04-15T09:01:07Z",
-      "views": 776,
-      "likes": 7,
-      "comments": 0
-    },
-    {
-      "video_id": "fRGYTlNQR_4",
-      "title": "சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்",
-      "published_at": "2026-04-12T09:00:51Z",
-      "views": 671,
-      "likes": 9,
-      "comments": 0
-    },
     {
       "video_id": "We8Svsrt-sw",
       "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
       "published_at": "2026-04-17T12:04:40Z",
-      "views": 655,
+      "views": 662,
       "likes": 6,
-      "comments": 0
-    },
-    {
-      "video_id": "VI_kF8fvP-U",
-      "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
-      "published_at": "2026-04-09T09:00:41Z",
-      "views": 534,
-      "likes": 5,
       "comments": 0
     },
     {
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 516,
+      "views": 524,
       "likes": 6,
+      "comments": 0
+    },
+    {
+      "video_id": "PCPln4Bs_RE",
+      "title": "போலியா புனித ஈட்டி? சரித்திரம் சொல்லும் உண்மை! (The Fake Holy Lance?)",
+      "published_at": "2026-04-16T15:22:41Z",
+      "views": 389,
+      "likes": 3,
+      "comments": 0
+    },
+    {
+      "video_id": "zI67PZnvxP0",
+      "title": "ஆண்டியோக்கின் போர்: புனித ஈட்டியின் அதிசயம்! (Miracle of Antioch)",
+      "published_at": "2026-04-17T12:04:34Z",
+      "views": 218,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "v2DJqTUqLYY",
+      "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
+      "published_at": "2026-04-16T15:22:49Z",
+      "views": 134,
+      "likes": 1,
       "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "Ff8kRezlDeQ",
+      "title": "Strong Management: Handling Diverse People & Challenges",
+      "published_at": "2026-04-20T05:28:10Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "m5uEW6dMe94",
+      "title": "Humanitarianism: Survival or Administrative Reality?",
+      "published_at": "2026-04-20T05:27:56Z",
+      "views": 41,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "YC6VmpAG6-s",
+      "title": "Commerce: How it Unites the World and Seeks Profit",
+      "published_at": "2026-04-20T05:27:52Z",
+      "views": 22,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "HCTRdsz2A7A",
       "title": "சிலுவைப்போர் அரசுகளின் வீழ்ச்சியும் அதிகார அரசியலும் #சிலுவைப்போர் #வரலாறு #noolisam",
       "published_at": "2026-04-18T09:00:21Z",
-      "views": 42,
-      "likes": 1,
+      "views": 47,
+      "likes": 3,
       "comments": 0
     },
     {
       "video_id": "WMhvo1YXbMI",
       "title": "ஆழமான ஆயவில்: சரித்திரத்தின் மறுபக்கம்! (Deep Dive History)",
       "published_at": "2026-04-17T12:04:46Z",
-      "views": 516,
+      "views": 524,
       "likes": 6,
       "comments": 0
     },
@@ -84,7 +108,7 @@
       "video_id": "We8Svsrt-sw",
       "title": "கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)",
       "published_at": "2026-04-17T12:04:40Z",
-      "views": 655,
+      "views": 662,
       "likes": 6,
       "comments": 0
     },
@@ -108,7 +132,7 @@
       "video_id": "v2DJqTUqLYY",
       "title": "புனித ஈட்டி: நிஜமா? பொய்யா? பீடரின் மரணம்! (Holy Lance: Truth or Lie?)",
       "published_at": "2026-04-16T15:22:49Z",
-      "views": 133,
+      "views": 134,
       "likes": 1,
       "comments": 0
     },
@@ -119,35 +143,11 @@
       "views": 389,
       "likes": 3,
       "comments": 0
-    },
-    {
-      "video_id": "j2DQyBByNtc",
-      "title": "ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு",
-      "published_at": "2026-04-15T09:01:07Z",
-      "views": 776,
-      "likes": 7,
-      "comments": 0
-    },
-    {
-      "video_id": "fRGYTlNQR_4",
-      "title": "சிலுவைப் போர்வீரர்கள்: ஜெருசலேம் ராஜ்யத்தின் எழுச்சியும் வீழ்ச்சியும்",
-      "published_at": "2026-04-12T09:00:51Z",
-      "views": 671,
-      "likes": 9,
-      "comments": 0
-    },
-    {
-      "video_id": "VI_kF8fvP-U",
-      "title": "ஜெருசலேம் முற்றுகை: 1000 வருட ரத்த வரலாறு",
-      "published_at": "2026-04-09T09:00:41Z",
-      "views": 534,
-      "likes": 5,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'ஜெருசலேம் பிடிபட்டதில் சூழ்ச்சிக்கு முந்நூறு வருடம் முன்பு' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'சிலுவைப்போர் அரசுகளின் வீழ்ச்சியும் அதிகார அரசியலும் #சிலுவைப்போர் #வரலாறு #noolisam' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'கணவில் வந்த அதிசயம்: போரின் மனநிலை மாற்றம்! (Psychology of War)' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'Strong Management: Handling Diverse People & Challenges' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
