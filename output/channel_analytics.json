@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-04-22T01:49:59.603118+00:00",
+  "generated_at": "2026-04-22T07:22:01.707797+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 326,
     "video_count": 756,
-    "view_count": 141107
+    "view_count": 141157
   },
   "summary": {
     "total_channel_subscribers": 326,
     "total_channel_videos": 756,
-    "total_channel_views": 141107,
+    "total_channel_views": 141157,
     "videos_analyzed": 10,
-    "recent_total_views": 3609,
+    "recent_total_views": 3626,
     "recent_total_likes": 20,
     "recent_total_comments": 0,
-    "average_views_per_video": 360.9,
+    "average_views_per_video": 362.6,
     "average_likes_per_video": 2.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.65
+    "average_channel_views_per_video": 186.72
   },
   "top_videos": [
     {
       "video_id": "YC6VmpAG6-s",
       "title": "Why Nations Fight Over Profit #geopolitics #historical",
       "published_at": "2026-04-20T05:27:52Z",
-      "views": 1220,
+      "views": 1221,
       "likes": 4,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "NIYrV-5AHys",
       "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-04-21T09:00:34Z",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "5tyiTUVNJs0",
       "title": "TVK 2026 தேர்தல் வியூகம் மற்றும் அறிக்கை பகுப்பாய்வு #tvk2026  #தமிழகதேர்தல் #தேர்தல்வியூகம்",
       "published_at": "2026-04-20T16:03:52Z",
-      "views": 1,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "YC6VmpAG6-s",
       "title": "Why Nations Fight Over Profit #geopolitics #historical",
       "published_at": "2026-04-20T05:27:52Z",
-      "views": 1220,
+      "views": 1221,
       "likes": 4,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "HCTRdsz2A7A",
       "title": "சிலுவைப்போர் அரசுகளின் வீழ்ச்சியும் அதிகார அரசியலும் #சிலுவைப்போர் #வரலாறு #noolisam",
       "published_at": "2026-04-18T09:00:21Z",
-      "views": 68,
+      "views": 71,
       "likes": 3,
       "comments": 0
     },
