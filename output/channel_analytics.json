@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-24T13:03:35.560117+00:00",
+  "generated_at": "2026-04-24T18:39:07.674352+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 759,
-    "view_count": 141274
+    "view_count": 141293
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 759,
-    "total_channel_views": 141274,
+    "total_channel_views": 141293,
     "videos_analyzed": 10,
-    "recent_total_views": 2934,
+    "recent_total_views": 2936,
     "recent_total_likes": 14,
     "recent_total_comments": 0,
-    "average_views_per_video": 293.4,
+    "average_views_per_video": 293.6,
     "average_likes_per_video": 1.4,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.13
+    "average_channel_views_per_video": 186.16
   },
   "top_videos": [
     {
@@ -50,7 +50,7 @@
       "video_id": "aVLe1d6RJzY",
       "title": "Unexpected Political Maneuvers: A Leader's Tale",
       "published_at": "2026-04-24T05:32:16Z",
-      "views": 139,
+      "views": 141,
       "likes": 0,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "5tyiTUVNJs0",
       "title": "TVK 2026 தேர்தல் வியூகம் மற்றும் அறிக்கை பகுப்பாய்வு #tvk2026  #தமிழகதேர்தல் #தேர்தல்வியூகம்",
       "published_at": "2026-04-20T16:03:52Z",
-      "views": 81,
+      "views": 80,
       "likes": 0,
       "comments": 0
     }
@@ -76,7 +76,7 @@
       "video_id": "aVLe1d6RJzY",
       "title": "Unexpected Political Maneuvers: A Leader's Tale",
       "published_at": "2026-04-24T05:32:16Z",
-      "views": 139,
+      "views": 141,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "vyIZcCdO3B0",
       "title": "The Crusades: Motives and Internal Conflict",
       "published_at": "2026-04-24T05:31:48Z",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "5tyiTUVNJs0",
       "title": "TVK 2026 தேர்தல் வியூகம் மற்றும் அறிக்கை பகுப்பாய்வு #tvk2026  #தமிழகதேர்தல் #தேர்தல்வியூகம்",
       "published_at": "2026-04-20T16:03:52Z",
-      "views": 81,
+      "views": 80,
       "likes": 0,
       "comments": 0
     },
