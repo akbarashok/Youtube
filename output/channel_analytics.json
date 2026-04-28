@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-28T02:06:57.741003+00:00",
+  "generated_at": "2026-04-28T08:10:02.002592+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 760,
-    "view_count": 141508
+    "view_count": 141516
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 760,
-    "total_channel_views": 141508,
+    "total_channel_views": 141516,
     "videos_analyzed": 10,
-    "recent_total_views": 2459,
+    "recent_total_views": 2460,
     "recent_total_likes": 8,
     "recent_total_comments": 0,
-    "average_views_per_video": 245.9,
+    "average_views_per_video": 246.0,
     "average_likes_per_video": 0.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.19
+    "average_channel_views_per_video": 186.21
   },
   "top_videos": [
     {
@@ -50,7 +50,7 @@
       "video_id": "5tyiTUVNJs0",
       "title": "TVK 2026 தேர்தல் வியூகம் மற்றும் அறிக்கை பகுப்பாய்வு #tvk2026  #தமிழகதேர்தல் #தேர்தல்வியூகம்",
       "published_at": "2026-04-20T16:03:52Z",
-      "views": 102,
+      "views": 103,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "5tyiTUVNJs0",
       "title": "TVK 2026 தேர்தல் வியூகம் மற்றும் அறிக்கை பகுப்பாய்வு #tvk2026  #தமிழகதேர்தல் #தேர்தல்வியூகம்",
       "published_at": "2026-04-20T16:03:52Z",
-      "views": 102,
+      "views": 103,
       "likes": 0,
       "comments": 0
     },
