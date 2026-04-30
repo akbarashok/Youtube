@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T08:07:06.200864+00:00",
+  "generated_at": "2026-04-30T13:24:11.195213+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,11 +13,11 @@
     "total_channel_videos": 760,
     "total_channel_views": 141545,
     "videos_analyzed": 10,
-    "recent_total_views": 2490,
-    "recent_total_likes": 8,
+    "recent_total_views": 2421,
+    "recent_total_likes": 5,
     "recent_total_comments": 0,
-    "average_views_per_video": 249.0,
-    "average_likes_per_video": 0.8,
+    "average_views_per_video": 242.1,
+    "average_likes_per_video": 0.5,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 186.24
   },
@@ -55,20 +55,28 @@
       "comments": 0
     },
     {
-      "video_id": "HCTRdsz2A7A",
-      "title": "சிலுவைப்போர் அரசுகளின் வீழ்ச்சியும் அதிகார அரசியலும் #சிலுவைப்போர் #வரலாறு #noolisam",
-      "published_at": "2026-04-18T09:00:21Z",
-      "views": 72,
-      "likes": 3,
+      "video_id": "NIYrV-5AHys",
+      "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
+      "published_at": "2026-04-21T09:00:34Z",
+      "views": 53,
+      "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "wwodYkiFzJs",
+      "title": "பெர்னார்ட்டின் பேச்சும் இரண்டாம் சிலுவைப் போரின் வீழ்ச்சியும் #வரலாறு #சிலுவைப்_போர் #Noolisam",
+      "published_at": "2026-04-30T09:01:30Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "rM6GDzkgOh8",
       "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
       "published_at": "2026-04-27T09:01:09Z",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +84,7 @@
       "video_id": "uEetHtjQfck",
       "title": "எடெஸ்ஸா வீழ்ச்சியும் இரண்டாம் சிலுவைப் போர் தோல்வியும் #எடெஸ்ஸா #இரண்டாம்சிலுவைப்போர் #Noolisam",
       "published_at": "2026-04-24T09:01:30Z",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -135,19 +143,11 @@
       "views": 1232,
       "likes": 4,
       "comments": 0
-    },
-    {
-      "video_id": "HCTRdsz2A7A",
-      "title": "சிலுவைப்போர் அரசுகளின் வீழ்ச்சியும் அதிகார அரசியலும் #சிலுவைப்போர் #வரலாறு #noolisam",
-      "published_at": "2026-04-18T09:00:21Z",
-      "views": 72,
-      "likes": 3,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'Why Nations Fight Over Profit #geopolitics #historical' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'பெர்னார்ட்டின் பேச்சும் இரண்டாம் சிலுவைப் போரின் வீழ்ச்சியும் #வரலாறு #சிலுவைப்_போர் #Noolisam' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
