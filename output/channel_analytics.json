@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-30T02:08:05.565411+00:00",
+  "generated_at": "2026-04-30T08:07:06.200864+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 760,
-    "view_count": 141536
+    "view_count": 141545
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 760,
-    "total_channel_views": 141536,
+    "total_channel_views": 141545,
     "videos_analyzed": 10,
-    "recent_total_views": 2486,
+    "recent_total_views": 2490,
     "recent_total_likes": 8,
     "recent_total_comments": 0,
-    "average_views_per_video": 248.6,
+    "average_views_per_video": 249.0,
     "average_likes_per_video": 0.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.23
+    "average_channel_views_per_video": 186.24
   },
   "top_videos": [
     {
@@ -68,7 +68,7 @@
       "video_id": "rM6GDzkgOh8",
       "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
       "published_at": "2026-04-27T09:01:09Z",
-      "views": 19,
+      "views": 23,
       "likes": 0,
       "comments": 0
     },
