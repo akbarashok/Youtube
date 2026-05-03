@@ -1,35 +1,27 @@
 {
-  "generated_at": "2026-05-03T07:49:48.488978+00:00",
+  "generated_at": "2026-05-03T12:51:28.865252+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
-    "video_count": 761,
+    "video_count": 762,
     "view_count": 141593
   },
   "summary": {
     "total_channel_subscribers": 327,
-    "total_channel_videos": 761,
+    "total_channel_videos": 762,
     "total_channel_views": 141593,
     "videos_analyzed": 10,
-    "recent_total_views": 2450,
-    "recent_total_likes": 5,
+    "recent_total_views": 1218,
+    "recent_total_likes": 1,
     "recent_total_comments": 0,
-    "average_views_per_video": 245.0,
-    "average_likes_per_video": 0.5,
+    "average_views_per_video": 121.8,
+    "average_likes_per_video": 0.1,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.06
+    "average_channel_views_per_video": 185.82
   },
   "top_videos": [
-    {
-      "video_id": "YC6VmpAG6-s",
-      "title": "Why Nations Fight Over Profit #geopolitics #historical",
-      "published_at": "2026-04-20T05:27:52Z",
-      "views": 1232,
-      "likes": 4,
-      "comments": 0
-    },
     {
       "video_id": "Ff8kRezlDeQ",
       "title": "அதிகாரப் போராட்டத்தின் ரகசியங்கள் #power #struggle",
@@ -61,9 +53,25 @@
       "views": 53,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "m5uEW6dMe94",
+      "title": "மனிதாதாரம் பொய் என்பதை நிரூபிக்கும் வரலாற்று சான்றுகள் #proof #analysis",
+      "published_at": "2026-04-20T05:27:56Z",
+      "views": 51,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "YL-NmZMl9NQ",
+      "title": "இரண்டாம் சிலுவைப் போரின் வரலாற்றுப் படுதோல்வி #வரலாறு #சிலுவைப்போர் #Noolisam",
+      "published_at": "2026-05-03T09:00:43Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "wwodYkiFzJs",
       "title": "பெர்னார்ட்டின் பேச்சும் இரண்டாம் சிலுவைப் போரின் வீழ்ச்சியும் #வரலாறு #சிலுவைப்_போர் #Noolisam",
@@ -135,19 +143,11 @@
       "views": 51,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "YC6VmpAG6-s",
-      "title": "Why Nations Fight Over Profit #geopolitics #historical",
-      "published_at": "2026-04-20T05:27:52Z",
-      "views": 1232,
-      "likes": 4,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'Why Nations Fight Over Profit #geopolitics #historical' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'பெர்னார்ட்டின் பேச்சும் இரண்டாம் சிலுவைப் போரின் வீழ்ச்சியும் #வரலாறு #சிலுவைப்_போர் #Noolisam' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'அதிகாரப் போராட்டத்தின் ரகசியங்கள் #power #struggle' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'இரண்டாம் சிலுவைப் போரின் வரலாற்றுப் படுதோல்வி #வரலாறு #சிலுவைப்போர் #Noolisam' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
