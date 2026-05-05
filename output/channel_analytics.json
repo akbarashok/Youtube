@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-05T13:18:38.465069+00:00",
+  "generated_at": "2026-05-05T19:07:19.880981+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 762,
-    "view_count": 141598
+    "view_count": 141605
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 762,
-    "total_channel_views": 141598,
+    "total_channel_views": 141605,
     "videos_analyzed": 10,
-    "recent_total_views": 1223,
+    "recent_total_views": 1224,
     "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 122.3,
+    "average_views_per_video": 122.4,
     "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.82
+    "average_channel_views_per_video": 185.83
   },
   "top_videos": [
     {
@@ -50,7 +50,7 @@
       "video_id": "NIYrV-5AHys",
       "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-04-21T09:00:34Z",
-      "views": 53,
+      "views": 54,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "NIYrV-5AHys",
       "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-04-21T09:00:34Z",
-      "views": 53,
+      "views": 54,
       "likes": 0,
       "comments": 0
     },
