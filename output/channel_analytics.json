@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-06T08:10:40.424777+00:00",
+  "generated_at": "2026-05-06T13:48:24.911658+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
-    "video_count": 762,
+    "video_count": 763,
     "view_count": 141614
   },
   "summary": {
     "total_channel_subscribers": 327,
-    "total_channel_videos": 762,
+    "total_channel_videos": 763,
     "total_channel_views": 141614,
     "videos_analyzed": 10,
-    "recent_total_views": 1232,
+    "recent_total_views": 1183,
     "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 123.2,
+    "average_views_per_video": 118.3,
     "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.85
+    "average_channel_views_per_video": 185.6
   },
   "top_videos": [
     {
@@ -50,20 +50,28 @@
       "video_id": "NIYrV-5AHys",
       "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-04-21T09:00:34Z",
-      "views": 58,
+      "views": 60,
       "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "m5uEW6dMe94",
-      "title": "மனிதாதாரம் பொய் என்பதை நிரூபிக்கும் வரலாற்று சான்றுகள் #proof #analysis",
-      "published_at": "2026-04-20T05:27:56Z",
-      "views": 51,
+      "video_id": "rM6GDzkgOh8",
+      "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
+      "published_at": "2026-04-27T09:01:09Z",
+      "views": 48,
       "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "YhvMVBVeyHI",
+      "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
+      "published_at": "2026-05-06T09:00:55Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "YL-NmZMl9NQ",
       "title": "இரண்டாம் சிலுவைப் போரின் வரலாற்றுப் படுதோல்வி #வரலாறு #சிலுவைப்போர் #Noolisam",
@@ -116,7 +124,7 @@
       "video_id": "NIYrV-5AHys",
       "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-04-21T09:00:34Z",
-      "views": 58,
+      "views": 60,
       "likes": 0,
       "comments": 0
     },
@@ -135,19 +143,11 @@
       "views": 780,
       "likes": 1,
       "comments": 0
-    },
-    {
-      "video_id": "m5uEW6dMe94",
-      "title": "மனிதாதாரம் பொய் என்பதை நிரூபிக்கும் வரலாற்று சான்றுகள் #proof #analysis",
-      "published_at": "2026-04-20T05:27:56Z",
-      "views": 51,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'அதிகாரப் போராட்டத்தின் ரகசியங்கள் #power #struggle' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'இரண்டாம் சிலுவைப் போரின் வரலாற்றுப் படுதோல்வி #வரலாறு #சிலுவைப்போர் #Noolisam' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
