@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-07T02:05:23.518692+00:00",
+  "generated_at": "2026-05-07T08:19:48.967707+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 763,
-    "view_count": 141614
+    "view_count": 141627
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 763,
-    "total_channel_views": 141614,
+    "total_channel_views": 141627,
     "videos_analyzed": 10,
-    "recent_total_views": 1189,
-    "recent_total_likes": 2,
+    "recent_total_views": 1190,
+    "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 118.9,
-    "average_likes_per_video": 0.2,
+    "average_views_per_video": 119.0,
+    "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.6
+    "average_channel_views_per_video": 185.62
   },
   "top_videos": [
     {
@@ -68,8 +68,8 @@
       "video_id": "YhvMVBVeyHI",
       "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-05-06T09:00:55Z",
-      "views": 0,
-      "likes": 0,
+      "views": 1,
+      "likes": 1,
       "comments": 0
     },
     {
