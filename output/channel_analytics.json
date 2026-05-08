@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-07T19:28:10.069976+00:00",
+  "generated_at": "2026-05-08T02:12:21.132980+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 763,
-    "view_count": 141627
+    "view_count": 141634
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 763,
-    "total_channel_views": 141627,
+    "total_channel_views": 141634,
     "videos_analyzed": 10,
-    "recent_total_views": 1192,
+    "recent_total_views": 1194,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 119.2,
+    "average_views_per_video": 119.4,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.62
+    "average_channel_views_per_video": 185.63
   },
   "top_videos": [
     {
@@ -68,7 +68,7 @@
       "video_id": "YhvMVBVeyHI",
       "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-05-06T09:00:55Z",
-      "views": 3,
+      "views": 4,
       "likes": 1,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "wwodYkiFzJs",
       "title": "பெர்னார்ட்டின் பேச்சும் இரண்டாம் சிலுவைப் போரின் வீழ்ச்சியும் #வரலாறு #சிலுவைப்_போர் #Noolisam",
       "published_at": "2026-04-30T09:01:30Z",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
