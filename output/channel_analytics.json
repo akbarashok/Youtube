@@ -1,35 +1,27 @@
 {
-  "generated_at": "2026-05-09T07:44:50.164083+00:00",
+  "generated_at": "2026-05-09T12:57:25.218427+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
-    "video_count": 763,
-    "view_count": 141641
+    "video_count": 764,
+    "view_count": 141648
   },
   "summary": {
     "total_channel_subscribers": 327,
-    "total_channel_videos": 763,
-    "total_channel_views": 141641,
+    "total_channel_videos": 764,
+    "total_channel_views": 141648,
     "videos_analyzed": 10,
-    "recent_total_views": 1208,
-    "recent_total_likes": 3,
+    "recent_total_views": 428,
+    "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 120.8,
-    "average_likes_per_video": 0.3,
+    "average_views_per_video": 42.8,
+    "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.64
+    "average_channel_views_per_video": 185.4
   },
   "top_videos": [
-    {
-      "video_id": "Ff8kRezlDeQ",
-      "title": "அதிகாரப் போராட்டத்தின் ரகசியங்கள் #power #struggle",
-      "published_at": "2026-04-20T05:28:10Z",
-      "views": 780,
-      "likes": 1,
-      "comments": 0
-    },
     {
       "video_id": "aVLe1d6RJzY",
       "title": "How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts",
@@ -61,9 +53,25 @@
       "views": 49,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "vyIZcCdO3B0",
+      "title": "The Crusades weren't what you think #history #education #shorts",
+      "published_at": "2026-04-24T05:31:48Z",
+      "views": 28,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "1CetxbHvFko",
+      "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
+      "published_at": "2026-05-09T09:00:02Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "YhvMVBVeyHI",
       "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
@@ -135,19 +143,11 @@
       "views": 104,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "Ff8kRezlDeQ",
-      "title": "அதிகாரப் போராட்டத்தின் ரகசியங்கள் #power #struggle",
-      "published_at": "2026-04-20T05:28:10Z",
-      "views": 780,
-      "likes": 1,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'அதிகாரப் போராட்டத்தின் ரகசியங்கள் #power #struggle' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
