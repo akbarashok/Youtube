@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-08T19:06:14.050029+00:00",
+  "generated_at": "2026-05-09T02:06:19.146202+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 763,
-    "view_count": 141634
+    "view_count": 141641
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 763,
-    "total_channel_views": 141634,
+    "total_channel_views": 141641,
     "videos_analyzed": 10,
-    "recent_total_views": 1200,
+    "recent_total_views": 1205,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 120.0,
+    "average_views_per_video": 120.5,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.63
+    "average_channel_views_per_video": 185.64
   },
   "top_videos": [
     {
@@ -58,7 +58,7 @@
       "video_id": "rM6GDzkgOh8",
       "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
       "published_at": "2026-04-27T09:01:09Z",
-      "views": 48,
+      "views": 49,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "YhvMVBVeyHI",
       "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-05-06T09:00:55Z",
-      "views": 8,
+      "views": 10,
       "likes": 1,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "wwodYkiFzJs",
       "title": "பெர்னார்ட்டின் பேச்சும் இரண்டாம் சிலுவைப் போரின் வீழ்ச்சியும் #வரலாறு #சிலுவைப்_போர் #Noolisam",
       "published_at": "2026-04-30T09:01:30Z",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "rM6GDzkgOh8",
       "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
       "published_at": "2026-04-27T09:01:09Z",
-      "views": 48,
+      "views": 49,
       "likes": 0,
       "comments": 0
     },
