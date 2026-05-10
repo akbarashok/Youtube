@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-05-10T07:58:43.686338+00:00",
+  "generated_at": "2026-05-10T12:59:15.756537+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 764,
-    "view_count": 141654
+    "view_count": 141657
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 764,
-    "total_channel_views": 141654,
+    "total_channel_views": 141657,
     "videos_analyzed": 10,
-    "recent_total_views": 433,
+    "recent_total_views": 440,
     "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 43.3,
+    "average_views_per_video": 44.0,
     "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 185.41
@@ -68,7 +68,7 @@
       "video_id": "1CetxbHvFko",
       "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
       "published_at": "2026-05-09T09:00:02Z",
-      "views": 2,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "YhvMVBVeyHI",
       "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-05-06T09:00:55Z",
-      "views": 13,
+      "views": 14,
       "likes": 1,
       "comments": 0
     },
