@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-12T08:28:19.226769+00:00",
+  "generated_at": "2026-05-12T13:59:41.525695+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
-    "video_count": 764,
+    "video_count": 765,
     "view_count": 141689
   },
   "summary": {
     "total_channel_subscribers": 327,
-    "total_channel_videos": 764,
+    "total_channel_videos": 765,
     "total_channel_views": 141689,
     "videos_analyzed": 10,
-    "recent_total_views": 458,
+    "recent_total_views": 357,
     "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 45.8,
+    "average_views_per_video": 35.7,
     "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.46
+    "average_channel_views_per_video": 185.21
   },
   "top_videos": [
     {
@@ -27,14 +27,6 @@
       "title": "How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts",
       "published_at": "2026-04-24T05:32:16Z",
       "views": 142,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "5tyiTUVNJs0",
-      "title": "TVK 2026 தேர்தல் வியூகம் மற்றும் அறிக்கை பகுப்பாய்வு #tvk2026  #தமிழகதேர்தல் #தேர்தல்வியூகம்",
-      "published_at": "2026-04-20T16:03:52Z",
-      "views": 104,
       "likes": 0,
       "comments": 0
     },
@@ -61,14 +53,30 @@
       "views": 28,
       "likes": 0,
       "comments": 0
-    }
-  ],
-  "recent_videos": [
+    },
     {
       "video_id": "1CetxbHvFko",
       "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
       "published_at": "2026-05-09T09:00:02Z",
-      "views": 20,
+      "views": 21,
+      "likes": 0,
+      "comments": 0
+    }
+  ],
+  "recent_videos": [
+    {
+      "video_id": "qs4R0clDOKY",
+      "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
+      "published_at": "2026-05-12T09:01:07Z",
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "1CetxbHvFko",
+      "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
+      "published_at": "2026-05-09T09:00:02Z",
+      "views": 21,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +84,7 @@
       "video_id": "YhvMVBVeyHI",
       "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-05-06T09:00:55Z",
-      "views": 16,
+      "views": 17,
       "likes": 1,
       "comments": 0
     },
@@ -135,19 +143,11 @@
       "views": 65,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "5tyiTUVNJs0",
-      "title": "TVK 2026 தேர்தல் வியூகம் மற்றும் அறிக்கை பகுப்பாய்வு #tvk2026  #தமிழகதேர்தல் #தேர்தல்வியூகம்",
-      "published_at": "2026-04-20T16:03:52Z",
-      "views": 104,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
