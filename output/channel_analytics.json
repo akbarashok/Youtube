@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-11T19:28:50.780156+00:00",
+  "generated_at": "2026-05-12T02:11:19.484137+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 327,
     "video_count": 764,
-    "view_count": 141681
+    "view_count": 141689
   },
   "summary": {
     "total_channel_subscribers": 327,
     "total_channel_videos": 764,
-    "total_channel_views": 141681,
+    "total_channel_views": 141689,
     "videos_analyzed": 10,
-    "recent_total_views": 457,
+    "recent_total_views": 458,
     "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 45.7,
+    "average_views_per_video": 45.8,
     "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.45
+    "average_channel_views_per_video": 185.46
   },
   "top_videos": [
     {
@@ -68,7 +68,7 @@
       "video_id": "1CetxbHvFko",
       "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
       "published_at": "2026-05-09T09:00:02Z",
-      "views": 19,
+      "views": 20,
       "likes": 0,
       "comments": 0
     },
