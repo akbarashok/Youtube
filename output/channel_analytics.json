@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-13T14:10:08.273591+00:00",
+  "generated_at": "2026-05-13T19:42:37.335908+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 328,
     "video_count": 765,
-    "view_count": 141706
+    "view_count": 141718
   },
   "summary": {
     "total_channel_subscribers": 328,
     "total_channel_videos": 765,
-    "total_channel_views": 141706,
+    "total_channel_views": 141718,
     "videos_analyzed": 10,
-    "recent_total_views": 376,
+    "recent_total_views": 379,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 37.6,
+    "average_views_per_video": 37.9,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.24
+    "average_channel_views_per_video": 185.25
   },
   "top_videos": [
     {
@@ -68,7 +68,7 @@
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
-      "views": 14,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
