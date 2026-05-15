@@ -1,33 +1,49 @@
 {
-  "generated_at": "2026-05-15T13:46:09.930741+00:00",
+  "generated_at": "2026-05-15T19:19:31.710895+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 328,
-    "video_count": 766,
+    "subscriber_count": 330,
+    "video_count": 769,
     "view_count": 141744
   },
   "summary": {
-    "total_channel_subscribers": 328,
-    "total_channel_videos": 766,
+    "total_channel_subscribers": 330,
+    "total_channel_videos": 769,
     "total_channel_views": 141744,
     "videos_analyzed": 10,
-    "recent_total_views": 332,
-    "recent_total_likes": 3,
+    "recent_total_views": 1698,
+    "recent_total_likes": 15,
     "recent_total_comments": 0,
-    "average_views_per_video": 33.2,
-    "average_likes_per_video": 0.3,
+    "average_views_per_video": 169.8,
+    "average_likes_per_video": 1.5,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.04
+    "average_channel_views_per_video": 184.32
   },
   "top_videos": [
     {
-      "video_id": "aVLe1d6RJzY",
-      "title": "How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts",
-      "published_at": "2026-04-24T05:32:16Z",
-      "views": 143,
+      "video_id": "JM3kUZ_iuPQ",
+      "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
+      "published_at": "2026-05-15T14:26:33Z",
+      "views": 704,
+      "likes": 11,
+      "comments": 0
+    },
+    {
+      "video_id": "iCOvjASCMfU",
+      "title": "டிஜிட்டல் இடைவெளி: விவசாயிகள் எதிர்கொள்ளும் சவால்கள்!",
+      "published_at": "2026-05-15T14:26:42Z",
+      "views": 431,
       "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "oYPRqr-leAw",
+      "title": "AI அமைச்சகம்: சாமான்ய மக்களுக்கு என்ன லாபம்?",
+      "published_at": "2026-05-15T14:26:51Z",
+      "views": 419,
+      "likes": 1,
       "comments": 0
     },
     {
@@ -45,25 +61,33 @@
       "views": 28,
       "likes": 1,
       "comments": 0
-    },
-    {
-      "video_id": "vyIZcCdO3B0",
-      "title": "The Crusades weren't what you think #history #education #shorts",
-      "published_at": "2026-04-24T05:31:48Z",
-      "views": 28,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "qs4R0clDOKY",
-      "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
-      "published_at": "2026-05-12T09:01:07Z",
-      "views": 26,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "oYPRqr-leAw",
+      "title": "AI அமைச்சகம்: சாமான்ய மக்களுக்கு என்ன லாபம்?",
+      "published_at": "2026-05-15T14:26:51Z",
+      "views": 419,
+      "likes": 1,
+      "comments": 0
+    },
+    {
+      "video_id": "iCOvjASCMfU",
+      "title": "டிஜிட்டல் இடைவெளி: விவசாயிகள் எதிர்கொள்ளும் சவால்கள்!",
+      "published_at": "2026-05-15T14:26:42Z",
+      "views": 431,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "JM3kUZ_iuPQ",
+      "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
+      "published_at": "2026-05-15T14:26:33Z",
+      "views": 704,
+      "likes": 11,
+      "comments": 0
+    },
     {
       "video_id": "wYOy3OxKe00",
       "title": "இரும்புக் கவசத்தை மரணப் பொறியாக மாற்றிய சலாதீன் #சலாதீன் #வரலாறு #போர்த்தந்திரங்கள்",
@@ -76,7 +100,7 @@
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 0
     },
@@ -119,35 +143,10 @@
       "views": 49,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "uEetHtjQfck",
-      "title": "எடெஸ்ஸா வீழ்ச்சியும் இரண்டாம் சிலுவைப் போர் தோல்வியும் #எடெஸ்ஸா #இரண்டாம்சிலுவைப்போர் #Noolisam",
-      "published_at": "2026-04-24T09:01:30Z",
-      "views": 18,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "aVLe1d6RJzY",
-      "title": "How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts",
-      "published_at": "2026-04-24T05:32:16Z",
-      "views": 143,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "vyIZcCdO3B0",
-      "title": "The Crusades weren't what you think #history #education #shorts",
-      "published_at": "2026-04-24T05:31:48Z",
-      "views": 28,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'இரும்புக் கவசத்தை மரணப் பொறியாக மாற்றிய சலாதீன் #சலாதீன் #வரலாறு #போர்த்தந்திரங்கள்' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!' because it is outperforming the recent channel average.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
