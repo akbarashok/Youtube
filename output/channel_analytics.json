@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-15T08:40:23.675881+00:00",
+  "generated_at": "2026-05-15T13:46:09.930741+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 328,
-    "video_count": 765,
+    "video_count": 766,
     "view_count": 141744
   },
   "summary": {
     "total_channel_subscribers": 328,
-    "total_channel_videos": 765,
+    "total_channel_videos": 766,
     "total_channel_views": 141744,
     "videos_analyzed": 10,
-    "recent_total_views": 395,
+    "recent_total_views": 332,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 39.5,
+    "average_views_per_video": 33.2,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.29
+    "average_channel_views_per_video": 185.04
   },
   "top_videos": [
     {
@@ -31,19 +31,19 @@
       "comments": 0
     },
     {
-      "video_id": "NIYrV-5AHys",
-      "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
-      "published_at": "2026-04-21T09:00:34Z",
-      "views": 65,
-      "likes": 0,
-      "comments": 0
-    },
-    {
       "video_id": "rM6GDzkgOh8",
       "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
       "published_at": "2026-04-27T09:01:09Z",
       "views": 49,
       "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "1CetxbHvFko",
+      "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
+      "published_at": "2026-05-09T09:00:02Z",
+      "views": 28,
+      "likes": 1,
       "comments": 0
     },
     {
@@ -65,6 +65,14 @@
   ],
   "recent_videos": [
     {
+      "video_id": "wYOy3OxKe00",
+      "title": "இரும்புக் கவசத்தை மரணப் பொறியாக மாற்றிய சலாதீன் #சலாதீன் #வரலாறு #போர்த்தந்திரங்கள்",
+      "published_at": "2026-05-15T09:01:27Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
@@ -76,7 +84,7 @@
       "video_id": "1CetxbHvFko",
       "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
       "published_at": "2026-05-09T09:00:02Z",
-      "views": 26,
+      "views": 28,
       "likes": 1,
       "comments": 0
     },
@@ -135,19 +143,11 @@
       "views": 28,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "NIYrV-5AHys",
-      "title": "சிலுவைப் போரின் வியக்கத்தக்க வாழ்வியல் ரகசியங்கள் #சிலுவைப்போர் #வரலாறு #Noolisam",
-      "published_at": "2026-04-21T09:00:34Z",
-      "views": 65,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'How Refusing Power Actually Gave Him More Control #politicalstrategy #shorts' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'இரும்புக் கவசத்தை மரணப் பொறியாக மாற்றிய சலாதீன் #சலாதீன் #வரலாறு #போர்த்தந்திரங்கள்' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
