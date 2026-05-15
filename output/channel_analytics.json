@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-15T02:26:46.361931+00:00",
+  "generated_at": "2026-05-15T08:40:23.675881+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 328,
     "video_count": 765,
-    "view_count": 141731
+    "view_count": 141744
   },
   "summary": {
     "total_channel_subscribers": 328,
     "total_channel_videos": 765,
-    "total_channel_views": 141731,
+    "total_channel_views": 141744,
     "videos_analyzed": 10,
-    "recent_total_views": 391,
+    "recent_total_views": 395,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 39.1,
+    "average_views_per_video": 39.5,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.27
+    "average_channel_views_per_video": 185.29
   },
   "top_videos": [
     {
@@ -55,11 +55,11 @@
       "comments": 0
     },
     {
-      "video_id": "1CetxbHvFko",
-      "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
-      "published_at": "2026-05-09T09:00:02Z",
+      "video_id": "qs4R0clDOKY",
+      "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
+      "published_at": "2026-05-12T09:01:07Z",
       "views": 26,
-      "likes": 1,
+      "likes": 0,
       "comments": 0
     }
   ],
@@ -68,7 +68,7 @@
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
-      "views": 23,
+      "views": 26,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "YhvMVBVeyHI",
       "title": "அனடோலியாவில் சிதைந்த இரண்டாம் சிலுவைப் போர் #சிலுவைப்போர் #வரலாறு #Noolisam",
       "published_at": "2026-05-06T09:00:55Z",
-      "views": 23,
+      "views": 24,
       "likes": 1,
       "comments": 0
     },
