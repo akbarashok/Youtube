@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-05-15T19:19:31.710895+00:00",
+  "generated_at": "2026-05-16T02:08:56.608618+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 330,
+    "subscriber_count": 329,
     "video_count": 769,
-    "view_count": 141744
+    "view_count": 141752
   },
   "summary": {
-    "total_channel_subscribers": 330,
+    "total_channel_subscribers": 329,
     "total_channel_videos": 769,
-    "total_channel_views": 141744,
+    "total_channel_views": 141752,
     "videos_analyzed": 10,
-    "recent_total_views": 1698,
-    "recent_total_likes": 15,
+    "recent_total_views": 2034,
+    "recent_total_likes": 12,
     "recent_total_comments": 0,
-    "average_views_per_video": 169.8,
-    "average_likes_per_video": 1.5,
+    "average_views_per_video": 203.4,
+    "average_likes_per_video": 1.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 184.32
+    "average_channel_views_per_video": 184.33
   },
   "top_videos": [
     {
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 704,
-      "likes": 11,
+      "views": 1036,
+      "likes": 8,
       "comments": 0
     },
     {
       "video_id": "iCOvjASCMfU",
       "title": "டிஜிட்டல் இடைவெளி: விவசாயிகள் எதிர்கொள்ளும் சவால்கள்!",
       "published_at": "2026-05-15T14:26:42Z",
-      "views": 431,
+      "views": 434,
       "likes": 0,
       "comments": 0
     },
@@ -55,11 +55,11 @@
       "comments": 0
     },
     {
-      "video_id": "1CetxbHvFko",
-      "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
-      "published_at": "2026-05-09T09:00:02Z",
+      "video_id": "qs4R0clDOKY",
+      "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
+      "published_at": "2026-05-12T09:01:07Z",
       "views": 28,
-      "likes": 1,
+      "likes": 0,
       "comments": 0
     }
   ],
@@ -76,7 +76,7 @@
       "video_id": "iCOvjASCMfU",
       "title": "டிஜிட்டல் இடைவெளி: விவசாயிகள் எதிர்கொள்ளும் சவால்கள்!",
       "published_at": "2026-05-15T14:26:42Z",
-      "views": 431,
+      "views": 434,
       "likes": 0,
       "comments": 0
     },
@@ -84,8 +84,8 @@
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 704,
-      "likes": 11,
+      "views": 1036,
+      "likes": 8,
       "comments": 0
     },
     {
@@ -100,7 +100,7 @@
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
-      "views": 27,
+      "views": 28,
       "likes": 0,
       "comments": 0
     },
