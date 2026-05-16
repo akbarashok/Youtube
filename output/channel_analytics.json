@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-05-16T13:02:29.013438+00:00",
+  "generated_at": "2026-05-16T18:52:21.479663+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 329,
     "video_count": 769,
-    "view_count": 141755
+    "view_count": 143662
   },
   "summary": {
     "total_channel_subscribers": 329,
     "total_channel_videos": 769,
-    "total_channel_views": 141755,
+    "total_channel_views": 143662,
     "videos_analyzed": 10,
-    "recent_total_views": 2049,
-    "recent_total_likes": 13,
+    "recent_total_views": 2102,
+    "recent_total_likes": 16,
     "recent_total_comments": 0,
-    "average_views_per_video": 204.9,
-    "average_likes_per_video": 1.3,
+    "average_views_per_video": 210.2,
+    "average_likes_per_video": 1.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 184.34
+    "average_channel_views_per_video": 186.82
   },
   "top_videos": [
     {
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 1044,
-      "likes": 9,
+      "views": 1088,
+      "likes": 12,
       "comments": 0
     },
     {
       "video_id": "iCOvjASCMfU",
       "title": "டிஜிட்டல் இடைவெளி: விவசாயிகள் எதிர்கொள்ளும் சவால்கள்!",
       "published_at": "2026-05-15T14:26:42Z",
-      "views": 435,
+      "views": 434,
       "likes": 0,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "oYPRqr-leAw",
       "title": "AI அமைச்சகம்: சாமான்ய மக்களுக்கு என்ன லாபம்?",
       "published_at": "2026-05-15T14:26:51Z",
-      "views": 419,
+      "views": 418,
       "likes": 1,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
-      "views": 33,
+      "views": 35,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "oYPRqr-leAw",
       "title": "AI அமைச்சகம்: சாமான்ய மக்களுக்கு என்ன லாபம்?",
       "published_at": "2026-05-15T14:26:51Z",
-      "views": 419,
+      "views": 418,
       "likes": 1,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "iCOvjASCMfU",
       "title": "டிஜிட்டல் இடைவெளி: விவசாயிகள் எதிர்கொள்ளும் சவால்கள்!",
       "published_at": "2026-05-15T14:26:42Z",
-      "views": 435,
+      "views": 434,
       "likes": 0,
       "comments": 0
     },
@@ -84,15 +84,15 @@
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 1044,
-      "likes": 9,
+      "views": 1088,
+      "likes": 12,
       "comments": 0
     },
     {
       "video_id": "wYOy3OxKe00",
       "title": "இரும்புக் கவசத்தை மரணப் பொறியாக மாற்றிய சலாதீன் #சலாதீன் #வரலாறு #போர்த்தந்திரங்கள்",
       "published_at": "2026-05-15T09:01:27Z",
-      "views": 1,
+      "views": 10,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
-      "views": 33,
+      "views": 35,
       "likes": 0,
       "comments": 0
     },
