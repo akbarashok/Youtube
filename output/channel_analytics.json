@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-17T02:13:33.039633+00:00",
+  "generated_at": "2026-05-17T08:11:17.621166+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 329,
-    "video_count": 769,
-    "view_count": 143662
+    "subscriber_count": 330,
+    "video_count": 771,
+    "view_count": 143751
   },
   "summary": {
-    "total_channel_subscribers": 329,
-    "total_channel_videos": 769,
-    "total_channel_views": 143662,
+    "total_channel_subscribers": 330,
+    "total_channel_videos": 771,
+    "total_channel_views": 143751,
     "videos_analyzed": 10,
-    "recent_total_views": 2158,
-    "recent_total_likes": 16,
+    "recent_total_views": 2434,
+    "recent_total_likes": 17,
     "recent_total_comments": 0,
-    "average_views_per_video": 215.8,
-    "average_likes_per_video": 1.6,
+    "average_views_per_video": 243.4,
+    "average_likes_per_video": 1.7,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.82
+    "average_channel_views_per_video": 186.45
   },
   "top_videos": [
     {
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 1139,
+      "views": 1179,
       "likes": 12,
       "comments": 0
     },
@@ -47,23 +47,47 @@
       "comments": 0
     },
     {
-      "video_id": "rM6GDzkgOh8",
-      "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
-      "published_at": "2026-04-27T09:01:09Z",
-      "views": 49,
-      "likes": 0,
+      "video_id": "gXEVAfWX9V8",
+      "title": "இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?",
+      "published_at": "2026-05-17T05:09:49Z",
+      "views": 112,
+      "likes": 2,
       "comments": 0
     },
     {
-      "video_id": "qs4R0clDOKY",
-      "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
-      "published_at": "2026-05-12T09:01:07Z",
-      "views": 36,
+      "video_id": "8xWr-wvknC0",
+      "title": "கரும்பு MSP: தனியார் ஆலைகளின் அநீதி!",
+      "published_at": "2026-05-17T05:09:39Z",
+      "views": 94,
       "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "gXEVAfWX9V8",
+      "title": "இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?",
+      "published_at": "2026-05-17T05:09:49Z",
+      "views": 112,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "-EQ9yuHCM7Y",
+      "title": "4G இல்லாத கிராமத்தில் AI சேவை எப்படி?",
+      "published_at": "2026-05-17T05:09:42Z",
+      "views": 93,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "8xWr-wvknC0",
+      "title": "கரும்பு MSP: தனியார் ஆலைகளின் அநீதி!",
+      "published_at": "2026-05-17T05:09:39Z",
+      "views": 94,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "oYPRqr-leAw",
       "title": "AI அமைச்சகம்: சாமான்ய மக்களுக்கு என்ன லாபம்?",
@@ -84,7 +108,7 @@
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 1139,
+      "views": 1179,
       "likes": 12,
       "comments": 0
     },
@@ -100,7 +124,7 @@
       "video_id": "qs4R0clDOKY",
       "title": "சலாதீனின் ராஜதந்திரம் ஏன் இவ்வளவு பயனுள்ளதாக இருந்தது? #சலாதீன் #சிலுவைப்போர்கள் #வரலாறு #noolisam ",
       "published_at": "2026-05-12T09:01:07Z",
-      "views": 36,
+      "views": 37,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +132,7 @@
       "video_id": "1CetxbHvFko",
       "title": "சலாடினின் எழுச்சி: டமாஸ்கஸ் முற்றுகையின் தோல்வி ரகசியம் #சலாடின் #வரலாறு #Noolisam",
       "published_at": "2026-05-09T09:00:02Z",
-      "views": 28,
+      "views": 29,
       "likes": 1,
       "comments": 0
     },
@@ -119,34 +143,11 @@
       "views": 24,
       "likes": 1,
       "comments": 0
-    },
-    {
-      "video_id": "YL-NmZMl9NQ",
-      "title": "இரண்டாம் சிலுவைப் போரின் வரலாற்றுப் படுதோல்வி #வரலாறு #சிலுவைப்போர் #Noolisam",
-      "published_at": "2026-05-03T09:00:43Z",
-      "views": 6,
-      "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "wwodYkiFzJs",
-      "title": "பெர்னார்ட்டின் பேச்சும் இரண்டாம் சிலுவைப் போரின் வீழ்ச்சியும் #வரலாறு #சிலுவைப்_போர் #Noolisam",
-      "published_at": "2026-04-30T09:01:30Z",
-      "views": 10,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "rM6GDzkgOh8",
-      "title": "எடெசா வீழ்ச்சியும் ஜெங்கியின் எழுச்சியும் #எடெசா #ஜெங்கிஸ்கான் #Noolisam",
-      "published_at": "2026-04-27T09:01:09Z",
-      "views": 49,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
