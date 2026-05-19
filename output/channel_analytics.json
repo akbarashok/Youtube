@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-18T19:26:59.084110+00:00",
+  "generated_at": "2026-05-19T02:33:06.734905+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 332,
     "video_count": 775,
-    "view_count": 144797
+    "view_count": 145610
   },
   "summary": {
     "total_channel_subscribers": 332,
     "total_channel_videos": 775,
-    "total_channel_views": 144797,
+    "total_channel_views": 145610,
     "videos_analyzed": 10,
-    "recent_total_views": 3808,
+    "recent_total_views": 3815,
     "recent_total_likes": 46,
     "recent_total_comments": 0,
-    "average_views_per_video": 380.8,
+    "average_views_per_video": 381.5,
     "average_likes_per_video": 4.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.83
+    "average_channel_views_per_video": 187.88
   },
   "top_videos": [
     {
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 1278,
+      "views": 1281,
       "likes": 12,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "gXEVAfWX9V8",
       "title": "இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?",
       "published_at": "2026-05-17T05:09:49Z",
-      "views": 990,
+      "views": 991,
       "likes": 33,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "gXEVAfWX9V8",
       "title": "இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?",
       "published_at": "2026-05-17T05:09:49Z",
-      "views": 990,
+      "views": 991,
       "likes": 33,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "JM3kUZ_iuPQ",
       "title": "ஜிஎஸ்டி வருவாய் பற்றாக்குறை: அரசுக்கு சவால்!",
       "published_at": "2026-05-15T14:26:33Z",
-      "views": 1278,
+      "views": 1281,
       "likes": 12,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "wYOy3OxKe00",
       "title": "இரும்புக் கவசத்தை மரணப் பொறியாக மாற்றிய சலாதீன் #சலாதீன் #வரலாறு #போர்த்தந்திரங்கள்",
       "published_at": "2026-05-15T09:01:27Z",
-      "views": 33,
+      "views": 36,
       "likes": 0,
       "comments": 0
     }
