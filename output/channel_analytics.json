@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T02:33:10.608308+00:00",
+  "generated_at": "2026-05-20T08:55:04.261527+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,15 +13,23 @@
     "total_channel_videos": 778,
     "total_channel_views": 145628,
     "videos_analyzed": 10,
-    "recent_total_views": 3627,
-    "recent_total_likes": 82,
+    "recent_total_views": 3867,
+    "recent_total_likes": 89,
     "recent_total_comments": 0,
-    "average_views_per_video": 362.7,
-    "average_likes_per_video": 8.2,
+    "average_views_per_video": 386.7,
+    "average_likes_per_video": 8.9,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 187.18
   },
   "top_videos": [
+    {
+      "video_id": "27KaB83ZSWU",
+      "title": "வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?",
+      "published_at": "2026-05-19T10:59:44Z",
+      "views": 999,
+      "likes": 32,
+      "comments": 0
+    },
     {
       "video_id": "gXEVAfWX9V8",
       "title": "இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?",
@@ -31,26 +39,18 @@
       "comments": 0
     },
     {
-      "video_id": "27KaB83ZSWU",
-      "title": "வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?",
-      "published_at": "2026-05-19T10:59:44Z",
-      "views": 975,
-      "likes": 31,
-      "comments": 0
-    },
-    {
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 656,
-      "likes": 12,
+      "views": 771,
+      "likes": 18,
       "comments": 0
     },
     {
       "video_id": "SWdJw79FHPk",
-      "title": "Stability & Security: Creating a Buffer Zone",
+      "title": "The Feudal Mistake That Almost Destroyed Jerusalem #history #education",
       "published_at": "2026-05-18T11:39:07Z",
-      "views": 382,
+      "views": 384,
       "likes": 0,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "o0swpO2JGpM",
       "title": "AI விவசாயத்திற்கு எப்படி உதவும்?",
       "published_at": "2026-05-19T10:59:37Z",
-      "views": 182,
+      "views": 276,
       "likes": 4,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "X6n2H8EKRBM",
       "title": "2500 ரூபாய் நிதி உதவி: நிஜமா நடக்குமா?",
       "published_at": "2026-05-19T10:59:47Z",
-      "views": 37,
+      "views": 42,
       "likes": 1,
       "comments": 0
     },
@@ -76,23 +76,23 @@
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 656,
-      "likes": 12,
+      "views": 771,
+      "likes": 18,
       "comments": 0
     },
     {
       "video_id": "27KaB83ZSWU",
       "title": "வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?",
       "published_at": "2026-05-19T10:59:44Z",
-      "views": 975,
-      "likes": 31,
+      "views": 999,
+      "likes": 32,
       "comments": 0
     },
     {
       "video_id": "o0swpO2JGpM",
       "title": "AI விவசாயத்திற்கு எப்படி உதவும்?",
       "published_at": "2026-05-19T10:59:37Z",
-      "views": 182,
+      "views": 276,
       "likes": 4,
       "comments": 0
     },
@@ -106,7 +106,7 @@
     },
     {
       "video_id": "XmEdLhZPGao",
-      "title": "Action Point: The Challenge of Strategic Planning",
+      "title": "Creating a Strategic Plan That Drives Results #results #strategy",
       "published_at": "2026-05-18T11:39:15Z",
       "views": 65,
       "likes": 0,
@@ -114,9 +114,9 @@
     },
     {
       "video_id": "SWdJw79FHPk",
-      "title": "Stability & Security: Creating a Buffer Zone",
+      "title": "The Feudal Mistake That Almost Destroyed Jerusalem #history #education",
       "published_at": "2026-05-18T11:39:07Z",
-      "views": 382,
+      "views": 384,
       "likes": 0,
       "comments": 0
     },
@@ -146,7 +146,7 @@
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload '2500 ரூபாய் நிதி உதவி: நிஜமா நடக்குமா?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
