@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T14:39:54.374302+00:00",
+  "generated_at": "2026-05-20T20:03:29.105104+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,11 +13,11 @@
     "total_channel_videos": 778,
     "total_channel_views": 145628,
     "videos_analyzed": 10,
-    "recent_total_views": 4309,
-    "recent_total_likes": 91,
+    "recent_total_views": 4316,
+    "recent_total_likes": 92,
     "recent_total_comments": 0,
-    "average_views_per_video": 430.9,
-    "average_likes_per_video": 9.1,
+    "average_views_per_video": 431.6,
+    "average_likes_per_video": 9.2,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 187.18
   },
@@ -26,7 +26,7 @@
       "video_id": "27KaB83ZSWU",
       "title": "வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?",
       "published_at": "2026-05-19T10:59:44Z",
-      "views": 1023,
+      "views": 1021,
       "likes": 32,
       "comments": 0
     },
@@ -42,8 +42,8 @@
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 964,
-      "likes": 18,
+      "views": 967,
+      "likes": 19,
       "comments": 0
     },
     {
@@ -58,7 +58,7 @@
       "video_id": "SWdJw79FHPk",
       "title": "The Feudal Mistake That Almost Destroyed Jerusalem #history #education",
       "published_at": "2026-05-18T11:39:07Z",
-      "views": 401,
+      "views": 405,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "X6n2H8EKRBM",
       "title": "2500 ரூபாய் நிதி உதவி: நிஜமா நடக்குமா?",
       "published_at": "2026-05-19T10:59:47Z",
-      "views": 47,
+      "views": 49,
       "likes": 1,
       "comments": 0
     },
@@ -76,15 +76,15 @@
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 964,
-      "likes": 18,
+      "views": 967,
+      "likes": 19,
       "comments": 0
     },
     {
       "video_id": "27KaB83ZSWU",
       "title": "வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?",
       "published_at": "2026-05-19T10:59:44Z",
-      "views": 1023,
+      "views": 1021,
       "likes": 32,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "SWdJw79FHPk",
       "title": "The Feudal Mistake That Almost Destroyed Jerusalem #history #education",
       "published_at": "2026-05-18T11:39:07Z",
-      "views": 401,
+      "views": 405,
       "likes": 0,
       "comments": 0
     },
