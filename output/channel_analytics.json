@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-21T02:33:58.920166+00:00",
+  "generated_at": "2026-05-21T08:59:04.889752+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
     "video_count": 782,
-    "view_count": 145628
+    "view_count": 148338
   },
   "summary": {
     "total_channel_subscribers": 343,
     "total_channel_videos": 782,
-    "total_channel_views": 145628,
+    "total_channel_views": 148338,
     "videos_analyzed": 10,
-    "recent_total_views": 3439,
+    "recent_total_views": 3495,
     "recent_total_likes": 60,
     "recent_total_comments": 0,
-    "average_views_per_video": 343.9,
+    "average_views_per_video": 349.5,
     "average_likes_per_video": 6.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.23
+    "average_channel_views_per_video": 189.69
   },
   "top_videos": [
     {
@@ -34,7 +34,7 @@
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 967,
+      "views": 972,
       "likes": 19,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "jtZYbx9Pgh0",
       "title": "Luffy's True Power: Empathy & Pirate Shanties",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 152,
+      "views": 153,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "jtZYbx9Pgh0",
       "title": "Luffy's True Power: Empathy & Pirate Shanties",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 152,
+      "views": 153,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 104,
+      "views": 152,
       "likes": 2,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "X6n2H8EKRBM",
       "title": "2500 ரூபாய் கொடுக்குறாங்க - இது நிஜமா? #election #govtscheme",
       "published_at": "2026-05-19T10:59:47Z",
-      "views": 49,
+      "views": 51,
       "likes": 1,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 967,
+      "views": 972,
       "likes": 19,
       "comments": 0
     },
