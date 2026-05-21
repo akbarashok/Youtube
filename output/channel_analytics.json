@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-21T14:45:54.372167+00:00",
+  "generated_at": "2026-05-21T19:44:15.112212+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
-    "video_count": 783,
+    "video_count": 786,
     "view_count": 148338
   },
   "summary": {
     "total_channel_subscribers": 343,
-    "total_channel_videos": 783,
+    "total_channel_videos": 786,
     "total_channel_views": 148338,
     "videos_analyzed": 10,
-    "recent_total_views": 3101,
-    "recent_total_likes": 61,
+    "recent_total_views": 2433,
+    "recent_total_likes": 56,
     "recent_total_comments": 0,
-    "average_views_per_video": 310.1,
-    "average_likes_per_video": 6.1,
+    "average_views_per_video": 243.3,
+    "average_likes_per_video": 5.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 189.45
+    "average_channel_views_per_video": 188.73
   },
   "top_videos": [
     {
@@ -39,31 +39,55 @@
       "comments": 0
     },
     {
-      "video_id": "o0swpO2JGpM",
-      "title": "AI விவசாயத்திற்கு எப்படி உதவும்?",
-      "published_at": "2026-05-19T10:59:37Z",
-      "views": 475,
-      "likes": 6,
-      "comments": 0
-    },
-    {
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 157,
+      "views": 164,
       "likes": 3,
       "comments": 0
     },
     {
       "video_id": "jtZYbx9Pgh0",
-      "title": "Luffy's True Power: Empathy & Pirate Shanties",
+      "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 153,
+      "views": 155,
+      "likes": 1,
+      "comments": 0
+    },
+    {
+      "video_id": "QqmpUj2cCcI",
+      "title": "Usopp's Fragile Courage: The Most Improved Character!",
+      "published_at": "2026-05-21T00:50:13Z",
+      "views": 58,
       "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "g0HJrUYEmnk",
+      "title": "Zoro's Epic Solo Fight: Protecting His Crew",
+      "published_at": "2026-05-21T17:47:14Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "HyOIxE0du1k",
+      "title": "Chopper's Live-Action Challenge: Make or Break!",
+      "published_at": "2026-05-21T17:47:03Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "oRdSqZJuIUA",
+      "title": "Netflix One Piece: A Creative Tightrope Triumph!",
+      "published_at": "2026-05-21T17:46:58Z",
+      "views": 5,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
@@ -74,10 +98,10 @@
     },
     {
       "video_id": "jtZYbx9Pgh0",
-      "title": "Luffy's True Power: Empathy & Pirate Shanties",
+      "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 153,
-      "likes": 0,
+      "views": 155,
+      "likes": 1,
       "comments": 0
     },
     {
@@ -92,7 +116,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 157,
+      "views": 164,
       "likes": 3,
       "comments": 0
     },
@@ -100,7 +124,7 @@
       "video_id": "X6n2H8EKRBM",
       "title": "2500 ரூபாய் கொடுக்குறாங்க - இது நிஜமா? #election #govtscheme",
       "published_at": "2026-05-19T10:59:47Z",
-      "views": 51,
+      "views": 52,
       "likes": 1,
       "comments": 0
     },
@@ -119,35 +143,11 @@
       "views": 1024,
       "likes": 32,
       "comments": 0
-    },
-    {
-      "video_id": "o0swpO2JGpM",
-      "title": "AI விவசாயத்திற்கு எப்படி உதவும்?",
-      "published_at": "2026-05-19T10:59:37Z",
-      "views": 475,
-      "likes": 6,
-      "comments": 0
-    },
-    {
-      "video_id": "0P26RvWgt0Q",
-      "title": "First Impressions: How Newcomers Were Perceived",
-      "published_at": "2026-05-18T11:39:16Z",
-      "views": 143,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "XmEdLhZPGao",
-      "title": "Creating a Strategic Plan That Drives Results #results #strategy",
-      "published_at": "2026-05-18T11:39:15Z",
-      "views": 65,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'Zoro's Epic Solo Fight: Protecting His Crew' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
