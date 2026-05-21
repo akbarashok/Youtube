@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-21T08:59:04.889752+00:00",
+  "generated_at": "2026-05-21T14:45:54.372167+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
-    "video_count": 782,
+    "video_count": 783,
     "view_count": 148338
   },
   "summary": {
     "total_channel_subscribers": 343,
-    "total_channel_videos": 782,
+    "total_channel_videos": 783,
     "total_channel_views": 148338,
     "videos_analyzed": 10,
-    "recent_total_views": 3495,
-    "recent_total_likes": 60,
+    "recent_total_views": 3101,
+    "recent_total_likes": 61,
     "recent_total_comments": 0,
-    "average_views_per_video": 349.5,
-    "average_likes_per_video": 6.0,
+    "average_views_per_video": 310.1,
+    "average_likes_per_video": 6.1,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 189.69
+    "average_channel_views_per_video": 189.45
   },
   "top_videos": [
     {
       "video_id": "27KaB83ZSWU",
       "title": "வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?",
       "published_at": "2026-05-19T10:59:44Z",
-      "views": 1021,
+      "views": 1024,
       "likes": 32,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 972,
+      "views": 974,
       "likes": 19,
       "comments": 0
     },
@@ -47,11 +47,11 @@
       "comments": 0
     },
     {
-      "video_id": "SWdJw79FHPk",
-      "title": "The Feudal Mistake That Almost Destroyed Jerusalem #history #education",
-      "published_at": "2026-05-18T11:39:07Z",
-      "views": 405,
-      "likes": 0,
+      "video_id": "lnfPP6Wzv7I",
+      "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
+      "published_at": "2026-05-21T00:50:12Z",
+      "views": 157,
+      "likes": 3,
       "comments": 0
     },
     {
@@ -64,6 +64,14 @@
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "YsadztIaM3A",
+      "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
+      "published_at": "2026-05-21T09:00:47Z",
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "jtZYbx9Pgh0",
       "title": "Luffy's True Power: Empathy & Pirate Shanties",
@@ -84,8 +92,8 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 152,
-      "likes": 2,
+      "views": 157,
+      "likes": 3,
       "comments": 0
     },
     {
@@ -100,7 +108,7 @@
       "video_id": "wWFpohgyZ6s",
       "title": "AI திட்டங்கள்: வெறும் வாக்குறுதிகளா?",
       "published_at": "2026-05-19T10:59:46Z",
-      "views": 972,
+      "views": 974,
       "likes": 19,
       "comments": 0
     },
@@ -108,7 +116,7 @@
       "video_id": "27KaB83ZSWU",
       "title": "வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?",
       "published_at": "2026-05-19T10:59:44Z",
-      "views": 1021,
+      "views": 1024,
       "likes": 32,
       "comments": 0
     },
@@ -135,19 +143,11 @@
       "views": 65,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "SWdJw79FHPk",
-      "title": "The Feudal Mistake That Almost Destroyed Jerusalem #history #education",
-      "published_at": "2026-05-18T11:39:07Z",
-      "views": 405,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'Luffy's True Power: Empathy & Pirate Shanties' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
