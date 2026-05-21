@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-20T20:03:29.105104+00:00",
+  "generated_at": "2026-05-21T02:33:58.920166+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
-    "video_count": 778,
+    "video_count": 782,
     "view_count": 145628
   },
   "summary": {
     "total_channel_subscribers": 343,
-    "total_channel_videos": 778,
+    "total_channel_videos": 782,
     "total_channel_views": 145628,
     "videos_analyzed": 10,
-    "recent_total_views": 4316,
-    "recent_total_likes": 92,
+    "recent_total_views": 3439,
+    "recent_total_likes": 60,
     "recent_total_comments": 0,
-    "average_views_per_video": 431.6,
-    "average_likes_per_video": 9.2,
+    "average_views_per_video": 343.9,
+    "average_likes_per_video": 6.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.18
+    "average_channel_views_per_video": 186.23
   },
   "top_videos": [
     {
@@ -28,14 +28,6 @@
       "published_at": "2026-05-19T10:59:44Z",
       "views": 1021,
       "likes": 32,
-      "comments": 0
-    },
-    {
-      "video_id": "gXEVAfWX9V8",
-      "title": "இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?",
-      "published_at": "2026-05-17T05:09:49Z",
-      "views": 999,
-      "likes": 34,
       "comments": 0
     },
     {
@@ -61,12 +53,44 @@
       "views": 405,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "jtZYbx9Pgh0",
+      "title": "Luffy's True Power: Empathy & Pirate Shanties",
+      "published_at": "2026-05-21T00:50:16Z",
+      "views": 152,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "jtZYbx9Pgh0",
+      "title": "Luffy's True Power: Empathy & Pirate Shanties",
+      "published_at": "2026-05-21T00:50:16Z",
+      "views": 152,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "QqmpUj2cCcI",
+      "title": "Usopp's Fragile Courage: The Most Improved Character!",
+      "published_at": "2026-05-21T00:50:13Z",
+      "views": 58,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "lnfPP6Wzv7I",
+      "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
+      "published_at": "2026-05-21T00:50:12Z",
+      "views": 104,
+      "likes": 2,
+      "comments": 0
+    },
+    {
       "video_id": "X6n2H8EKRBM",
-      "title": "2500 ரூபாய் நிதி உதவி: நிஜமா நடக்குமா?",
+      "title": "2500 ரூபாய் கொடுக்குறாங்க - இது நிஜமா? #election #govtscheme",
       "published_at": "2026-05-19T10:59:47Z",
       "views": 49,
       "likes": 1,
@@ -119,35 +143,11 @@
       "views": 405,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "gXEVAfWX9V8",
-      "title": "இலவசங்கள் குவிந்தால் பொருளாதாரம் என்னாகும்?",
-      "published_at": "2026-05-17T05:09:49Z",
-      "views": 999,
-      "likes": 34,
-      "comments": 0
-    },
-    {
-      "video_id": "-EQ9yuHCM7Y",
-      "title": "4G இல்லாத கிராமத்தில் AI சேவை எப்படி?",
-      "published_at": "2026-05-17T05:09:42Z",
-      "views": 97,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "8xWr-wvknC0",
-      "title": "கரும்பு MSP: தனியார் ஆலைகளின் அநீதி!",
-      "published_at": "2026-05-17T05:09:39Z",
-      "views": 95,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'வட்டியில்லா கடன்: சிறு தொழில்களுக்கு ஒரு வரமா?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload '2500 ரூபாய் நிதி உதவி: நிஜமா நடக்குமா?' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'Luffy's True Power: Empathy & Pirate Shanties' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
