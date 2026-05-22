@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-21T19:44:15.112212+00:00",
+  "generated_at": "2026-05-22T02:35:50.671591+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
     "video_count": 786,
-    "view_count": 148338
+    "view_count": 148759
   },
   "summary": {
     "total_channel_subscribers": 343,
     "total_channel_videos": 786,
-    "total_channel_views": 148338,
+    "total_channel_views": 148759,
     "videos_analyzed": 10,
-    "recent_total_views": 2433,
+    "recent_total_views": 2528,
     "recent_total_likes": 56,
     "recent_total_comments": 0,
-    "average_views_per_video": 243.3,
+    "average_views_per_video": 252.8,
     "average_likes_per_video": 5.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 188.73
+    "average_channel_views_per_video": 189.26
   },
   "top_videos": [
     {
@@ -42,7 +42,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 164,
+      "views": 181,
       "likes": 3,
       "comments": 0
     },
@@ -50,15 +50,15 @@
       "video_id": "jtZYbx9Pgh0",
       "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 155,
+      "views": 158,
       "likes": 1,
       "comments": 0
     },
     {
-      "video_id": "QqmpUj2cCcI",
-      "title": "Usopp's Fragile Courage: The Most Improved Character!",
-      "published_at": "2026-05-21T00:50:13Z",
-      "views": 58,
+      "video_id": "HyOIxE0du1k",
+      "title": "Chopper's Live-Action Challenge: Make or Break!",
+      "published_at": "2026-05-21T17:47:03Z",
+      "views": 77,
       "likes": 0,
       "comments": 0
     }
@@ -76,7 +76,7 @@
       "video_id": "HyOIxE0du1k",
       "title": "Chopper's Live-Action Challenge: Make or Break!",
       "published_at": "2026-05-21T17:47:03Z",
-      "views": 0,
+      "views": 77,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "oRdSqZJuIUA",
       "title": "Netflix One Piece: A Creative Tightrope Triumph!",
       "published_at": "2026-05-21T17:46:58Z",
-      "views": 5,
+      "views": 9,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "jtZYbx9Pgh0",
       "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 155,
+      "views": 158,
       "likes": 1,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "QqmpUj2cCcI",
       "title": "Usopp's Fragile Courage: The Most Improved Character!",
       "published_at": "2026-05-21T00:50:13Z",
-      "views": 58,
+      "views": 52,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 164,
+      "views": 181,
       "likes": 3,
       "comments": 0
     },
