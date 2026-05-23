@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-22T19:24:28.645737+00:00",
+  "generated_at": "2026-05-23T02:12:32.927044+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
     "video_count": 786,
-    "view_count": 148759
+    "view_count": 148870
   },
   "summary": {
     "total_channel_subscribers": 343,
     "total_channel_videos": 786,
-    "total_channel_views": 148759,
+    "total_channel_views": 148870,
     "videos_analyzed": 10,
-    "recent_total_views": 2593,
+    "recent_total_views": 2610,
     "recent_total_likes": 58,
     "recent_total_comments": 0,
-    "average_views_per_video": 259.3,
+    "average_views_per_video": 261.0,
     "average_likes_per_video": 5.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 189.26
+    "average_channel_views_per_video": 189.4
   },
   "top_videos": [
     {
@@ -42,7 +42,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 196,
+      "views": 201,
       "likes": 4,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "HyOIxE0du1k",
       "title": "Chopper's Live-Action Challenge: Make or Break!",
       "published_at": "2026-05-21T17:47:03Z",
-      "views": 80,
+      "views": 81,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "g0HJrUYEmnk",
       "title": "Zoro's Epic Solo Fight: Protecting His Crew",
       "published_at": "2026-05-21T17:47:14Z",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "HyOIxE0du1k",
       "title": "Chopper's Live-Action Challenge: Make or Break!",
       "published_at": "2026-05-21T17:47:03Z",
-      "views": 80,
+      "views": 81,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "oRdSqZJuIUA",
       "title": "Netflix One Piece: A Creative Tightrope Triumph!",
       "published_at": "2026-05-21T17:46:58Z",
-      "views": 19,
+      "views": 25,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 30,
+      "views": 34,
       "likes": 1,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 196,
+      "views": 201,
       "likes": 4,
       "comments": 0
     },
