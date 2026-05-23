@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-23T08:07:43.560025+00:00",
+  "generated_at": "2026-05-23T13:05:13.744410+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
-    "video_count": 786,
-    "view_count": 148870
+    "video_count": 789,
+    "view_count": 148941
   },
   "summary": {
     "total_channel_subscribers": 343,
-    "total_channel_videos": 786,
-    "total_channel_views": 148870,
+    "total_channel_videos": 789,
+    "total_channel_views": 148941,
     "videos_analyzed": 10,
-    "recent_total_views": 593,
+    "recent_total_views": 626,
     "recent_total_likes": 6,
     "recent_total_comments": 0,
-    "average_views_per_video": 59.3,
+    "average_views_per_video": 62.6,
     "average_likes_per_video": 0.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 189.4
+    "average_channel_views_per_video": 188.77
   },
   "top_videos": [
     {
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 203,
+      "views": 204,
       "likes": 4,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "jtZYbx9Pgh0",
       "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 158,
+      "views": 160,
       "likes": 1,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 39,
+      "views": 46,
       "likes": 1,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "bqkbsQDfB5Q",
       "title": "ஜெருசலேம் வீழ்ச்சி: மூன்று மன்னர்களை ஒன்று சேர்த்தது!",
       "published_at": "2026-05-23T05:24:04Z",
-      "views": 5,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "p3iSz_aloJ4",
       "title": "சலாதினின் கொடூர போர் தந்திரம்: நச்சு தண்ணீர்!",
       "published_at": "2026-05-23T05:24:01Z",
-      "views": 6,
+      "views": 11,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "xaf3TtNvP58",
       "title": "மிரட்டல் பணிந்தது! புனித தலங்கள் காப்பாற்றப்பட்டது!",
       "published_at": "2026-05-23T05:23:55Z",
-      "views": 3,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "g0HJrUYEmnk",
       "title": "Zoro's Epic Solo Fight: Protecting His Crew",
       "published_at": "2026-05-21T17:47:14Z",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "oRdSqZJuIUA",
       "title": "A Live-Action Dream Come True: One Piece Season 2 #OnePiece #NetflixOriginal",
       "published_at": "2026-05-21T17:46:58Z",
-      "views": 36,
+      "views": 37,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 39,
+      "views": 46,
       "likes": 1,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "jtZYbx9Pgh0",
       "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
       "published_at": "2026-05-21T00:50:16Z",
-      "views": 158,
+      "views": 160,
       "likes": 1,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 203,
+      "views": 204,
       "likes": 4,
       "comments": 0
     }
