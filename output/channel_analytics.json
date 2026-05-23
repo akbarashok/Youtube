@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T13:05:13.744410+00:00",
+  "generated_at": "2026-05-23T18:58:22.695624+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,10 +13,10 @@
     "total_channel_videos": 789,
     "total_channel_views": 148941,
     "videos_analyzed": 10,
-    "recent_total_views": 626,
+    "recent_total_views": 640,
     "recent_total_likes": 6,
     "recent_total_comments": 0,
-    "average_views_per_video": 62.6,
+    "average_views_per_video": 64.0,
     "average_likes_per_video": 0.6,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 188.77
@@ -26,7 +26,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 204,
+      "views": 208,
       "likes": 4,
       "comments": 0
     },
@@ -47,19 +47,19 @@
       "comments": 0
     },
     {
+      "video_id": "YsadztIaM3A",
+      "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
+      "published_at": "2026-05-21T09:00:47Z",
+      "views": 54,
+      "likes": 1,
+      "comments": 0
+    },
+    {
       "video_id": "QqmpUj2cCcI",
       "title": "Usopp's Fragile Courage: The Most Improved Character!",
       "published_at": "2026-05-21T00:50:13Z",
       "views": 52,
       "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "YsadztIaM3A",
-      "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
-      "published_at": "2026-05-21T09:00:47Z",
-      "views": 46,
-      "likes": 1,
       "comments": 0
     }
   ],
@@ -76,7 +76,7 @@
       "video_id": "p3iSz_aloJ4",
       "title": "சலாதினின் கொடூர போர் தந்திரம்: நச்சு தண்ணீர்!",
       "published_at": "2026-05-23T05:24:01Z",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "g0HJrUYEmnk",
       "title": "Zoro's Epic Solo Fight: Protecting His Crew",
       "published_at": "2026-05-21T17:47:14Z",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 46,
+      "views": 54,
       "likes": 1,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "lnfPP6Wzv7I",
       "title": "100% Rotten Tomatoes?! One Piece S2 Shocks Critics!",
       "published_at": "2026-05-21T00:50:12Z",
-      "views": 204,
+      "views": 208,
       "likes": 4,
       "comments": 0
     }
