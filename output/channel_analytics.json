@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-25T14:37:34.302101+00:00",
+  "generated_at": "2026-05-25T19:16:46.179848+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
     "video_count": 790,
-    "view_count": 149123
+    "view_count": 149141
   },
   "summary": {
     "total_channel_subscribers": 343,
     "total_channel_videos": 790,
-    "total_channel_views": 149123,
+    "total_channel_views": 149141,
     "videos_analyzed": 10,
-    "recent_total_views": 542,
+    "recent_total_views": 553,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 54.2,
+    "average_views_per_video": 55.3,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 188.76
+    "average_channel_views_per_video": 188.79
   },
   "top_videos": [
     {
@@ -34,7 +34,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 106,
+      "views": 107,
       "likes": 2,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "bqkbsQDfB5Q",
       "title": "ஜெருசலேம் வீழ்ச்சி: மூன்று மன்னர்களை ஒன்று சேர்த்தது!",
       "published_at": "2026-05-23T05:24:04Z",
-      "views": 32,
+      "views": 34,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "p3iSz_aloJ4",
       "title": "சலாதினின் கொடூர போர் தந்திரம்: நச்சு தண்ணீர்!",
       "published_at": "2026-05-23T05:24:01Z",
-      "views": 25,
+      "views": 30,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "g0HJrUYEmnk",
       "title": "Zoro's Epic Solo Fight: Protecting His Crew",
       "published_at": "2026-05-21T17:47:14Z",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 106,
+      "views": 107,
       "likes": 2,
       "comments": 0
     },
