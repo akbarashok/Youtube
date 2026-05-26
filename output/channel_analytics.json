@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-26T09:38:04.083410+00:00",
+  "generated_at": "2026-05-26T14:48:35.541517+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 343,
     "video_count": 790,
-    "view_count": 149141
+    "view_count": 149174
   },
   "summary": {
     "total_channel_subscribers": 343,
     "total_channel_videos": 790,
-    "total_channel_views": 149141,
+    "total_channel_views": 149174,
     "videos_analyzed": 10,
-    "recent_total_views": 577,
+    "recent_total_views": 632,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 57.7,
+    "average_views_per_video": 63.2,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 188.79
+    "average_channel_views_per_video": 188.83
   },
   "top_videos": [
     {
@@ -39,6 +39,14 @@
       "comments": 0
     },
     {
+      "video_id": "bqkbsQDfB5Q",
+      "title": "ஜெருசலேம் வீழ்ச்சி: மூன்று மன்னர்களை ஒன்று சேர்த்தது!",
+      "published_at": "2026-05-23T05:24:04Z",
+      "views": 98,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "HyOIxE0du1k",
       "title": "Chopper's Live-Action Challenge: Make or Break!",
       "published_at": "2026-05-21T17:47:03Z",
@@ -53,14 +61,6 @@
       "views": 52,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "bqkbsQDfB5Q",
-      "title": "ஜெருசலேம் வீழ்ச்சி: மூன்று மன்னர்களை ஒன்று சேர்த்தது!",
-      "published_at": "2026-05-23T05:24:04Z",
-      "views": 46,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recent_videos": [
@@ -68,7 +68,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 14,
+      "views": 16,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "bqkbsQDfB5Q",
       "title": "ஜெருசலேம் வீழ்ச்சி: மூன்று மன்னர்களை ஒன்று சேர்த்தது!",
       "published_at": "2026-05-23T05:24:04Z",
-      "views": 46,
+      "views": 98,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "p3iSz_aloJ4",
       "title": "சலாதினின் கொடூர போர் தந்திரம்: நச்சு தண்ணீர்!",
       "published_at": "2026-05-23T05:24:01Z",
-      "views": 32,
+      "views": 33,
       "likes": 0,
       "comments": 0
     },
