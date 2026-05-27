@@ -1,43 +1,27 @@
 {
-  "generated_at": "2026-05-27T14:58:09.842601+00:00",
+  "generated_at": "2026-05-27T20:02:51.268806+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 345,
-    "video_count": 791,
+    "video_count": 794,
     "view_count": 149222
   },
   "summary": {
     "total_channel_subscribers": 345,
-    "total_channel_videos": 791,
+    "total_channel_videos": 794,
     "total_channel_views": 149222,
     "videos_analyzed": 10,
-    "recent_total_views": 561,
-    "recent_total_likes": 3,
+    "recent_total_views": 266,
+    "recent_total_likes": 0,
     "recent_total_comments": 0,
-    "average_views_per_video": 56.1,
-    "average_likes_per_video": 0.3,
+    "average_views_per_video": 26.6,
+    "average_likes_per_video": 0.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 188.65
+    "average_channel_views_per_video": 187.94
   },
   "top_videos": [
-    {
-      "video_id": "jtZYbx9Pgh0",
-      "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
-      "published_at": "2026-05-21T00:50:16Z",
-      "views": 161,
-      "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "YsadztIaM3A",
-      "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
-      "published_at": "2026-05-21T09:00:47Z",
-      "views": 116,
-      "likes": 2,
-      "comments": 0
-    },
     {
       "video_id": "HyOIxE0du1k",
       "title": "Chopper's Live-Action Challenge: Make or Break!",
@@ -55,15 +39,55 @@
       "comments": 0
     },
     {
-      "video_id": "oRdSqZJuIUA",
-      "title": "A Live-Action Dream Come True: One Piece Season 2 #OnePiece #NetflixOriginal",
-      "published_at": "2026-05-21T17:46:58Z",
-      "views": 37,
+      "video_id": "gK8g051CRlM",
+      "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
+      "published_at": "2026-05-24T09:00:36Z",
+      "views": 35,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "p3iSz_aloJ4",
+      "title": "சலாதினின் கொடூர போர் தந்திரம்: நச்சு தண்ணீர்!",
+      "published_at": "2026-05-23T05:24:01Z",
+      "views": 35,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "g0HJrUYEmnk",
+      "title": "Zoro's Epic Solo Fight: Protecting His Crew",
+      "published_at": "2026-05-21T17:47:14Z",
+      "views": 27,
       "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "oCZgXwlYQS4",
+      "title": "தண்ணியில்லா போர்: 25 கிலோ கவசத்தில் வீரர்கள்",
+      "published_at": "2026-05-27T15:23:43Z",
+      "views": 7,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "ud25gaLtDtw",
+      "title": "நிலவியல் மற்றும் தட்பவெப்பநிலை: போர் தந்திரங்கள்!",
+      "published_at": "2026-05-27T15:23:42Z",
+      "views": 3,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "unG8BVEhtdg",
+      "title": "போர் மத்தியில் தவித்த வீரர்கள்: கவசங்கள் கழட்டு!🔥",
+      "published_at": "2026-05-27T15:23:42Z",
+      "views": 4,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "IwqCnulRoi8",
       "title": "சலாதீனின் பழங்களும் ரிச்சர்டின் அக்ரே படுகொலையும்",
@@ -76,7 +100,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 30,
+      "views": 35,
       "likes": 0,
       "comments": 0
     },
@@ -119,36 +143,12 @@
       "views": 81,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "oRdSqZJuIUA",
-      "title": "A Live-Action Dream Come True: One Piece Season 2 #OnePiece #NetflixOriginal",
-      "published_at": "2026-05-21T17:46:58Z",
-      "views": 37,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "YsadztIaM3A",
-      "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
-      "published_at": "2026-05-21T09:00:47Z",
-      "views": 116,
-      "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "jtZYbx9Pgh0",
-      "title": "Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis",
-      "published_at": "2026-05-21T00:50:16Z",
-      "views": 161,
-      "likes": 1,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'Why Luffy's Kindness Makes Him Dangerous #OnePiece #CharacterAnalysis' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'சலாதீனின் பழங்களும் ரிச்சர்டின் அக்ரே படுகொலையும்' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'Chopper's Live-Action Challenge: Make or Break!' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'தண்ணியில்லா போர்: 25 கிலோ கவசத்தில் வீரர்கள்' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
-    "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
+    "Test more discoverable topics and keyword-focused titles because average recent views are low relative to the subscriber base."
   ]
 }
