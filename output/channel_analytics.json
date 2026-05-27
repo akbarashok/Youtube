@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-05-27T09:31:32.550750+00:00",
+  "generated_at": "2026-05-27T14:58:09.842601+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 344,
+    "subscriber_count": 345,
     "video_count": 791,
     "view_count": 149222
   },
   "summary": {
-    "total_channel_subscribers": 344,
+    "total_channel_subscribers": 345,
     "total_channel_videos": 791,
     "total_channel_views": 149222,
     "videos_analyzed": 10,
-    "recent_total_views": 554,
+    "recent_total_views": 561,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 55.4,
+    "average_views_per_video": 56.1,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 188.65
@@ -34,7 +34,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 115,
+      "views": 116,
       "likes": 2,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 24,
+      "views": 30,
       "likes": 0,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "YsadztIaM3A",
       "title": "மூன்றாம் சிலுவைப் போரும் மன்னர்களின் போர் தந்திரங்களும்",
       "published_at": "2026-05-21T09:00:47Z",
-      "views": 115,
+      "views": 116,
       "likes": 2,
       "comments": 0
     },
