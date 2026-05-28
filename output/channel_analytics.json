@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-27T20:02:51.268806+00:00",
+  "generated_at": "2026-05-28T02:25:32.807407+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 345,
     "video_count": 794,
-    "view_count": 149222
+    "view_count": 149238
   },
   "summary": {
     "total_channel_subscribers": 345,
     "total_channel_videos": 794,
-    "total_channel_views": 149222,
+    "total_channel_views": 149238,
     "videos_analyzed": 10,
-    "recent_total_views": 266,
+    "recent_total_views": 271,
     "recent_total_likes": 0,
     "recent_total_comments": 0,
-    "average_views_per_video": 26.6,
+    "average_views_per_video": 27.1,
     "average_likes_per_video": 0.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.94
+    "average_channel_views_per_video": 187.96
   },
   "top_videos": [
     {
@@ -42,7 +42,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 35,
+      "views": 38,
       "likes": 0,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "oCZgXwlYQS4",
       "title": "தண்ணியில்லா போர்: 25 கிலோ கவசத்தில் வீரர்கள்",
       "published_at": "2026-05-27T15:23:43Z",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "unG8BVEhtdg",
       "title": "போர் மத்தியில் தவித்த வீரர்கள்: கவசங்கள் கழட்டு!🔥",
       "published_at": "2026-05-27T15:23:42Z",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 35,
+      "views": 38,
       "likes": 0,
       "comments": 0
     },
