@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:38:13.887138+00:00",
+  "generated_at": "2026-05-29T14:43:55.736591+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,10 +13,10 @@
     "total_channel_videos": 798,
     "total_channel_views": 149858,
     "videos_analyzed": 10,
-    "recent_total_views": 731,
+    "recent_total_views": 780,
     "recent_total_likes": 5,
     "recent_total_comments": 0,
-    "average_views_per_video": 73.1,
+    "average_views_per_video": 78.0,
     "average_likes_per_video": 0.5,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 187.79
@@ -26,7 +26,7 @@
       "video_id": "oCZgXwlYQS4",
       "title": "சலாதீன் நீரைப் போர்வாக்கப் பயன்படுத்தியபோது #history #military #shorts",
       "published_at": "2026-05-27T15:23:43Z",
-      "views": 360,
+      "views": 373,
       "likes": 4,
       "comments": 0
     },
@@ -36,6 +36,14 @@
       "published_at": "2026-05-28T08:20:36Z",
       "views": 148,
       "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "IwqCnulRoi8",
+      "title": "சலாதீனின் பழங்களும் ரிச்சர்டின் அக்ரே படுகொலையும்",
+      "published_at": "2026-05-27T09:00:05Z",
+      "views": 65,
+      "likes": 1,
       "comments": 0
     },
     {
@@ -50,15 +58,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 48,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "ud25gaLtDtw",
-      "title": "நிலவியல் மற்றும் தட்பவெப்பநிலை: போர் தந்திரங்கள்!",
-      "published_at": "2026-05-27T15:23:42Z",
-      "views": 45,
+      "views": 52,
       "likes": 0,
       "comments": 0
     }
@@ -76,7 +76,7 @@
       "video_id": "u4aXk0WKmEo",
       "title": "Actress & Home Minister: The Wildest Political Rumor!",
       "published_at": "2026-05-28T08:20:42Z",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "IoY2ViPhGeM",
       "title": "How Misinformation From a Top Political Leader Could Derail Everything #politicalnews #tamil",
       "published_at": "2026-05-28T08:20:36Z",
-      "views": 21,
+      "views": 22,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "oCZgXwlYQS4",
       "title": "சலாதீன் நீரைப் போர்வாக்கப் பயன்படுத்தியபோது #history #military #shorts",
       "published_at": "2026-05-27T15:23:43Z",
-      "views": 360,
+      "views": 373,
       "likes": 4,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "unG8BVEhtdg",
       "title": "போர் மத்தியில் தவித்த வீரர்கள்: கவசங்கள் கழட்டு!🔥",
       "published_at": "2026-05-27T15:23:42Z",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "IwqCnulRoi8",
       "title": "சலாதீனின் பழங்களும் ரிச்சர்டின் அக்ரே படுகொலையும்",
       "published_at": "2026-05-27T09:00:05Z",
-      "views": 36,
+      "views": 65,
       "likes": 1,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "gK8g051CRlM",
       "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
       "published_at": "2026-05-24T09:00:36Z",
-      "views": 48,
+      "views": 52,
       "likes": 0,
       "comments": 0
     },
