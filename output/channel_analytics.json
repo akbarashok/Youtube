@@ -1,41 +1,33 @@
 {
-  "generated_at": "2026-05-30T13:06:21.733631+00:00",
+  "generated_at": "2026-05-30T19:00:54.164136+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 348,
-    "video_count": 799,
+    "video_count": 802,
     "view_count": 150008
   },
   "summary": {
     "total_channel_subscribers": 348,
-    "total_channel_videos": 799,
+    "total_channel_videos": 802,
     "total_channel_views": 150008,
     "videos_analyzed": 10,
-    "recent_total_views": 837,
-    "recent_total_likes": 5,
+    "recent_total_views": 618,
+    "recent_total_likes": 4,
     "recent_total_comments": 0,
-    "average_views_per_video": 83.7,
-    "average_likes_per_video": 0.5,
+    "average_views_per_video": 61.8,
+    "average_likes_per_video": 0.4,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.74
+    "average_channel_views_per_video": 187.04
   },
   "top_videos": [
     {
       "video_id": "oCZgXwlYQS4",
       "title": "சலாதீன் நீரைப் போர்வாக்கப் பயன்படுத்தியபோது #history #military #shorts",
       "published_at": "2026-05-27T15:23:43Z",
-      "views": 393,
+      "views": 394,
       "likes": 4,
-      "comments": 0
-    },
-    {
-      "video_id": "IwqCnulRoi8",
-      "title": "சலாதீனின் பழங்களும் ரிச்சர்டின் அக்ரே படுகொலையும்",
-      "published_at": "2026-05-27T09:00:05Z",
-      "views": 157,
-      "likes": 1,
       "comments": 0
     },
     {
@@ -47,23 +39,55 @@
       "comments": 0
     },
     {
-      "video_id": "gK8g051CRlM",
-      "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
-      "published_at": "2026-05-24T09:00:36Z",
-      "views": 57,
-      "likes": 0,
-      "comments": 0
-    },
-    {
       "video_id": "ud25gaLtDtw",
       "title": "நிலவியல் மற்றும் தட்பவெப்பநிலை: போர் தந்திரங்கள்!",
       "published_at": "2026-05-27T15:23:42Z",
       "views": 46,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "IoY2ViPhGeM",
+      "title": "How Misinformation From a Top Political Leader Could Derail Everything #politicalnews #tamil",
+      "published_at": "2026-05-28T08:20:36Z",
+      "views": 26,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "iqj48rhrAYU",
+      "title": "Trisha's Grief Reinterpreted: The First Rumor Seed",
+      "published_at": "2026-05-30T16:26:00Z",
+      "views": 6,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "IDXsWsTRB0U",
+      "title": "Where Cinema Meets Politics: The Tamil Nadu Story",
+      "published_at": "2026-05-30T16:26:18Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "iqj48rhrAYU",
+      "title": "Trisha's Grief Reinterpreted: The First Rumor Seed",
+      "published_at": "2026-05-30T16:26:00Z",
+      "views": 6,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "MvNLOnohGAw",
+      "title": "Political Weaponization: Trisha Caught in Crossfire!",
+      "published_at": "2026-05-30T16:25:34Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "PnBXoR6DVf4",
       "title": "நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்",
@@ -100,7 +124,7 @@
       "video_id": "IoY2ViPhGeM",
       "title": "How Misinformation From a Top Political Leader Could Derail Everything #politicalnews #tamil",
       "published_at": "2026-05-28T08:20:36Z",
-      "views": 25,
+      "views": 26,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +132,7 @@
       "video_id": "oCZgXwlYQS4",
       "title": "சலாதீன் நீரைப் போர்வாக்கப் பயன்படுத்தியபோது #history #military #shorts",
       "published_at": "2026-05-27T15:23:43Z",
-      "views": 393,
+      "views": 394,
       "likes": 4,
       "comments": 0
     },
@@ -119,35 +143,11 @@
       "views": 46,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "unG8BVEhtdg",
-      "title": "போர் மத்தியில் தவித்த வீரர்கள்: கவசங்கள் கழட்டு!🔥",
-      "published_at": "2026-05-27T15:23:42Z",
-      "views": 13,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "IwqCnulRoi8",
-      "title": "சலாதீனின் பழங்களும் ரிச்சர்டின் அக்ரே படுகொலையும்",
-      "published_at": "2026-05-27T09:00:05Z",
-      "views": 157,
-      "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "gK8g051CRlM",
-      "title": "மாமன்னர் பார்பரோசாவை வீழ்த்திய அந்தச் சாதாரண ஆறு",
-      "published_at": "2026-05-24T09:00:36Z",
-      "views": 57,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'சலாதீன் நீரைப் போர்வாக்கப் பயன்படுத்தியபோது #history #military #shorts' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'Where Cinema Meets Politics: The Tamil Nadu Story' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
