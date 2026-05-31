@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-30T19:00:54.164136+00:00",
+  "generated_at": "2026-05-31T02:40:27.428520+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 348,
     "video_count": 802,
-    "view_count": 150008
+    "view_count": 150054
   },
   "summary": {
     "total_channel_subscribers": 348,
     "total_channel_videos": 802,
-    "total_channel_views": 150008,
+    "total_channel_views": 150054,
     "videos_analyzed": 10,
-    "recent_total_views": 618,
+    "recent_total_views": 678,
     "recent_total_likes": 4,
     "recent_total_comments": 0,
-    "average_views_per_video": 61.8,
+    "average_views_per_video": 67.8,
     "average_likes_per_video": 0.4,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.04
+    "average_channel_views_per_video": 187.1
   },
   "top_videos": [
     {
@@ -39,6 +39,14 @@
       "comments": 0
     },
     {
+      "video_id": "MvNLOnohGAw",
+      "title": "Political Weaponization: Trisha Caught in Crossfire!",
+      "published_at": "2026-05-30T16:25:34Z",
+      "views": 52,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "ud25gaLtDtw",
       "title": "நிலவியல் மற்றும் தட்பவெப்பநிலை: போர் தந்திரங்கள்!",
       "published_at": "2026-05-27T15:23:42Z",
@@ -51,14 +59,6 @@
       "title": "How Misinformation From a Top Political Leader Could Derail Everything #politicalnews #tamil",
       "published_at": "2026-05-28T08:20:36Z",
       "views": 26,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "iqj48rhrAYU",
-      "title": "Trisha's Grief Reinterpreted: The First Rumor Seed",
-      "published_at": "2026-05-30T16:26:00Z",
-      "views": 6,
       "likes": 0,
       "comments": 0
     }
@@ -76,7 +76,7 @@
       "video_id": "iqj48rhrAYU",
       "title": "Trisha's Grief Reinterpreted: The First Rumor Seed",
       "published_at": "2026-05-30T16:26:00Z",
-      "views": 6,
+      "views": 14,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "MvNLOnohGAw",
       "title": "Political Weaponization: Trisha Caught in Crossfire!",
       "published_at": "2026-05-30T16:25:34Z",
-      "views": 0,
+      "views": 52,
       "likes": 0,
       "comments": 0
     },
