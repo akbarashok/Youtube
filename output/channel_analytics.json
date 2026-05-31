@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-31T02:40:27.428520+00:00",
+  "generated_at": "2026-05-31T08:35:31.468188+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 348,
     "video_count": 802,
-    "view_count": 150054
+    "view_count": 150098
   },
   "summary": {
     "total_channel_subscribers": 348,
     "total_channel_videos": 802,
-    "total_channel_views": 150054,
+    "total_channel_views": 150098,
     "videos_analyzed": 10,
-    "recent_total_views": 678,
+    "recent_total_views": 681,
     "recent_total_likes": 4,
     "recent_total_comments": 0,
-    "average_views_per_video": 67.8,
+    "average_views_per_video": 68.1,
     "average_likes_per_video": 0.4,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.1
+    "average_channel_views_per_video": 187.15
   },
   "top_videos": [
     {
@@ -74,7 +74,7 @@
     },
     {
       "video_id": "iqj48rhrAYU",
-      "title": "Trisha's Grief Reinterpreted: The First Rumor Seed",
+      "title": "Trisha's Personal Struggle: A Lesson in Misinterpretation",
       "published_at": "2026-05-30T16:26:00Z",
       "views": 14,
       "likes": 0,
@@ -92,7 +92,7 @@
       "video_id": "PnBXoR6DVf4",
       "title": "நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்",
       "published_at": "2026-05-30T09:00:03Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "lOrWl_9BhC4",
       "title": "Trisha's Denial: How a Rumor Became Fan Fiction!",
       "published_at": "2026-05-28T16:59:31Z",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "u4aXk0WKmEo",
       "title": "Actress & Home Minister: The Wildest Political Rumor!",
       "published_at": "2026-05-28T08:20:42Z",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
