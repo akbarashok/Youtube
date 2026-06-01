@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-31T19:04:49.474882+00:00",
+  "generated_at": "2026-06-01T02:50:02.531852+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
     "video_count": 805,
-    "view_count": 150188
+    "view_count": 150278
   },
   "summary": {
     "total_channel_subscribers": 351,
     "total_channel_videos": 805,
-    "total_channel_views": 150188,
+    "total_channel_views": 150278,
     "videos_analyzed": 10,
-    "recent_total_views": 402,
+    "recent_total_views": 410,
     "recent_total_likes": 1,
     "recent_total_comments": 0,
-    "average_views_per_video": 40.2,
+    "average_views_per_video": 41.0,
     "average_likes_per_video": 0.1,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.57
+    "average_channel_views_per_video": 186.68
   },
   "top_videos": [
     {
@@ -76,7 +76,7 @@
       "video_id": "hTu51XOWVMI",
       "title": "TVK Rebranded: When Fan Fiction Becomes Reality!",
       "published_at": "2026-05-31T14:35:05Z",
-      "views": 13,
+      "views": 18,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "PnBXoR6DVf4",
       "title": "நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்",
       "published_at": "2026-05-30T09:00:03Z",
-      "views": 11,
+      "views": 14,
       "likes": 1,
       "comments": 0
     },
