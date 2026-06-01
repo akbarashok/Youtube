@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-06-01T11:12:08.746492+00:00",
+  "generated_at": "2026-06-01T17:20:41.628535+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
     "video_count": 808,
-    "view_count": 150278
+    "view_count": 150417
   },
   "summary": {
     "total_channel_subscribers": 351,
     "total_channel_videos": 808,
-    "total_channel_views": 150278,
+    "total_channel_views": 150417,
     "videos_analyzed": 10,
-    "recent_total_views": 1185,
+    "recent_total_views": 1216,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 118.5,
+    "average_views_per_video": 121.6,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.99
+    "average_channel_views_per_video": 186.16
   },
   "top_videos": [
-    {
-      "video_id": "AuxoUL5KA6U",
-      "title": "Imagine waking up and the Internet thinks THIS!",
-      "published_at": "2026-06-01T04:26:37Z",
-      "views": 461,
-      "likes": 2,
-      "comments": 0
-    },
     {
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 366,
+      "views": 436,
       "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "AuxoUL5KA6U",
+      "title": "Imagine waking up and the Internet thinks THIS!",
+      "published_at": "2026-06-01T04:26:37Z",
+      "views": 400,
+      "likes": 2,
       "comments": 0
     },
     {
@@ -58,7 +58,7 @@
       "video_id": "MvNLOnohGAw",
       "title": "Political Weaponization: Trisha Caught in Crossfire!",
       "published_at": "2026-05-30T16:25:34Z",
-      "views": 57,
+      "views": 58,
       "likes": 0,
       "comments": 0
     }
@@ -76,7 +76,7 @@
       "video_id": "AuxoUL5KA6U",
       "title": "Imagine waking up and the Internet thinks THIS!",
       "published_at": "2026-06-01T04:26:37Z",
-      "views": 461,
+      "views": 400,
       "likes": 2,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 366,
+      "views": 436,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "hTu51XOWVMI",
       "title": "TVK Rebranded: When Fan Fiction Becomes Reality!",
       "published_at": "2026-05-31T14:35:05Z",
-      "views": 25,
+      "views": 41,
       "likes": 0,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "MvNLOnohGAw",
       "title": "Political Weaponization: Trisha Caught in Crossfire!",
       "published_at": "2026-05-30T16:25:34Z",
-      "views": 57,
+      "views": 58,
       "likes": 0,
       "comments": 0
     },
@@ -140,13 +140,13 @@
       "video_id": "PnBXoR6DVf4",
       "title": "நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்",
       "published_at": "2026-05-30T09:00:03Z",
-      "views": 16,
+      "views": 21,
       "likes": 1,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'Imagine waking up and the Internet thinks THIS!' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'Hollywood vs. Tamil Nadu: Politics & Stardom' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload 'Digital Apophenia: How Rumors Go Viral!' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
