@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T17:20:41.628535+00:00",
+  "generated_at": "2026-06-01T21:22:29.256210+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,10 +13,10 @@
     "total_channel_videos": 808,
     "total_channel_views": 150417,
     "videos_analyzed": 10,
-    "recent_total_views": 1216,
+    "recent_total_views": 1197,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 121.6,
+    "average_views_per_video": 119.7,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 186.16
@@ -26,7 +26,7 @@
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 436,
+      "views": 430,
       "likes": 0,
       "comments": 0
     },
@@ -42,15 +42,7 @@
       "video_id": "zwtulRvkris",
       "title": "Digital Apophenia: How Rumors Go Viral!",
       "published_at": "2026-06-01T04:26:49Z",
-      "views": 86,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "sQRs6rkC4uE",
-      "title": "Wedding Optics: How a Non-Story Became a Scandal!",
-      "published_at": "2026-05-31T14:35:10Z",
-      "views": 59,
+      "views": 78,
       "likes": 0,
       "comments": 0
     },
@@ -61,6 +53,14 @@
       "views": 58,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "IDXsWsTRB0U",
+      "title": "Where Cinema Meets Politics: The Tamil Nadu Story",
+      "published_at": "2026-05-30T16:26:18Z",
+      "views": 56,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
@@ -68,7 +68,7 @@
       "video_id": "zwtulRvkris",
       "title": "Digital Apophenia: How Rumors Go Viral!",
       "published_at": "2026-06-01T04:26:49Z",
-      "views": 86,
+      "views": 78,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 436,
+      "views": 430,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "sQRs6rkC4uE",
       "title": "Wedding Optics: How a Non-Story Became a Scandal!",
       "published_at": "2026-05-31T14:35:10Z",
-      "views": 59,
+      "views": 46,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "hTu51XOWVMI",
       "title": "TVK Rebranded: When Fan Fiction Becomes Reality!",
       "published_at": "2026-05-31T14:35:05Z",
-      "views": 41,
+      "views": 46,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "MfoLZ2ZLWcU",
       "title": "How Apophenia Is Manipulating You #manipulation #psychology",
       "published_at": "2026-05-31T14:35:00Z",
-      "views": 48,
+      "views": 45,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "IDXsWsTRB0U",
       "title": "Where Cinema Meets Politics: The Tamil Nadu Story",
       "published_at": "2026-05-30T16:26:18Z",
-      "views": 53,
+      "views": 56,
       "likes": 0,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "PnBXoR6DVf4",
       "title": "நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்",
       "published_at": "2026-05-30T09:00:03Z",
-      "views": 21,
+      "views": 24,
       "likes": 1,
       "comments": 0
     }
