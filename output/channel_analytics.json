@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-06-01T02:50:02.531852+00:00",
+  "generated_at": "2026-06-01T11:12:08.746492+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
-    "video_count": 805,
+    "video_count": 808,
     "view_count": 150278
   },
   "summary": {
     "total_channel_subscribers": 351,
-    "total_channel_videos": 805,
+    "total_channel_videos": 808,
     "total_channel_views": 150278,
     "videos_analyzed": 10,
-    "recent_total_views": 410,
-    "recent_total_likes": 1,
+    "recent_total_views": 1185,
+    "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 41.0,
-    "average_likes_per_video": 0.1,
+    "average_views_per_video": 118.5,
+    "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.68
+    "average_channel_views_per_video": 185.99
   },
   "top_videos": [
     {
-      "video_id": "CtDzJKFbuOY",
-      "title": "May 4th Rumor: Movie Plot Becomes Political Reality!",
-      "published_at": "2026-05-28T08:20:36Z",
-      "views": 139,
+      "video_id": "AuxoUL5KA6U",
+      "title": "Imagine waking up and the Internet thinks THIS!",
+      "published_at": "2026-06-01T04:26:37Z",
+      "views": 461,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "Kb6PP_F9gw0",
+      "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
+      "published_at": "2026-06-01T04:26:32Z",
+      "views": 366,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "zwtulRvkris",
+      "title": "Digital Apophenia: How Rumors Go Viral!",
+      "published_at": "2026-06-01T04:26:49Z",
+      "views": 86,
       "likes": 0,
       "comments": 0
     },
@@ -45,25 +61,33 @@
       "views": 57,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "IDXsWsTRB0U",
-      "title": "Where Cinema Meets Politics: The Tamil Nadu Story",
-      "published_at": "2026-05-30T16:26:18Z",
-      "views": 52,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "MfoLZ2ZLWcU",
-      "title": "What is Apophenia? The Secret Behind Rumors!",
-      "published_at": "2026-05-31T14:35:00Z",
-      "views": 48,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "zwtulRvkris",
+      "title": "Digital Apophenia: How Rumors Go Viral!",
+      "published_at": "2026-06-01T04:26:49Z",
+      "views": 86,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "AuxoUL5KA6U",
+      "title": "Imagine waking up and the Internet thinks THIS!",
+      "published_at": "2026-06-01T04:26:37Z",
+      "views": 461,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "Kb6PP_F9gw0",
+      "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
+      "published_at": "2026-06-01T04:26:32Z",
+      "views": 366,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "sQRs6rkC4uE",
       "title": "Wedding Optics: How a Non-Story Became a Scandal!",
@@ -76,13 +100,13 @@
       "video_id": "hTu51XOWVMI",
       "title": "TVK Rebranded: When Fan Fiction Becomes Reality!",
       "published_at": "2026-05-31T14:35:05Z",
-      "views": 18,
+      "views": 25,
       "likes": 0,
       "comments": 0
     },
     {
       "video_id": "MfoLZ2ZLWcU",
-      "title": "What is Apophenia? The Secret Behind Rumors!",
+      "title": "How Apophenia Is Manipulating You #manipulation #psychology",
       "published_at": "2026-05-31T14:35:00Z",
       "views": 48,
       "likes": 0,
@@ -92,7 +116,7 @@
       "video_id": "IDXsWsTRB0U",
       "title": "Where Cinema Meets Politics: The Tamil Nadu Story",
       "published_at": "2026-05-30T16:26:18Z",
-      "views": 52,
+      "views": 53,
       "likes": 0,
       "comments": 0
     },
@@ -116,37 +140,14 @@
       "video_id": "PnBXoR6DVf4",
       "title": "நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்",
       "published_at": "2026-05-30T09:00:03Z",
-      "views": 14,
+      "views": 16,
       "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "lOrWl_9BhC4",
-      "title": "Trisha's Denial: How a Rumor Became Fan Fiction!",
-      "published_at": "2026-05-28T16:59:31Z",
-      "views": 5,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "u4aXk0WKmEo",
-      "title": "Actress & Home Minister: The Wildest Political Rumor!",
-      "published_at": "2026-05-28T08:20:42Z",
-      "views": 4,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "CtDzJKFbuOY",
-      "title": "May 4th Rumor: Movie Plot Becomes Political Reality!",
-      "published_at": "2026-05-28T08:20:36Z",
-      "views": 139,
-      "likes": 0,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'May 4th Rumor: Movie Plot Becomes Political Reality!' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'Imagine waking up and the Internet thinks THIS!' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'Digital Apophenia: How Rumors Go Viral!' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
