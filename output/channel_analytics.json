@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-01T21:22:29.256210+00:00",
+  "generated_at": "2026-06-02T02:47:08.445540+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
     "video_count": 808,
-    "view_count": 150417
+    "view_count": 150447
   },
   "summary": {
     "total_channel_subscribers": 351,
     "total_channel_videos": 808,
-    "total_channel_views": 150417,
+    "total_channel_views": 150447,
     "videos_analyzed": 10,
-    "recent_total_views": 1197,
+    "recent_total_views": 1203,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 119.7,
+    "average_views_per_video": 120.3,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.16
+    "average_channel_views_per_video": 186.2
   },
   "top_videos": [
     {
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 430,
+      "views": 432,
       "likes": 0,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "AuxoUL5KA6U",
       "title": "Imagine waking up and the Internet thinks THIS!",
       "published_at": "2026-06-01T04:26:37Z",
-      "views": 400,
+      "views": 403,
       "likes": 2,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "AuxoUL5KA6U",
       "title": "Imagine waking up and the Internet thinks THIS!",
       "published_at": "2026-06-01T04:26:37Z",
-      "views": 400,
+      "views": 403,
       "likes": 2,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 430,
+      "views": 432,
       "likes": 0,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "PnBXoR6DVf4",
       "title": "நேரில் சந்திக்காமல் போரிட்ட ரிச்சர்ட் சலாதீன்",
       "published_at": "2026-05-30T09:00:03Z",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "comments": 0
     }
