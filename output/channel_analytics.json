@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-02T20:36:31.707468+00:00",
+  "generated_at": "2026-06-03T02:55:43.800153+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
     "video_count": 811,
-    "view_count": 150447
+    "view_count": 151372
   },
   "summary": {
     "total_channel_subscribers": 351,
     "total_channel_videos": 811,
-    "total_channel_views": 150447,
+    "total_channel_views": 151372,
     "videos_analyzed": 10,
-    "recent_total_views": 1306,
+    "recent_total_views": 1350,
     "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 130.6,
+    "average_views_per_video": 135.0,
     "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 185.51
+    "average_channel_views_per_video": 186.65
   },
   "top_videos": [
     {
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 557,
+      "views": 583,
       "likes": 0,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "C-ZL4mh8QDo",
       "title": "Actor Vijay's Bold Political Move Creates a Vacuum!",
       "published_at": "2026-06-02T12:47:58Z",
-      "views": 84,
+      "views": 91,
       "likes": 0,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "rgZmPMFkQ7E",
       "title": "Trisha & Vijay: The Ultimate Cinematic Crossover!",
       "published_at": "2026-06-02T12:48:02Z",
-      "views": 21,
+      "views": 26,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "C-ZL4mh8QDo",
       "title": "Actor Vijay's Bold Political Move Creates a Vacuum!",
       "published_at": "2026-06-02T12:47:58Z",
-      "views": 84,
+      "views": 91,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "RDG2DDDffT4",
       "title": "Why Won't This Rumor Die? The Half-Life of Lies!",
       "published_at": "2026-06-02T12:47:55Z",
-      "views": 20,
+      "views": 26,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "Kb6PP_F9gw0",
       "title": "Hollywood vs. Tamil Nadu: Politics & Stardom",
       "published_at": "2026-06-01T04:26:32Z",
-      "views": 557,
+      "views": 583,
       "likes": 0,
       "comments": 0
     },
