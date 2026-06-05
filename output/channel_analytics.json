@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-05T02:37:47.317964+00:00",
+  "generated_at": "2026-06-05T09:33:08.980191+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
-    "video_count": 816,
-    "view_count": 151784
+    "video_count": 817,
+    "view_count": 153441
   },
   "summary": {
     "total_channel_subscribers": 351,
-    "total_channel_videos": 816,
-    "total_channel_views": 151784,
+    "total_channel_videos": 817,
+    "total_channel_views": 153441,
     "videos_analyzed": 10,
-    "recent_total_views": 2408,
-    "recent_total_likes": 8,
+    "recent_total_views": 2031,
+    "recent_total_likes": 6,
     "recent_total_comments": 0,
-    "average_views_per_video": 240.8,
-    "average_likes_per_video": 0.8,
+    "average_views_per_video": 203.1,
+    "average_likes_per_video": 0.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.01
+    "average_channel_views_per_video": 187.81
   },
   "top_videos": [
     {
       "video_id": "9tnMlQe1Pwo",
       "title": "Unpacking the Trisha Krishnan Political Rumor!",
       "published_at": "2026-06-04T05:24:57Z",
-      "views": 972,
+      "views": 973,
       "likes": 3,
       "comments": 0
     },
@@ -34,15 +34,7 @@
       "video_id": "8zuOtpvTtwc",
       "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
       "published_at": "2026-06-04T05:25:06Z",
-      "views": 525,
-      "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "AuxoUL5KA6U",
-      "title": "Imagine waking up and the Internet thinks THIS!",
-      "published_at": "2026-06-01T04:26:37Z",
-      "views": 402,
+      "views": 532,
       "likes": 2,
       "comments": 0
     },
@@ -50,7 +42,7 @@
       "video_id": "C-ZL4mh8QDo",
       "title": "Actor Vijay's Bold Political Move Creates a Vacuum!",
       "published_at": "2026-06-02T12:47:58Z",
-      "views": 181,
+      "views": 183,
       "likes": 0,
       "comments": 0
     },
@@ -58,17 +50,33 @@
       "video_id": "JzjPDXHl3XE",
       "title": "சிலுவைப்படையைக் கூலிப்படையாக்கிய வெனிஸின் பெரும் கடன்",
       "published_at": "2026-06-02T09:00:01Z",
-      "views": 115,
+      "views": 127,
       "likes": 1,
+      "comments": 0
+    },
+    {
+      "video_id": "zwtulRvkris",
+      "title": "What Makes Rumors Go Viral? #DigitalApophenia #SocialMediaAnalysis",
+      "published_at": "2026-06-01T04:26:49Z",
+      "views": 78,
+      "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "g6U1rlYd4ds",
+      "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
+      "published_at": "2026-06-05T09:00:11Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "PH7c_Tdx_-k",
       "title": "Are you getting the full story? #media #news",
       "published_at": "2026-06-04T05:25:13Z",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +84,7 @@
       "video_id": "8zuOtpvTtwc",
       "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
       "published_at": "2026-06-04T05:25:06Z",
-      "views": 525,
+      "views": 532,
       "likes": 2,
       "comments": 0
     },
@@ -84,7 +92,7 @@
       "video_id": "9tnMlQe1Pwo",
       "title": "Unpacking the Trisha Krishnan Political Rumor!",
       "published_at": "2026-06-04T05:24:57Z",
-      "views": 972,
+      "views": 973,
       "likes": 3,
       "comments": 0
     },
@@ -92,7 +100,7 @@
       "video_id": "w13d7hkXo0E",
       "title": "Why You Shouldn't Believe Everything You See on TV",
       "published_at": "2026-06-04T05:24:26Z",
-      "views": 20,
+      "views": 22,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +116,7 @@
       "video_id": "C-ZL4mh8QDo",
       "title": "Actor Vijay's Bold Political Move Creates a Vacuum!",
       "published_at": "2026-06-02T12:47:58Z",
-      "views": 181,
+      "views": 183,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +132,7 @@
       "video_id": "JzjPDXHl3XE",
       "title": "சிலுவைப்படையைக் கூலிப்படையாக்கிய வெனிஸின் பெரும் கடன்",
       "published_at": "2026-06-02T09:00:01Z",
-      "views": 115,
+      "views": 127,
       "likes": 1,
       "comments": 0
     },
@@ -135,19 +143,11 @@
       "views": 78,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "AuxoUL5KA6U",
-      "title": "Imagine waking up and the Internet thinks THIS!",
-      "published_at": "2026-06-01T04:26:37Z",
-      "views": 402,
-      "likes": 2,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'Unpacking the Trisha Krishnan Political Rumor!' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'Are you getting the full story? #media #news' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
