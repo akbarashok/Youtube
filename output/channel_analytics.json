@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-05T14:28:02.393347+00:00",
+  "generated_at": "2026-06-05T19:42:57.187704+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
     "video_count": 817,
-    "view_count": 153441
+    "view_count": 153514
   },
   "summary": {
     "total_channel_subscribers": 351,
     "total_channel_videos": 817,
-    "total_channel_views": 153441,
+    "total_channel_views": 153514,
     "videos_analyzed": 10,
-    "recent_total_views": 2052,
+    "recent_total_views": 2071,
     "recent_total_likes": 6,
     "recent_total_comments": 0,
-    "average_views_per_video": 205.2,
+    "average_views_per_video": 207.1,
     "average_likes_per_video": 0.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.81
+    "average_channel_views_per_video": 187.9
   },
   "top_videos": [
     {
@@ -34,7 +34,7 @@
       "video_id": "8zuOtpvTtwc",
       "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
       "published_at": "2026-06-04T05:25:06Z",
-      "views": 541,
+      "views": 549,
       "likes": 2,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "JzjPDXHl3XE",
       "title": "சிலுவைப்படையைக் கூலிப்படையாக்கிய வெனிஸின் பெரும் கடன்",
       "published_at": "2026-06-02T09:00:01Z",
-      "views": 129,
+      "views": 136,
       "likes": 1,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "8zuOtpvTtwc",
       "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
       "published_at": "2026-06-04T05:25:06Z",
-      "views": 541,
+      "views": 549,
       "likes": 2,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "w13d7hkXo0E",
       "title": "Why You Shouldn't Believe Everything You See on TV",
       "published_at": "2026-06-04T05:24:26Z",
-      "views": 27,
+      "views": 30,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "rgZmPMFkQ7E",
       "title": "Trisha & Vijay: The Ultimate Cinematic Crossover!",
       "published_at": "2026-06-02T12:48:02Z",
-      "views": 66,
+      "views": 67,
       "likes": 0,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "JzjPDXHl3XE",
       "title": "சிலுவைப்படையைக் கூலிப்படையாக்கிய வெனிஸின் பெரும் கடன்",
       "published_at": "2026-06-02T09:00:01Z",
-      "views": 129,
+      "views": 136,
       "likes": 1,
       "comments": 0
     },
