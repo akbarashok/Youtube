@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-07T13:24:36.533640+00:00",
+  "generated_at": "2026-06-07T19:08:11.189221+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
     "video_count": 819,
-    "view_count": 153814
+    "view_count": 153852
   },
   "summary": {
     "total_channel_subscribers": 351,
     "total_channel_videos": 819,
-    "total_channel_views": 153814,
+    "total_channel_views": 153852,
     "videos_analyzed": 10,
-    "recent_total_views": 2055,
+    "recent_total_views": 2063,
     "recent_total_likes": 8,
     "recent_total_comments": 0,
-    "average_views_per_video": 205.5,
+    "average_views_per_video": 206.3,
     "average_likes_per_video": 0.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.81
+    "average_channel_views_per_video": 187.85
   },
   "top_videos": [
     {
@@ -76,7 +76,7 @@
       "video_id": "0WBFcHfacFY",
       "title": "வரலாறு வெறும் போர் கதைகள் அல்ல, மனித உளவியல்!",
       "published_at": "2026-06-06T01:53:36Z",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "kAwVBxcQAME",
       "title": "போர் நிதியம்: அரசுகள் எப்படி பணம் திரட்டின?",
       "published_at": "2026-06-06T01:53:30Z",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 18,
+      "views": 23,
       "likes": 1,
       "comments": 0
     },
