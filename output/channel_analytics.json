@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-06T19:07:20.085457+00:00",
+  "generated_at": "2026-06-07T02:44:02.958555+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 350,
+    "subscriber_count": 351,
     "video_count": 819,
     "view_count": 153638
   },
   "summary": {
-    "total_channel_subscribers": 350,
+    "total_channel_subscribers": 351,
     "total_channel_videos": 819,
     "total_channel_views": 153638,
     "videos_analyzed": 10,
-    "recent_total_views": 1986,
-    "recent_total_likes": 7,
+    "recent_total_views": 2040,
+    "recent_total_likes": 8,
     "recent_total_comments": 0,
-    "average_views_per_video": 198.6,
-    "average_likes_per_video": 0.7,
+    "average_views_per_video": 204.0,
+    "average_likes_per_video": 0.8,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 187.59
   },
@@ -34,7 +34,7 @@
       "video_id": "8zuOtpvTtwc",
       "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
       "published_at": "2026-06-04T05:25:06Z",
-      "views": 660,
+      "views": 710,
       "likes": 4,
       "comments": 0
     },
@@ -92,15 +92,15 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 13,
-      "likes": 0,
+      "views": 15,
+      "likes": 1,
       "comments": 0
     },
     {
       "video_id": "PH7c_Tdx_-k",
       "title": "Vijay and Trisha: The political connection #tamilcinema #politics",
       "published_at": "2026-06-04T05:25:13Z",
-      "views": 31,
+      "views": 33,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "8zuOtpvTtwc",
       "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
       "published_at": "2026-06-04T05:25:06Z",
-      "views": 660,
+      "views": 710,
       "likes": 4,
       "comments": 0
     },
