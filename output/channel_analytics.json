@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-08T15:32:30.954258+00:00",
+  "generated_at": "2026-06-08T20:03:01.118297+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
     "video_count": 821,
-    "view_count": 153890
+    "view_count": 153906
   },
   "summary": {
     "total_channel_subscribers": 351,
     "total_channel_videos": 821,
-    "total_channel_views": 153890,
+    "total_channel_views": 153906,
     "videos_analyzed": 10,
-    "recent_total_views": 1880,
+    "recent_total_views": 1886,
     "recent_total_likes": 8,
     "recent_total_comments": 0,
-    "average_views_per_video": 188.0,
+    "average_views_per_video": 188.6,
     "average_likes_per_video": 0.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.44
+    "average_channel_views_per_video": 187.46
   },
   "top_videos": [
     {
@@ -55,11 +55,11 @@
       "comments": 0
     },
     {
-      "video_id": "PH7c_Tdx_-k",
-      "title": "Vijay and Trisha: The political connection #tamilcinema #politics",
-      "published_at": "2026-06-04T05:25:13Z",
+      "video_id": "g6U1rlYd4ds",
+      "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
+      "published_at": "2026-06-05T09:00:11Z",
       "views": 33,
-      "likes": 0,
+      "likes": 1,
       "comments": 0
     }
   ],
@@ -100,7 +100,7 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 27,
+      "views": 33,
       "likes": 1,
       "comments": 0
     },
