@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-08T02:47:32.995399+00:00",
+  "generated_at": "2026-06-08T10:19:48.459743+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
-    "video_count": 819,
-    "view_count": 153852
+    "video_count": 821,
+    "view_count": 153890
   },
   "summary": {
     "total_channel_subscribers": 351,
-    "total_channel_videos": 819,
-    "total_channel_views": 153852,
+    "total_channel_videos": 821,
+    "total_channel_views": 153890,
     "videos_analyzed": 10,
-    "recent_total_views": 2065,
+    "recent_total_views": 1877,
     "recent_total_likes": 8,
     "recent_total_comments": 0,
-    "average_views_per_video": 206.5,
+    "average_views_per_video": 187.7,
     "average_likes_per_video": 0.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.85
+    "average_channel_views_per_video": 187.44
   },
   "top_videos": [
     {
@@ -39,14 +39,6 @@
       "comments": 0
     },
     {
-      "video_id": "C-ZL4mh8QDo",
-      "title": "Actor Vijay's Bold Political Move Creates a Vacuum!",
-      "published_at": "2026-06-02T12:47:58Z",
-      "views": 188,
-      "likes": 0,
-      "comments": 0
-    },
-    {
       "video_id": "rgZmPMFkQ7E",
       "title": "Trisha & Vijay: The Ultimate Cinematic Crossover!",
       "published_at": "2026-06-02T12:48:02Z",
@@ -61,9 +53,25 @@
       "views": 34,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "PH7c_Tdx_-k",
+      "title": "Vijay and Trisha: The political connection #tamilcinema #politics",
+      "published_at": "2026-06-04T05:25:13Z",
+      "views": 33,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "0MmOtnm-f8w",
+      "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
+      "published_at": "2026-06-08T09:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "1LRS37-WdbQ",
       "title": "வரலாறு: வீரர்களை கடந்து மனித உளவியலைப் பேசுது",
@@ -135,19 +143,11 @@
       "views": 67,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "C-ZL4mh8QDo",
-      "title": "Actor Vijay's Bold Political Move Creates a Vacuum!",
-      "published_at": "2026-06-02T12:47:58Z",
-      "views": 188,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'Unpacking the Trisha Krishnan Political Rumor!' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'வரலாறு: வீரர்களை கடந்து மனித உளவியலைப் பேசுது' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
