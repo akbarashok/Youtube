@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:29:59.267798+00:00",
+  "generated_at": "2026-06-09T19:57:33.677782+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,44 +13,44 @@
     "total_channel_videos": 826,
     "total_channel_views": 153924,
     "videos_analyzed": 10,
-    "recent_total_views": 80,
-    "recent_total_likes": 2,
+    "recent_total_views": 1023,
+    "recent_total_likes": 6,
     "recent_total_comments": 0,
-    "average_views_per_video": 8.0,
-    "average_likes_per_video": 0.2,
+    "average_views_per_video": 102.3,
+    "average_likes_per_video": 0.6,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 186.35
   },
   "top_videos": [
     {
+      "video_id": "nuxk8TIRjqo",
+      "title": "2500 ரூபாய் உதவித்தொகை: புதிய வாக்குறுதிகள்!",
+      "published_at": "2026-06-09T13:58:09Z",
+      "views": 887,
+      "likes": 4,
+      "comments": 0
+    },
+    {
+      "video_id": "e9mdPtHE1gg",
+      "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
+      "published_at": "2026-06-09T13:57:53Z",
+      "views": 41,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 40,
+      "views": 41,
       "likes": 2,
       "comments": 0
     },
     {
-      "video_id": "0WBFcHfacFY",
-      "title": "வரலாறு வெறும் போர் கதைகள் அல்ல, மனித உளவியல்!",
-      "published_at": "2026-06-06T01:53:36Z",
-      "views": 10,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "1LRS37-WdbQ",
-      "title": "வரலாறு: வீரர்களை கடந்து மனித உளவியலைப் பேசுது",
-      "published_at": "2026-06-06T01:53:38Z",
-      "views": 8,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "kAwVBxcQAME",
-      "title": "போர் நிதியம்: அரசுகள் எப்படி பணம் திரட்டின?",
-      "published_at": "2026-06-06T01:53:30Z",
-      "views": 8,
+      "video_id": "wceD2crDkIg",
+      "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
+      "published_at": "2026-06-09T13:58:21Z",
+      "views": 15,
       "likes": 0,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 7,
+      "views": 13,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "wceD2crDkIg",
       "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
       "published_at": "2026-06-09T13:58:21Z",
-      "views": 0,
+      "views": 15,
       "likes": 0,
       "comments": 0
     },
@@ -76,15 +76,15 @@
       "video_id": "nuxk8TIRjqo",
       "title": "2500 ரூபாய் உதவித்தொகை: புதிய வாக்குறுதிகள்!",
       "published_at": "2026-06-09T13:58:09Z",
-      "views": 5,
-      "likes": 0,
+      "views": 887,
+      "likes": 4,
       "comments": 0
     },
     {
       "video_id": "e9mdPtHE1gg",
       "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
       "published_at": "2026-06-09T13:57:53Z",
-      "views": 2,
+      "views": 41,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 7,
+      "views": 13,
       "likes": 0,
       "comments": 0
     },
@@ -140,16 +140,15 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 40,
+      "views": 41,
       "likes": 2,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்' because it is outperforming the recent channel average.",
+    "Review the format and topic of '2500 ரூபாய் உதவித்தொகை: புதிய வாக்குறுதிகள்!' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload 'இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
-    "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate.",
-    "Test more discoverable topics and keyword-focused titles because average recent views are low relative to the subscriber base."
+    "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
 }
