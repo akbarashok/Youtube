@@ -1,74 +1,114 @@
 {
-  "generated_at": "2026-06-09T09:26:08.785851+00:00",
+  "generated_at": "2026-06-09T14:29:59.267798+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 351,
-    "video_count": 821,
+    "video_count": 826,
     "view_count": 153924
   },
   "summary": {
     "total_channel_subscribers": 351,
-    "total_channel_videos": 821,
+    "total_channel_videos": 826,
     "total_channel_views": 153924,
     "videos_analyzed": 10,
-    "recent_total_views": 1888,
-    "recent_total_likes": 9,
+    "recent_total_views": 80,
+    "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 188.8,
-    "average_likes_per_video": 0.9,
+    "average_views_per_video": 8.0,
+    "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.48
+    "average_channel_views_per_video": 186.35
   },
   "top_videos": [
-    {
-      "video_id": "9tnMlQe1Pwo",
-      "title": "Unpacking the Trisha Krishnan Political Rumor!",
-      "published_at": "2026-06-04T05:24:57Z",
-      "views": 973,
-      "likes": 3,
-      "comments": 0
-    },
-    {
-      "video_id": "8zuOtpvTtwc",
-      "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
-      "published_at": "2026-06-04T05:25:06Z",
-      "views": 721,
-      "likes": 4,
-      "comments": 0
-    },
-    {
-      "video_id": "rgZmPMFkQ7E",
-      "title": "Trisha & Vijay: The Ultimate Cinematic Crossover!",
-      "published_at": "2026-06-02T12:48:02Z",
-      "views": 67,
-      "likes": 0,
-      "comments": 0
-    },
     {
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 34,
+      "views": 40,
       "likes": 2,
       "comments": 0
     },
     {
-      "video_id": "w13d7hkXo0E",
-      "title": "Why You Shouldn't Believe Everything You See on TV",
-      "published_at": "2026-06-04T05:24:26Z",
-      "views": 34,
+      "video_id": "0WBFcHfacFY",
+      "title": "வரலாறு வெறும் போர் கதைகள் அல்ல, மனித உளவியல்!",
+      "published_at": "2026-06-06T01:53:36Z",
+      "views": 10,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "1LRS37-WdbQ",
+      "title": "வரலாறு: வீரர்களை கடந்து மனித உளவியலைப் பேசுது",
+      "published_at": "2026-06-06T01:53:38Z",
+      "views": 8,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "kAwVBxcQAME",
+      "title": "போர் நிதியம்: அரசுகள் எப்படி பணம் திரட்டின?",
+      "published_at": "2026-06-06T01:53:30Z",
+      "views": 8,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "0MmOtnm-f8w",
+      "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
+      "published_at": "2026-06-08T09:00:00Z",
+      "views": 7,
       "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "wceD2crDkIg",
+      "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
+      "published_at": "2026-06-09T13:58:21Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "nuxk8TIRjqo",
+      "title": "2500 ரூபாய் உதவித்தொகை: புதிய வாக்குறுதிகள்!",
+      "published_at": "2026-06-09T13:58:09Z",
+      "views": 5,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "e9mdPtHE1gg",
+      "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
+      "published_at": "2026-06-09T13:57:53Z",
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "WTyZqvYZqsA",
+      "title": "The Real Reason Everyone Is Talking About Vijay’s Politics",
+      "published_at": "2026-06-09T13:40:28Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "M1ipk2KPj_M",
+      "title": "ஆட்சி நிர்வாகத்தில் செய்யும் இந்த தவறுகளை நிறுத்துங்கள்: முதல்வரின் உண்மையான நிலை",
+      "published_at": "2026-06-09T13:40:04Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 0,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -100,55 +140,16 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 34,
+      "views": 40,
       "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "PH7c_Tdx_-k",
-      "title": "Vijay and Trisha: The political connection #tamilcinema #politics",
-      "published_at": "2026-06-04T05:25:13Z",
-      "views": 33,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "8zuOtpvTtwc",
-      "title": "Actors to Leaders: Tamil Nadu's Unique Political Path!",
-      "published_at": "2026-06-04T05:25:06Z",
-      "views": 721,
-      "likes": 4,
-      "comments": 0
-    },
-    {
-      "video_id": "9tnMlQe1Pwo",
-      "title": "Unpacking the Trisha Krishnan Political Rumor!",
-      "published_at": "2026-06-04T05:24:57Z",
-      "views": 973,
-      "likes": 3,
-      "comments": 0
-    },
-    {
-      "video_id": "w13d7hkXo0E",
-      "title": "Why You Shouldn't Believe Everything You See on TV",
-      "published_at": "2026-06-04T05:24:26Z",
-      "views": 34,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "rgZmPMFkQ7E",
-      "title": "Trisha & Vijay: The Ultimate Cinematic Crossover!",
-      "published_at": "2026-06-02T12:48:02Z",
-      "views": 67,
-      "likes": 0,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'Unpacking the Trisha Krishnan Political Rumor!' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
-    "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
+    "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate.",
+    "Test more discoverable topics and keyword-focused titles because average recent views are low relative to the subscriber base."
   ]
 }
