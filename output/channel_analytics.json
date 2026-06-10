@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-09T19:57:33.677782+00:00",
+  "generated_at": "2026-06-10T02:38:02.212590+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 351,
+    "subscriber_count": 352,
     "video_count": 826,
-    "view_count": 153924
+    "view_count": 153969
   },
   "summary": {
-    "total_channel_subscribers": 351,
+    "total_channel_subscribers": 352,
     "total_channel_videos": 826,
-    "total_channel_views": 153924,
+    "total_channel_views": 153969,
     "videos_analyzed": 10,
-    "recent_total_views": 1023,
+    "recent_total_views": 1052,
     "recent_total_likes": 6,
     "recent_total_comments": 0,
-    "average_views_per_video": 102.3,
+    "average_views_per_video": 105.2,
     "average_likes_per_video": 0.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 186.35
+    "average_channel_views_per_video": 186.4
   },
   "top_videos": [
     {
@@ -34,7 +34,7 @@
       "video_id": "e9mdPtHE1gg",
       "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
       "published_at": "2026-06-09T13:57:53Z",
-      "views": 41,
+      "views": 49,
       "likes": 0,
       "comments": 0
     },
@@ -42,23 +42,23 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 41,
+      "views": 47,
       "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "wceD2crDkIg",
-      "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
-      "published_at": "2026-06-09T13:58:21Z",
-      "views": 15,
-      "likes": 0,
       "comments": 0
     },
     {
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 13,
+      "views": 22,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "wceD2crDkIg",
+      "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
+      "published_at": "2026-06-09T13:58:21Z",
+      "views": 21,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "wceD2crDkIg",
       "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
       "published_at": "2026-06-09T13:58:21Z",
-      "views": 15,
+      "views": 21,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "e9mdPtHE1gg",
       "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
       "published_at": "2026-06-09T13:57:53Z",
-      "views": 41,
+      "views": 49,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 13,
+      "views": 22,
       "likes": 0,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 41,
+      "views": 47,
       "likes": 2,
       "comments": 0
     }
