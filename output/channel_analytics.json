@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-11T15:38:15.823315+00:00",
+  "generated_at": "2026-06-11T20:11:04.924393+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 355,
+    "subscriber_count": 356,
     "video_count": 830,
     "view_count": 155636
   },
   "summary": {
-    "total_channel_subscribers": 355,
+    "total_channel_subscribers": 356,
     "total_channel_videos": 830,
     "total_channel_views": 155636,
     "videos_analyzed": 10,
-    "recent_total_views": 6232,
-    "recent_total_likes": 49,
+    "recent_total_views": 6574,
+    "recent_total_likes": 53,
     "recent_total_comments": 0,
-    "average_views_per_video": 623.2,
-    "average_likes_per_video": 4.9,
+    "average_views_per_video": 657.4,
+    "average_likes_per_video": 5.3,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 187.51
   },
@@ -26,15 +26,15 @@
       "video_id": "wceD2crDkIg",
       "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
       "published_at": "2026-06-09T13:58:21Z",
-      "views": 1410,
-      "likes": 4,
+      "views": 1486,
+      "likes": 5,
       "comments": 0
     },
     {
       "video_id": "e9mdPtHE1gg",
       "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
       "published_at": "2026-06-09T13:57:53Z",
-      "views": 1408,
+      "views": 1411,
       "likes": 5,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "EdiS84p2D8I",
       "title": "10 லட்சம் கோடி கடன்: வாக்குறுதிகள் சாத்தியமா?",
       "published_at": "2026-06-11T08:49:19Z",
-      "views": 1154,
+      "views": 1166,
       "likes": 8,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "W_9A7FTaNX8",
       "title": "நடிகர் விஜய் அரசியல் எழுச்சி: ஒரு பெரும் நிலநடுக்கம்!",
       "published_at": "2026-06-11T08:49:13Z",
-      "views": 1001,
+      "views": 1076,
       "likes": 18,
       "comments": 0
     },
@@ -76,15 +76,15 @@
       "video_id": "mt0raQ6qd_8",
       "title": "எக்ஸ்ரே போல அரசியல் அதிர்ச்சி! - விஜய் அரசியல்",
       "published_at": "2026-06-11T08:49:24Z",
-      "views": 180,
-      "likes": 8,
+      "views": 312,
+      "likes": 11,
       "comments": 0
     },
     {
       "video_id": "EdiS84p2D8I",
       "title": "10 லட்சம் கோடி கடன்: வாக்குறுதிகள் சாத்தியமா?",
       "published_at": "2026-06-11T08:49:19Z",
-      "views": 1154,
+      "views": 1166,
       "likes": 8,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "W_9A7FTaNX8",
       "title": "நடிகர் விஜய் அரசியல் எழுச்சி: ஒரு பெரும் நிலநடுக்கம்!",
       "published_at": "2026-06-11T08:49:13Z",
-      "views": 1001,
+      "views": 1076,
       "likes": 18,
       "comments": 0
     },
@@ -100,8 +100,8 @@
       "video_id": "wceD2crDkIg",
       "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
       "published_at": "2026-06-09T13:58:21Z",
-      "views": 1410,
-      "likes": 4,
+      "views": 1486,
+      "likes": 5,
       "comments": 0
     },
     {
@@ -116,7 +116,7 @@
       "video_id": "e9mdPtHE1gg",
       "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
       "published_at": "2026-06-09T13:57:53Z",
-      "views": 1408,
+      "views": 1411,
       "likes": 5,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "WTyZqvYZqsA",
       "title": "The Real Reason Everyone Is Talking About Vijay’s Politics",
       "published_at": "2026-06-09T13:40:28Z",
-      "views": 36,
+      "views": 45,
       "likes": 0,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "M1ipk2KPj_M",
       "title": "ஆட்சி நிர்வாகத்தில் செய்யும் இந்த தவறுகளை நிறுத்துங்கள்: முதல்வரின் உண்மையான நிலை",
       "published_at": "2026-06-09T13:40:04Z",
-      "views": 66,
+      "views": 80,
       "likes": 2,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 79,
+      "views": 100,
       "likes": 0,
       "comments": 0
     }
