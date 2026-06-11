@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-10T20:14:22.062580+00:00",
+  "generated_at": "2026-06-11T02:47:51.618637+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 352,
     "video_count": 826,
-    "view_count": 154941
+    "view_count": 155451
   },
   "summary": {
     "total_channel_subscribers": 352,
     "total_channel_videos": 826,
-    "total_channel_views": 154941,
+    "total_channel_views": 155451,
     "videos_analyzed": 10,
-    "recent_total_views": 1625,
+    "recent_total_views": 1755,
     "recent_total_likes": 11,
     "recent_total_comments": 0,
-    "average_views_per_video": 162.5,
+    "average_views_per_video": 175.5,
     "average_likes_per_video": 1.1,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 187.58
+    "average_channel_views_per_video": 188.2
   },
   "top_videos": [
     {
       "video_id": "nuxk8TIRjqo",
       "title": "2500 ரூபாய் உதவித்தொகை: புதிய வாக்குறுதிகள்!",
       "published_at": "2026-06-09T13:58:09Z",
-      "views": 893,
+      "views": 897,
       "likes": 4,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "e9mdPtHE1gg",
       "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
       "published_at": "2026-06-09T13:57:53Z",
-      "views": 502,
+      "views": 611,
       "likes": 1,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 59,
+      "views": 66,
       "likes": 0,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 51,
+      "views": 53,
       "likes": 2,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "M1ipk2KPj_M",
       "title": "ஆட்சி நிர்வாகத்தில் செய்யும் இந்த தவறுகளை நிறுத்துங்கள்: முதல்வரின் உண்மையான நிலை",
       "published_at": "2026-06-09T13:40:04Z",
-      "views": 36,
+      "views": 38,
       "likes": 2,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "wceD2crDkIg",
       "title": "இடைத்தேர்தல் முக்கியத்துவம்: தோற்றால் என்னவாகும்?",
       "published_at": "2026-06-09T13:58:21Z",
-      "views": 33,
+      "views": 35,
       "likes": 2,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "nuxk8TIRjqo",
       "title": "2500 ரூபாய் உதவித்தொகை: புதிய வாக்குறுதிகள்!",
       "published_at": "2026-06-09T13:58:09Z",
-      "views": 893,
+      "views": 897,
       "likes": 4,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "e9mdPtHE1gg",
       "title": "நம்பவே முடியல! அந்த மேஜிக் எப்படி நடந்தது?",
       "published_at": "2026-06-09T13:57:53Z",
-      "views": 502,
+      "views": 611,
       "likes": 1,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "WTyZqvYZqsA",
       "title": "The Real Reason Everyone Is Talking About Vijay’s Politics",
       "published_at": "2026-06-09T13:40:28Z",
-      "views": 24,
+      "views": 28,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "M1ipk2KPj_M",
       "title": "ஆட்சி நிர்வாகத்தில் செய்யும் இந்த தவறுகளை நிறுத்துங்கள்: முதல்வரின் உண்மையான நிலை",
       "published_at": "2026-06-09T13:40:04Z",
-      "views": 36,
+      "views": 38,
       "likes": 2,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "0MmOtnm-f8w",
       "title": "எப்படி நெருக்கடிப்பட்டு வீழ்ந்தது கான்ஸ்டான்டினோபிள்?",
       "published_at": "2026-06-08T09:00:00Z",
-      "views": 59,
+      "views": 66,
       "likes": 0,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "g6U1rlYd4ds",
       "title": "சிலுவைப்போரில் மறைக்கப்பட்ட வெனிஸ் இரகசியம்",
       "published_at": "2026-06-05T09:00:11Z",
-      "views": 51,
+      "views": 53,
       "likes": 2,
       "comments": 0
     }
