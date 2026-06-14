@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T19:10:34.231211+00:00",
+  "generated_at": "2026-06-14T02:48:32.758475+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,10 +13,10 @@
     "total_channel_videos": 836,
     "total_channel_views": 166990,
     "videos_analyzed": 10,
-    "recent_total_views": 10733,
+    "recent_total_views": 10986,
     "recent_total_likes": 84,
     "recent_total_comments": 1,
-    "average_views_per_video": 1073.3,
+    "average_views_per_video": 1098.6,
     "average_likes_per_video": 8.4,
     "average_comments_per_video": 0.1,
     "average_channel_views_per_video": 199.75
@@ -26,7 +26,7 @@
       "video_id": "mt0raQ6qd_8",
       "title": "எக்ஸ்ரே போல அரசியல் அதிர்ச்சி! - விஜய் அரசியல்",
       "published_at": "2026-06-11T08:49:24Z",
-      "views": 1720,
+      "views": 1747,
       "likes": 17,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "W_9A7FTaNX8",
       "title": "நடிகர் விஜய் அரசியல் எழுச்சி: ஒரு பெரும் நிலநடுக்கம்!",
       "published_at": "2026-06-11T08:49:13Z",
-      "views": 1284,
+      "views": 1287,
       "likes": 20,
       "comments": 1
     },
@@ -66,9 +66,9 @@
   "recent_videos": [
     {
       "video_id": "SBSLNGmZ0i8",
-      "title": "கூட்டணி பலம்: 108 இடங்கள் தாண்டி பெரும் வெற்றி!",
+      "title": "120 இடங்களுக்கு வந்த கூட்டணிப் படை - என்ன நடந்தது? #தேர்தல் #வெற்றி",
       "published_at": "2026-06-13T10:39:00Z",
-      "views": 997,
+      "views": 1113,
       "likes": 6,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "bCFiviy1QOw",
       "title": "OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?",
       "published_at": "2026-06-13T10:38:56Z",
-      "views": 1006,
+      "views": 1068,
       "likes": 3,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "VkS9PKXGC7o",
       "title": "பதவியேற்ற முதல் நாள் அதிரடி: தலைவரின் பவர்!",
       "published_at": "2026-06-13T10:38:46Z",
-      "views": 847,
+      "views": 889,
       "likes": 5,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "5Q3_4qrQ2Y4",
       "title": "கான்ஸ்டாண்டினோபிள் கொள்ளையும் சிலுவைப் போர் துரோகமும் #கான்ஸ்டாண்டினோபிள் #சிலுவைப்போர் #noolisam",
       "published_at": "2026-06-11T09:00:00Z",
-      "views": 32,
+      "views": 35,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "mt0raQ6qd_8",
       "title": "எக்ஸ்ரே போல அரசியல் அதிர்ச்சி! - விஜய் அரசியல்",
       "published_at": "2026-06-11T08:49:24Z",
-      "views": 1720,
+      "views": 1747,
       "likes": 17,
       "comments": 0
     },
@@ -140,14 +140,13 @@
       "video_id": "W_9A7FTaNX8",
       "title": "நடிகர் விஜய் அரசியல் எழுச்சி: ஒரு பெரும் நிலநடுக்கம்!",
       "published_at": "2026-06-11T08:49:13Z",
-      "views": 1284,
+      "views": 1287,
       "likes": 20,
       "comments": 1
     }
   ],
   "recommendations": [
     "Review the format and topic of 'எக்ஸ்ரே போல அரசியல் அதிர்ச்சி! - விஜய் அரசியல்' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'கூட்டணி பலம்: 108 இடங்கள் தாண்டி பெரும் வெற்றி!' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
