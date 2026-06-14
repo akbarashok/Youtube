@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-14T02:48:32.758475+00:00",
+  "generated_at": "2026-06-14T09:19:47.147334+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 364,
-    "video_count": 836,
-    "view_count": 166990
+    "subscriber_count": 365,
+    "video_count": 837,
+    "view_count": 170520
   },
   "summary": {
-    "total_channel_subscribers": 364,
-    "total_channel_videos": 836,
-    "total_channel_views": 166990,
+    "total_channel_subscribers": 365,
+    "total_channel_videos": 837,
+    "total_channel_views": 170520,
     "videos_analyzed": 10,
-    "recent_total_views": 10986,
-    "recent_total_likes": 84,
-    "recent_total_comments": 1,
-    "average_views_per_video": 1098.6,
-    "average_likes_per_video": 8.4,
-    "average_comments_per_video": 0.1,
-    "average_channel_views_per_video": 199.75
+    "recent_total_views": 9704,
+    "recent_total_likes": 64,
+    "recent_total_comments": 0,
+    "average_views_per_video": 970.4,
+    "average_likes_per_video": 6.4,
+    "average_comments_per_video": 0.0,
+    "average_channel_views_per_video": 203.73
   },
   "top_videos": [
     {
       "video_id": "mt0raQ6qd_8",
       "title": "எக்ஸ்ரே போல அரசியல் அதிர்ச்சி! - விஜய் அரசியல்",
       "published_at": "2026-06-11T08:49:24Z",
-      "views": 1747,
+      "views": 1750,
       "likes": 17,
       "comments": 0
     },
@@ -47,23 +47,31 @@
       "comments": 0
     },
     {
-      "video_id": "W_9A7FTaNX8",
-      "title": "நடிகர் விஜய் அரசியல் எழுச்சி: ஒரு பெரும் நிலநடுக்கம்!",
-      "published_at": "2026-06-11T08:49:13Z",
-      "views": 1287,
-      "likes": 20,
-      "comments": 1
-    },
-    {
       "video_id": "tfrPNO_30rg",
       "title": "கூட்டணிக்கு ஏன் பெயர் சூட்டுதல்: பெரும் சலசலப்பு!",
       "published_at": "2026-06-12T14:20:48Z",
       "views": 1163,
       "likes": 7,
       "comments": 0
+    },
+    {
+      "video_id": "SBSLNGmZ0i8",
+      "title": "120 இடங்களுக்கு வந்த கூட்டணிப் படை - என்ன நடந்தது? #தேர்தல் #வெற்றி",
+      "published_at": "2026-06-13T10:39:00Z",
+      "views": 1113,
+      "likes": 6,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "nzVdIHZMufc",
+      "title": "சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை",
+      "published_at": "2026-06-14T09:00:09Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "SBSLNGmZ0i8",
       "title": "120 இடங்களுக்கு வந்த கூட்டணிப் படை - என்ன நடந்தது? #தேர்தல் #வெற்றி",
@@ -84,7 +92,7 @@
       "video_id": "VkS9PKXGC7o",
       "title": "பதவியேற்ற முதல் நாள் அதிரடி: தலைவரின் பவர்!",
       "published_at": "2026-06-13T10:38:46Z",
-      "views": 889,
+      "views": 891,
       "likes": 5,
       "comments": 0
     },
@@ -124,7 +132,7 @@
       "video_id": "mt0raQ6qd_8",
       "title": "எக்ஸ்ரே போல அரசியல் அதிர்ச்சி! - விஜய் அரசியல்",
       "published_at": "2026-06-11T08:49:24Z",
-      "views": 1747,
+      "views": 1750,
       "likes": 17,
       "comments": 0
     },
@@ -135,18 +143,11 @@
       "views": 1398,
       "likes": 9,
       "comments": 0
-    },
-    {
-      "video_id": "W_9A7FTaNX8",
-      "title": "நடிகர் விஜய் அரசியல் எழுச்சி: ஒரு பெரும் நிலநடுக்கம்!",
-      "published_at": "2026-06-11T08:49:13Z",
-      "views": 1287,
-      "likes": 20,
-      "comments": 1
     }
   ],
   "recommendations": [
     "Review the format and topic of 'எக்ஸ்ரே போல அரசியல் அதிர்ச்சி! - விஜய் அரசியல்' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
