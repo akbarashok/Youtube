@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T11:48:25.868466+00:00",
+  "generated_at": "2026-06-15T17:01:15.881699+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,11 +13,11 @@
     "total_channel_videos": 840,
     "total_channel_views": 171123,
     "videos_analyzed": 10,
-    "recent_total_views": 7106,
-    "recent_total_likes": 40,
+    "recent_total_views": 9284,
+    "recent_total_likes": 62,
     "recent_total_comments": 0,
-    "average_views_per_video": 710.6,
-    "average_likes_per_video": 4.0,
+    "average_views_per_video": 928.4,
+    "average_likes_per_video": 6.2,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 203.72
   },
@@ -26,7 +26,7 @@
       "video_id": "bCFiviy1QOw",
       "title": "OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?",
       "published_at": "2026-06-13T10:38:56Z",
-      "views": 1488,
+      "views": 1522,
       "likes": 3,
       "comments": 0
     },
@@ -42,8 +42,16 @@
       "video_id": "SBSLNGmZ0i8",
       "title": "120 இடங்களுக்கு வந்த கூட்டணிப் படை - என்ன நடந்தது? #தேர்தல் #வெற்றி",
       "published_at": "2026-06-13T10:39:00Z",
-      "views": 1232,
-      "likes": 8,
+      "views": 1268,
+      "likes": 9,
+      "comments": 0
+    },
+    {
+      "video_id": "C-BxVUEIjuI",
+      "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
+      "published_at": "2026-06-15T11:00:25Z",
+      "views": 1221,
+      "likes": 6,
       "comments": 0
     },
     {
@@ -53,14 +61,6 @@
       "views": 1165,
       "likes": 7,
       "comments": 0
-    },
-    {
-      "video_id": "VLUTxoyFdy8",
-      "title": "இலவச மின்சாரம், சிங்கப் பெண் படை: புதிய திட்டங்கள்!",
-      "published_at": "2026-06-12T14:20:40Z",
-      "views": 969,
-      "likes": 10,
-      "comments": 0
     }
   ],
   "recent_videos": [
@@ -68,8 +68,8 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 20,
-      "likes": 0,
+      "views": 1221,
+      "likes": 6,
       "comments": 0
     },
     {
@@ -84,15 +84,15 @@
       "video_id": "99304t21d6A",
       "title": "108 இடங்கள் வெற்றி! அரசியல் மாற்றத்தின் அடையாளம்!",
       "published_at": "2026-06-15T11:00:01Z",
-      "views": 0,
-      "likes": 0,
+      "views": 888,
+      "likes": 15,
       "comments": 0
     },
     {
       "video_id": "nzVdIHZMufc",
       "title": "சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை",
       "published_at": "2026-06-14T09:00:09Z",
-      "views": 1,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },
@@ -100,15 +100,15 @@
       "video_id": "SBSLNGmZ0i8",
       "title": "120 இடங்களுக்கு வந்த கூட்டணிப் படை - என்ன நடந்தது? #தேர்தல் #வெற்றி",
       "published_at": "2026-06-13T10:39:00Z",
-      "views": 1232,
-      "likes": 8,
+      "views": 1268,
+      "likes": 9,
       "comments": 0
     },
     {
       "video_id": "bCFiviy1QOw",
       "title": "OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?",
       "published_at": "2026-06-13T10:38:56Z",
-      "views": 1488,
+      "views": 1522,
       "likes": 3,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "VkS9PKXGC7o",
       "title": "பதவியேற்ற முதல் நாள் அதிரடி: தலைவரின் பவர்!",
       "published_at": "2026-06-13T10:38:46Z",
-      "views": 908,
+      "views": 916,
       "likes": 5,
       "comments": 0
     },
@@ -147,7 +147,6 @@
   ],
   "recommendations": [
     "Review the format and topic of 'OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
