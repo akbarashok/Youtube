@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-15T20:47:01.024833+00:00",
+  "generated_at": "2026-06-16T02:54:08.525718+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 365,
     "video_count": 840,
-    "view_count": 171274
+    "view_count": 171506
   },
   "summary": {
     "total_channel_subscribers": 365,
     "total_channel_videos": 840,
-    "total_channel_views": 171274,
+    "total_channel_views": 171506,
     "videos_analyzed": 10,
-    "recent_total_views": 9414,
+    "recent_total_views": 9421,
     "recent_total_likes": 63,
     "recent_total_comments": 0,
-    "average_views_per_video": 941.4,
+    "average_views_per_video": 942.1,
     "average_likes_per_video": 6.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 203.9
+    "average_channel_views_per_video": 204.17
   },
   "top_videos": [
     {
       "video_id": "bCFiviy1QOw",
       "title": "OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?",
       "published_at": "2026-06-13T10:38:56Z",
-      "views": 1529,
+      "views": 1531,
       "likes": 3,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "5aAqfNndyt0",
       "title": "விமர்சனங்களை ஏற்க வேண்டும்: சர்வாதிகாரப் போக்கு கூடாது!",
       "published_at": "2026-06-12T14:20:35Z",
-      "views": 1323,
+      "views": 1319,
       "likes": 7,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "SBSLNGmZ0i8",
       "title": "120 இடங்களுக்கு வந்த கூட்டணிப் படை - என்ன நடந்தது? #தேர்தல் #வெற்றி",
       "published_at": "2026-06-13T10:39:00Z",
-      "views": 1289,
+      "views": 1295,
       "likes": 9,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1240,
+      "views": 1241,
       "likes": 6,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1240,
+      "views": 1241,
       "likes": 6,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "nzVdIHZMufc",
       "title": "சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை",
       "published_at": "2026-06-14T09:00:09Z",
-      "views": 16,
+      "views": 18,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "SBSLNGmZ0i8",
       "title": "120 இடங்களுக்கு வந்த கூட்டணிப் படை - என்ன நடந்தது? #தேர்தல் #வெற்றி",
       "published_at": "2026-06-13T10:39:00Z",
-      "views": 1289,
+      "views": 1295,
       "likes": 9,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "bCFiviy1QOw",
       "title": "OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?",
       "published_at": "2026-06-13T10:38:56Z",
-      "views": 1529,
+      "views": 1531,
       "likes": 3,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "5aAqfNndyt0",
       "title": "விமர்சனங்களை ஏற்க வேண்டும்: சர்வாதிகாரப் போக்கு கூடாது!",
       "published_at": "2026-06-12T14:20:35Z",
-      "views": 1323,
+      "views": 1319,
       "likes": 7,
       "comments": 0
     }
