@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-17T14:55:01.985720+00:00",
+  "generated_at": "2026-06-17T20:01:58.947637+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 367,
     "video_count": 841,
-    "view_count": 173933
+    "view_count": 173985
   },
   "summary": {
     "total_channel_subscribers": 367,
     "total_channel_videos": 841,
-    "total_channel_views": 173933,
+    "total_channel_views": 173985,
     "videos_analyzed": 10,
-    "recent_total_views": 8302,
+    "recent_total_views": 8315,
     "recent_total_likes": 57,
     "recent_total_comments": 0,
-    "average_views_per_video": 830.2,
+    "average_views_per_video": 831.5,
     "average_likes_per_video": 5.7,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 206.82
+    "average_channel_views_per_video": 206.88
   },
   "top_videos": [
     {
@@ -42,7 +42,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1277,
+      "views": 1288,
       "likes": 6,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "b38euYnCndU",
       "title": "இலவச எருசலேமைத் தூக்கியெறிந்த ஐந்தாம் சிலுவைப் போர் | வரலாற்றின் மறந்த சண்டை",
       "published_at": "2026-06-17T09:00:21Z",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1277,
+      "views": 1288,
       "likes": 6,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "nzVdIHZMufc",
       "title": "சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை",
       "published_at": "2026-06-14T09:00:09Z",
-      "views": 102,
+      "views": 103,
       "likes": 1,
       "comments": 0
     },
