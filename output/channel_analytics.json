@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-16T20:40:53.589931+00:00",
+  "generated_at": "2026-06-17T02:51:20.351903+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 367,
     "video_count": 840,
-    "view_count": 173794
+    "view_count": 173933
   },
   "summary": {
     "total_channel_subscribers": 367,
     "total_channel_videos": 840,
-    "total_channel_views": 173794,
+    "total_channel_views": 173933,
     "videos_analyzed": 10,
-    "recent_total_views": 9555,
+    "recent_total_views": 9569,
     "recent_total_likes": 64,
     "recent_total_comments": 0,
-    "average_views_per_video": 955.5,
+    "average_views_per_video": 956.9,
     "average_likes_per_video": 6.4,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 206.9
+    "average_channel_views_per_video": 207.06
   },
   "top_videos": [
     {
       "video_id": "bCFiviy1QOw",
       "title": "OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?",
       "published_at": "2026-06-13T10:38:56Z",
-      "views": 1533,
+      "views": 1534,
       "likes": 3,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1257,
+      "views": 1258,
       "likes": 6,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1257,
+      "views": 1258,
       "likes": 6,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "99304t21d6A",
       "title": "108 இடங்கள் வெற்றி! அரசியல் மாற்றத்தின் அடையாளம்!",
       "published_at": "2026-06-15T11:00:01Z",
-      "views": 972,
+      "views": 974,
       "likes": 16,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "nzVdIHZMufc",
       "title": "சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை",
       "published_at": "2026-06-14T09:00:09Z",
-      "views": 84,
+      "views": 93,
       "likes": 1,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "bCFiviy1QOw",
       "title": "OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?",
       "published_at": "2026-06-13T10:38:56Z",
-      "views": 1533,
+      "views": 1534,
       "likes": 3,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "VkS9PKXGC7o",
       "title": "பதவியேற்ற முதல் நாள் அதிரடி: தலைவரின் பவர்!",
       "published_at": "2026-06-13T10:38:46Z",
-      "views": 919,
+      "views": 920,
       "likes": 5,
       "comments": 0
     },
