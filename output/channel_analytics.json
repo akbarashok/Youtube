@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-18T14:50:24.326438+00:00",
+  "generated_at": "2026-06-18T20:12:24.676058+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 367,
-    "video_count": 841,
+    "video_count": 843,
     "view_count": 174022
   },
   "summary": {
     "total_channel_subscribers": 367,
-    "total_channel_videos": 841,
+    "total_channel_videos": 843,
     "total_channel_views": 174022,
     "videos_analyzed": 10,
-    "recent_total_views": 8379,
-    "recent_total_likes": 57,
+    "recent_total_views": 6257,
+    "recent_total_likes": 40,
     "recent_total_comments": 0,
-    "average_views_per_video": 837.9,
-    "average_likes_per_video": 5.7,
+    "average_views_per_video": 625.7,
+    "average_likes_per_video": 4.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 206.92
+    "average_channel_views_per_video": 206.43
   },
   "top_videos": [
     {
@@ -42,16 +42,8 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1323,
+      "views": 1330,
       "likes": 6,
-      "comments": 0
-    },
-    {
-      "video_id": "tfrPNO_30rg",
-      "title": "கூட்டணிக்கு ஏன் பெயர் சூட்டுதல்: பெரும் சலசலப்பு!",
-      "published_at": "2026-06-12T14:20:48Z",
-      "views": 1168,
-      "likes": 7,
       "comments": 0
     },
     {
@@ -61,9 +53,33 @@
       "views": 978,
       "likes": 16,
       "comments": 0
+    },
+    {
+      "video_id": "VkS9PKXGC7o",
+      "title": "பதவியேற்ற முதல் நாள் அதிரடி: தலைவரின் பவர்!",
+      "published_at": "2026-06-13T10:38:46Z",
+      "views": 922,
+      "likes": 5,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "LVo0--WsvVQ",
+      "title": "Tamil Nadu's Power Grid Is It Broken?",
+      "published_at": "2026-06-18T15:00:17Z",
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "_xLTI_WA-NY",
+      "title": "தமிழக மின்வெட்டும் மின்வாரிய நிதி நெருக்கடியும்",
+      "published_at": "2026-06-18T15:00:02Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "b38euYnCndU",
       "title": "இலவச எருசலேமைத் தூக்கியெறிந்த ஐந்தாம் சிலுவைப் போர் | வரலாற்றின் மறந்த சண்டை",
@@ -76,7 +92,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1323,
+      "views": 1330,
       "likes": 6,
       "comments": 0
     },
@@ -100,7 +116,7 @@
       "video_id": "nzVdIHZMufc",
       "title": "சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை",
       "published_at": "2026-06-14T09:00:09Z",
-      "views": 127,
+      "views": 134,
       "likes": 1,
       "comments": 0
     },
@@ -127,27 +143,11 @@
       "views": 922,
       "likes": 5,
       "comments": 0
-    },
-    {
-      "video_id": "tfrPNO_30rg",
-      "title": "கூட்டணிக்கு ஏன் பெயர் சூட்டுதல்: பெரும் சலசலப்பு!",
-      "published_at": "2026-06-12T14:20:48Z",
-      "views": 1168,
-      "likes": 7,
-      "comments": 0
-    },
-    {
-      "video_id": "VLUTxoyFdy8",
-      "title": "இலவச மின்சாரம், சிங்கப் பெண் படை: புதிய திட்டங்கள்!",
-      "published_at": "2026-06-12T14:20:40Z",
-      "views": 969,
-      "likes": 10,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'OSD பதவி சிக்கல்: அனுபவம் இல்லாமல் நியமனமா?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'இலவச எருசலேமைத் தூக்கியெறிந்த ஐந்தாம் சிலுவைப் போர் | வரலாற்றின் மறந்த சண்டை' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'Tamil Nadu's Power Grid Is It Broken?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
