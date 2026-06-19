@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-19T03:31:26.297734+00:00",
+  "generated_at": "2026-06-19T10:14:12.416393+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 367,
     "video_count": 843,
-    "view_count": 174022
+    "view_count": 174158
   },
   "summary": {
     "total_channel_subscribers": 367,
     "total_channel_videos": 843,
-    "total_channel_views": 174022,
+    "total_channel_views": 174158,
     "videos_analyzed": 10,
-    "recent_total_views": 6265,
+    "recent_total_views": 6290,
     "recent_total_likes": 40,
     "recent_total_comments": 0,
-    "average_views_per_video": 626.5,
+    "average_views_per_video": 629.0,
     "average_likes_per_video": 4.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 206.43
+    "average_channel_views_per_video": 206.59
   },
   "top_videos": [
     {
@@ -42,7 +42,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1331,
+      "views": 1338,
       "likes": 6,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "99304t21d6A",
       "title": "108 இடங்கள் வெற்றி! அரசியல் மாற்றத்தின் அடையாளம்!",
       "published_at": "2026-06-15T11:00:01Z",
-      "views": 980,
+      "views": 998,
       "likes": 16,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "C-BxVUEIjuI",
       "title": "அரசியல் வாக்குறுதிகள்: வெறும் தர்க்கா? என்ன பின்னணி?",
       "published_at": "2026-06-15T11:00:25Z",
-      "views": 1331,
+      "views": 1338,
       "likes": 6,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "99304t21d6A",
       "title": "108 இடங்கள் வெற்றி! அரசியல் மாற்றத்தின் அடையாளம்!",
       "published_at": "2026-06-15T11:00:01Z",
-      "views": 980,
+      "views": 998,
       "likes": 16,
       "comments": 0
     },
