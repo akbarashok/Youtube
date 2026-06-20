@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-19T19:27:36.681461+00:00",
+  "generated_at": "2026-06-20T02:36:03.716819+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 367,
     "video_count": 843,
-    "view_count": 174158
+    "view_count": 174181
   },
   "summary": {
     "total_channel_subscribers": 367,
     "total_channel_videos": 843,
-    "total_channel_views": 174158,
+    "total_channel_views": 174181,
     "videos_analyzed": 10,
-    "recent_total_views": 6303,
+    "recent_total_views": 6306,
     "recent_total_likes": 41,
     "recent_total_comments": 0,
-    "average_views_per_video": 630.3,
+    "average_views_per_video": 630.6,
     "average_likes_per_video": 4.1,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 206.59
+    "average_channel_views_per_video": 206.62
   },
   "top_videos": [
     {
@@ -116,7 +116,7 @@
       "video_id": "nzVdIHZMufc",
       "title": "சிலுவைப்போர் வீரர்கள் கான்ஸ்டாண்டினோபிளை கொள்ளை அடித்த கதை",
       "published_at": "2026-06-14T09:00:09Z",
-      "views": 142,
+      "views": 145,
       "likes": 2,
       "comments": 0
     },
