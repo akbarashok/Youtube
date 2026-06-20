@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-20T13:42:51.384457+00:00",
+  "generated_at": "2026-06-20T19:11:44.183373+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 367,
     "video_count": 844,
-    "view_count": 174209
+    "view_count": 174215
   },
   "summary": {
     "total_channel_subscribers": 367,
     "total_channel_videos": 844,
-    "total_channel_views": 174209,
+    "total_channel_views": 174215,
     "videos_analyzed": 10,
-    "recent_total_views": 5389,
+    "recent_total_views": 5390,
     "recent_total_likes": 36,
     "recent_total_comments": 0,
-    "average_views_per_video": 538.9,
+    "average_views_per_video": 539.0,
     "average_likes_per_video": 3.6,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 206.41
+    "average_channel_views_per_video": 206.42
   },
   "top_videos": [
     {
@@ -84,7 +84,7 @@
       "video_id": "_xLTI_WA-NY",
       "title": "தமிழக மின்வெட்டும் மின்வாரிய நிதி நெருக்கடியும்",
       "published_at": "2026-06-18T15:00:02Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
