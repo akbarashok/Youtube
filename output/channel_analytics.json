@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-23T14:30:25.020208+00:00",
+  "generated_at": "2026-06-23T19:50:56.062952+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 373,
+    "subscriber_count": 374,
     "video_count": 851,
     "view_count": 174717
   },
   "summary": {
-    "total_channel_subscribers": 373,
+    "total_channel_subscribers": 374,
     "total_channel_videos": 851,
     "total_channel_views": 174717,
     "videos_analyzed": 10,
-    "recent_total_views": 1446,
-    "recent_total_likes": 16,
+    "recent_total_views": 1673,
+    "recent_total_likes": 21,
     "recent_total_comments": 0,
-    "average_views_per_video": 144.6,
-    "average_likes_per_video": 1.6,
+    "average_views_per_video": 167.3,
+    "average_likes_per_video": 2.1,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 205.31
   },
@@ -26,7 +26,7 @@
       "video_id": "2Ee5dco_YJU",
       "title": "மின்வெட்டிற்கு முக்கிய காரணம்: 7 வருட பராமரிப்பு இல்லை!",
       "published_at": "2026-06-23T02:56:46Z",
-      "views": 515,
+      "views": 524,
       "likes": 6,
       "comments": 0
     },
@@ -34,8 +34,8 @@
       "video_id": "QK1pfq-JzDM",
       "title": "மின்சார தனியார்மயம்: அரசின் சுமை, தனியார் லாபம்?",
       "published_at": "2026-06-23T02:56:39Z",
-      "views": 259,
-      "likes": 7,
+      "views": 455,
+      "likes": 10,
       "comments": 0
     },
     {
@@ -68,15 +68,15 @@
       "video_id": "g3oDAJ0XaAI",
       "title": "மின்சார பிரச்சனைக்கு மனிதவள பற்றாக்குறைதான் காரணமா?",
       "published_at": "2026-06-23T02:56:48Z",
-      "views": 15,
-      "likes": 0,
+      "views": 28,
+      "likes": 2,
       "comments": 0
     },
     {
       "video_id": "2Ee5dco_YJU",
       "title": "மின்வெட்டிற்கு முக்கிய காரணம்: 7 வருட பராமரிப்பு இல்லை!",
       "published_at": "2026-06-23T02:56:46Z",
-      "views": 515,
+      "views": 524,
       "likes": 6,
       "comments": 0
     },
@@ -84,8 +84,8 @@
       "video_id": "QK1pfq-JzDM",
       "title": "மின்சார தனியார்மயம்: அரசின் சுமை, தனியார் லாபம்?",
       "published_at": "2026-06-23T02:56:39Z",
-      "views": 259,
-      "likes": 7,
+      "views": 455,
+      "likes": 10,
       "comments": 0
     },
     {
@@ -124,7 +124,7 @@
       "video_id": "KbUyR1X1oSc",
       "title": "ஜெருசலேமைத் தொலைத்த ஐந்தாம் சிலுவைப்போர் ஈகோ",
       "published_at": "2026-06-20T09:00:20Z",
-      "views": 59,
+      "views": 69,
       "likes": 1,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "_xLTI_WA-NY",
       "title": "தமிழக மின்வெட்டும் மின்வாரிய நிதி நெருக்கடியும்",
       "published_at": "2026-06-18T15:00:02Z",
-      "views": 9,
+      "views": 8,
       "likes": 0,
       "comments": 0
     }
