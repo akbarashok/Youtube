@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-06-24T19:26:51.603012+00:00",
+  "generated_at": "2026-06-25T02:32:50.956015+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 378,
+    "subscriber_count": 380,
     "video_count": 860,
     "view_count": 175974
   },
   "summary": {
-    "total_channel_subscribers": 378,
+    "total_channel_subscribers": 380,
     "total_channel_videos": 860,
     "total_channel_views": 175974,
     "videos_analyzed": 10,
-    "recent_total_views": 4651,
-    "recent_total_likes": 53,
-    "recent_total_comments": 0,
-    "average_views_per_video": 465.1,
-    "average_likes_per_video": 5.3,
-    "average_comments_per_video": 0.0,
+    "recent_total_views": 5035,
+    "recent_total_likes": 54,
+    "recent_total_comments": 1,
+    "average_views_per_video": 503.5,
+    "average_likes_per_video": 5.4,
+    "average_comments_per_video": 0.1,
     "average_channel_views_per_video": 204.62
   },
   "top_videos": [
     {
-      "video_id": "g3oDAJ0XaAI",
-      "title": "மின்சார பிரச்சனைக்கு மனிதவள பற்றாக்குறைதான் காரணமா?",
-      "published_at": "2026-06-23T02:56:48Z",
-      "views": 1212,
-      "likes": 10,
-      "comments": 0
-    },
-    {
       "video_id": "tRzqcLoNWpo",
       "title": "மின்வாரியத்தின் ரூ.1.80 லட்சம் கோடி கடன்! மானியம் போதாதா?",
       "published_at": "2026-06-24T05:28:20Z",
-      "views": 1101,
+      "views": 1262,
       "likes": 12,
+      "comments": 1
+    },
+    {
+      "video_id": "g3oDAJ0XaAI",
+      "title": "மின்சார பிரச்சனைக்கு மனிதவள பற்றாக்குறைதான் காரணமா?",
+      "published_at": "2026-06-23T02:56:48Z",
+      "views": 1235,
+      "likes": 10,
       "comments": 0
     },
     {
       "video_id": "NRQRLw2c_xE",
       "title": "மின்வாரியத்தில் 40% காலி பணியிடங்கள்: என்ன நடக்கிறது?",
       "published_at": "2026-06-24T05:28:20Z",
-      "views": 1003,
-      "likes": 17,
+      "views": 1182,
+      "likes": 18,
       "comments": 0
     },
     {
       "video_id": "lNpOfAtt-L8",
       "title": "மின்சாரம்: லாபமா, சமூக நீதியா? தனியார் vs அரசு!",
       "published_at": "2026-06-24T05:28:06Z",
-      "views": 919,
+      "views": 938,
       "likes": 10,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "SxaHQCvEkXI",
       "title": "How Vijay Turned Fans Into a Political Machine #politics #tamil",
       "published_at": "2026-06-24T05:31:35Z",
-      "views": 226,
+      "views": 216,
       "likes": 0,
       "comments": 0
     }
@@ -92,7 +92,7 @@
       "video_id": "HjVInppZFzg",
       "title": "First Actions: CM's Bold Moves on Power, Safety, Drugs!",
       "published_at": "2026-06-24T05:31:38Z",
-      "views": 118,
+      "views": 125,
       "likes": 2,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "SxaHQCvEkXI",
       "title": "How Vijay Turned Fans Into a Political Machine #politics #tamil",
       "published_at": "2026-06-24T05:31:35Z",
-      "views": 226,
+      "views": 216,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "LRINsfj0sPM",
       "title": "Maxed Out Cabinet: The Fragile Alliance of New Power",
       "published_at": "2026-06-24T05:31:31Z",
-      "views": 70,
+      "views": 75,
       "likes": 2,
       "comments": 0
     },
@@ -116,23 +116,23 @@
       "video_id": "NRQRLw2c_xE",
       "title": "மின்வாரியத்தில் 40% காலி பணியிடங்கள்: என்ன நடக்கிறது?",
       "published_at": "2026-06-24T05:28:20Z",
-      "views": 1003,
-      "likes": 17,
+      "views": 1182,
+      "likes": 18,
       "comments": 0
     },
     {
       "video_id": "tRzqcLoNWpo",
       "title": "மின்வாரியத்தின் ரூ.1.80 லட்சம் கோடி கடன்! மானியம் போதாதா?",
       "published_at": "2026-06-24T05:28:20Z",
-      "views": 1101,
+      "views": 1262,
       "likes": 12,
-      "comments": 0
+      "comments": 1
     },
     {
       "video_id": "lNpOfAtt-L8",
       "title": "மின்சாரம்: லாபமா, சமூக நீதியா? தனியார் vs அரசு!",
       "published_at": "2026-06-24T05:28:06Z",
-      "views": 919,
+      "views": 938,
       "likes": 10,
       "comments": 0
     },
@@ -140,13 +140,13 @@
       "video_id": "g3oDAJ0XaAI",
       "title": "மின்சார பிரச்சனைக்கு மனிதவள பற்றாக்குறைதான் காரணமா?",
       "published_at": "2026-06-23T02:56:48Z",
-      "views": 1212,
+      "views": 1235,
       "likes": 10,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'மின்சார பிரச்சனைக்கு மனிதவள பற்றாக்குறைதான் காரணமா?' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'மின்வாரியத்தின் ரூ.1.80 லட்சம் கோடி கடன்! மானியம் போதாதா?' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload 'நைல் நதிச் சேற்றில் நடந்த ஐந்தாம் சிலுவைப் போர் பற்றி தெரியுமா?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
