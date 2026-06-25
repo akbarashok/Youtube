@@ -1,40 +1,32 @@
 {
-  "generated_at": "2026-06-25T14:06:34.676622+00:00",
+  "generated_at": "2026-06-25T19:46:37.726847+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 383,
-    "video_count": 862,
-    "view_count": 181860
+    "video_count": 865,
+    "view_count": 182742
   },
   "summary": {
     "total_channel_subscribers": 383,
-    "total_channel_videos": 862,
-    "total_channel_views": 181860,
+    "total_channel_videos": 865,
+    "total_channel_views": 182742,
     "videos_analyzed": 10,
-    "recent_total_views": 4836,
-    "recent_total_likes": 50,
+    "recent_total_views": 3224,
+    "recent_total_likes": 22,
     "recent_total_comments": 0,
-    "average_views_per_video": 483.6,
-    "average_likes_per_video": 5.0,
+    "average_views_per_video": 322.4,
+    "average_likes_per_video": 2.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 210.97
+    "average_channel_views_per_video": 211.26
   },
   "top_videos": [
-    {
-      "video_id": "NRQRLw2c_xE",
-      "title": "நெரிசலுக்கு பதிலே இப்போது மின்சாரம் இல்லை: வேலை வெற்றிகள் #powercrisis",
-      "published_at": "2026-06-24T05:28:20Z",
-      "views": 1628,
-      "likes": 25,
-      "comments": 0
-    },
     {
       "video_id": "oOKs1jh1JtQ",
       "title": "தனியார் மின் நிறுவனங்கள் எங்கே மின்சாரம் வழங்கும்? அதிர்ச்சி தகவல்!",
       "published_at": "2026-06-25T08:27:27Z",
-      "views": 1161,
+      "views": 1246,
       "likes": 9,
       "comments": 0
     },
@@ -42,7 +34,7 @@
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 994,
+      "views": 1004,
       "likes": 4,
       "comments": 0
     },
@@ -50,7 +42,7 @@
       "video_id": "p7UBND7bFwo",
       "title": "தமிழ்நாட்டில் மின்வெட்டா? இரவு AC பயன்பாடுதான் காரணமா?",
       "published_at": "2026-06-25T08:27:34Z",
-      "views": 597,
+      "views": 605,
       "likes": 6,
       "comments": 0
     },
@@ -61,14 +53,38 @@
       "views": 217,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "HjVInppZFzg",
+      "title": "First Actions: CM's Bold Moves on Power, Safety, Drugs!",
+      "published_at": "2026-06-24T05:31:38Z",
+      "views": 147,
+      "likes": 3,
+      "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "JoBuox7LsZ0",
+      "title": "Can You Believe Only Two Teams Dominated for 60 Years?",
+      "published_at": "2026-06-25T15:00:15Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "aNmne59mvXQ",
+      "title": "முதல் அமைச்சர் யார்? விஜய் அல்லது உதயநிதி தான் BEST",
+      "published_at": "2026-06-25T15:00:08Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 994,
+      "views": 1004,
       "likes": 4,
       "comments": 0
     },
@@ -76,7 +92,7 @@
       "video_id": "p7UBND7bFwo",
       "title": "தமிழ்நாட்டில் மின்வெட்டா? இரவு AC பயன்பாடுதான் காரணமா?",
       "published_at": "2026-06-25T08:27:34Z",
-      "views": 597,
+      "views": 605,
       "likes": 6,
       "comments": 0
     },
@@ -84,7 +100,7 @@
       "video_id": "oOKs1jh1JtQ",
       "title": "தனியார் மின் நிறுவனங்கள் எங்கே மின்சாரம் வழங்கும்? அதிர்ச்சி தகவல்!",
       "published_at": "2026-06-25T08:27:27Z",
-      "views": 1161,
+      "views": 1246,
       "likes": 9,
       "comments": 0
     },
@@ -108,7 +124,7 @@
       "video_id": "qVOplkSXNyU",
       "title": "DMK's Dark Secrets: The Corruption Files You WON'T Believe",
       "published_at": "2026-06-24T07:05:09Z",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 0
     },
@@ -116,8 +132,8 @@
       "video_id": "HjVInppZFzg",
       "title": "First Actions: CM's Bold Moves on Power, Safety, Drugs!",
       "published_at": "2026-06-24T05:31:38Z",
-      "views": 139,
-      "likes": 2,
+      "views": 147,
+      "likes": 3,
       "comments": 0
     },
     {
@@ -127,26 +143,11 @@
       "views": 217,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "LRINsfj0sPM",
-      "title": "Maxed Out Cabinet: The Fragile Alliance of New Power",
-      "published_at": "2026-06-24T05:31:31Z",
-      "views": 97,
-      "likes": 4,
-      "comments": 0
-    },
-    {
-      "video_id": "NRQRLw2c_xE",
-      "title": "நெரிசலுக்கு பதிலே இப்போது மின்சாரம் இல்லை: வேலை வெற்றிகள் #powercrisis",
-      "published_at": "2026-06-24T05:28:20Z",
-      "views": 1628,
-      "likes": 25,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'நெரிசலுக்கு பதிலே இப்போது மின்சாரம் இல்லை: வேலை வெற்றிகள் #powercrisis' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'தனியார் மின் நிறுவனங்கள் எங்கே மின்சாரம் வழங்கும்? அதிர்ச்சி தகவல்!' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'Can You Believe Only Two Teams Dominated for 60 Years?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
