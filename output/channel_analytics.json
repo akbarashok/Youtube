@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-06-25T08:49:13.133978+00:00",
+  "generated_at": "2026-06-25T14:06:34.676622+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 381,
+    "subscriber_count": 383,
     "video_count": 862,
     "view_count": 181860
   },
   "summary": {
-    "total_channel_subscribers": 381,
+    "total_channel_subscribers": 383,
     "total_channel_videos": 862,
     "total_channel_views": 181860,
     "videos_analyzed": 10,
-    "recent_total_views": 1688,
-    "recent_total_likes": 26,
+    "recent_total_views": 4836,
+    "recent_total_likes": 50,
     "recent_total_comments": 0,
-    "average_views_per_video": 168.8,
-    "average_likes_per_video": 2.6,
+    "average_views_per_video": 483.6,
+    "average_likes_per_video": 5.0,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 210.97
   },
   "top_videos": [
     {
       "video_id": "NRQRLw2c_xE",
-      "title": "மின்வாரியத்தில் 40% காலி பணியிடங்கள்: என்ன நடக்கிறது?",
+      "title": "நெரிசலுக்கு பதிலே இப்போது மின்சாரம் இல்லை: வேலை வெற்றிகள் #powercrisis",
       "published_at": "2026-06-24T05:28:20Z",
-      "views": 1245,
-      "likes": 21,
+      "views": 1628,
+      "likes": 25,
       "comments": 0
     },
     {
-      "video_id": "SxaHQCvEkXI",
-      "title": "How Vijay Turned Fans Into a Political Machine #politics #tamil",
-      "published_at": "2026-06-24T05:31:35Z",
-      "views": 216,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "HjVInppZFzg",
-      "title": "First Actions: CM's Bold Moves on Power, Safety, Drugs!",
-      "published_at": "2026-06-24T05:31:38Z",
-      "views": 130,
-      "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "LRINsfj0sPM",
-      "title": "Maxed Out Cabinet: The Fragile Alliance of New Power",
-      "published_at": "2026-06-24T05:31:31Z",
-      "views": 80,
-      "likes": 3,
+      "video_id": "oOKs1jh1JtQ",
+      "title": "தனியார் மின் நிறுவனங்கள் எங்கே மின்சாரம் வழங்கும்? அதிர்ச்சி தகவல்!",
+      "published_at": "2026-06-25T08:27:27Z",
+      "views": 1161,
+      "likes": 9,
       "comments": 0
     },
     {
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 6,
+      "views": 994,
+      "likes": 4,
+      "comments": 0
+    },
+    {
+      "video_id": "p7UBND7bFwo",
+      "title": "தமிழ்நாட்டில் மின்வெட்டா? இரவு AC பயன்பாடுதான் காரணமா?",
+      "published_at": "2026-06-25T08:27:34Z",
+      "views": 597,
+      "likes": 6,
+      "comments": 0
+    },
+    {
+      "video_id": "SxaHQCvEkXI",
+      "title": "How Vijay Turned Fans Into a Political Machine #politics #tamil",
+      "published_at": "2026-06-24T05:31:35Z",
+      "views": 217,
       "likes": 0,
       "comments": 0
     }
@@ -68,24 +68,24 @@
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 6,
-      "likes": 0,
+      "views": 994,
+      "likes": 4,
       "comments": 0
     },
     {
       "video_id": "p7UBND7bFwo",
       "title": "தமிழ்நாட்டில் மின்வெட்டா? இரவு AC பயன்பாடுதான் காரணமா?",
       "published_at": "2026-06-25T08:27:34Z",
-      "views": 4,
-      "likes": 0,
+      "views": 597,
+      "likes": 6,
       "comments": 0
     },
     {
       "video_id": "oOKs1jh1JtQ",
       "title": "தனியார் மின் நிறுவனங்கள் எங்கே மின்சாரம் வழங்கும்? அதிர்ச்சி தகவல்!",
       "published_at": "2026-06-25T08:27:27Z",
-      "views": 5,
-      "likes": 0,
+      "views": 1161,
+      "likes": 9,
       "comments": 0
     },
     {
@@ -108,7 +108,7 @@
       "video_id": "qVOplkSXNyU",
       "title": "DMK's Dark Secrets: The Corruption Files You WON'T Believe",
       "published_at": "2026-06-24T07:05:09Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "HjVInppZFzg",
       "title": "First Actions: CM's Bold Moves on Power, Safety, Drugs!",
       "published_at": "2026-06-24T05:31:38Z",
-      "views": 130,
+      "views": 139,
       "likes": 2,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "SxaHQCvEkXI",
       "title": "How Vijay Turned Fans Into a Political Machine #politics #tamil",
       "published_at": "2026-06-24T05:31:35Z",
-      "views": 216,
+      "views": 217,
       "likes": 0,
       "comments": 0
     },
@@ -132,22 +132,21 @@
       "video_id": "LRINsfj0sPM",
       "title": "Maxed Out Cabinet: The Fragile Alliance of New Power",
       "published_at": "2026-06-24T05:31:31Z",
-      "views": 80,
-      "likes": 3,
+      "views": 97,
+      "likes": 4,
       "comments": 0
     },
     {
       "video_id": "NRQRLw2c_xE",
-      "title": "மின்வாரியத்தில் 40% காலி பணியிடங்கள்: என்ன நடக்கிறது?",
+      "title": "நெரிசலுக்கு பதிலே இப்போது மின்சாரம் இல்லை: வேலை வெற்றிகள் #powercrisis",
       "published_at": "2026-06-24T05:28:20Z",
-      "views": 1245,
-      "likes": 21,
+      "views": 1628,
+      "likes": 25,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'மின்வாரியத்தில் 40% காலி பணியிடங்கள்: என்ன நடக்கிறது?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'நெரிசலுக்கு பதிலே இப்போது மின்சாரம் இல்லை: வேலை வெற்றிகள் #powercrisis' because it is outperforming the recent channel average.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
