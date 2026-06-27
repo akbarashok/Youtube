@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-27T02:28:09.624959+00:00",
+  "generated_at": "2026-06-27T08:27:31.053043+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 385,
+    "subscriber_count": 386,
     "video_count": 870,
-    "view_count": 183146
+    "view_count": 186259
   },
   "summary": {
-    "total_channel_subscribers": 385,
+    "total_channel_subscribers": 386,
     "total_channel_videos": 870,
-    "total_channel_views": 183146,
+    "total_channel_views": 186259,
     "videos_analyzed": 10,
-    "recent_total_views": 1853,
-    "recent_total_likes": 12,
+    "recent_total_views": 2629,
+    "recent_total_likes": 18,
     "recent_total_comments": 0,
-    "average_views_per_video": 185.3,
-    "average_likes_per_video": 1.2,
+    "average_views_per_video": 262.9,
+    "average_likes_per_video": 1.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 210.51
+    "average_channel_views_per_video": 214.09
   },
   "top_videos": [
     {
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 1063,
+      "views": 1096,
       "likes": 4,
       "comments": 0
     },
@@ -34,31 +34,31 @@
       "video_id": "p7UBND7bFwo",
       "title": "தமிழ்நாட்டில் மின்வெட்டா? இரவு AC பயன்பாடுதான் காரணமா?",
       "published_at": "2026-06-25T08:27:34Z",
-      "views": 634,
+      "views": 644,
       "likes": 6,
-      "comments": 0
-    },
-    {
-      "video_id": "f4SNxG5Rktg",
-      "title": "Rebellion: How a Party Gained Unexpected Trust Vote Wins",
-      "published_at": "2026-06-27T01:16:44Z",
-      "views": 55,
-      "likes": 0,
       "comments": 0
     },
     {
       "video_id": "JaBkActvTGk",
       "title": "மின்வெட்டால் இன்டக்ஷன் ஸ்டவ்களும் இல்லையா? என்ன செய்வது?",
       "published_at": "2026-06-27T01:15:27Z",
-      "views": 38,
-      "likes": 1,
+      "views": 643,
+      "likes": 7,
+      "comments": 0
+    },
+    {
+      "video_id": "f4SNxG5Rktg",
+      "title": "Rebellion: How a Party Gained Unexpected Trust Vote Wins",
+      "published_at": "2026-06-27T01:16:44Z",
+      "views": 88,
+      "likes": 0,
       "comments": 0
     },
     {
       "video_id": "4CuIXJZyKPI",
       "title": "மின்சார யூனிட்டுக்கு ரூ.1.52 நஷ்டம்! என்ன இந்த ACSARR GAP?",
       "published_at": "2026-06-27T01:15:29Z",
-      "views": 20,
+      "views": 57,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "f4SNxG5Rktg",
       "title": "Rebellion: How a Party Gained Unexpected Trust Vote Wins",
       "published_at": "2026-06-27T01:16:44Z",
-      "views": 55,
+      "views": 88,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "3Eogr8eE_Yo",
       "title": "Record Voter Turnout: Are Voters Desperate for Change?",
       "published_at": "2026-06-27T01:16:37Z",
-      "views": 16,
+      "views": 52,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "5C-LU4AeZiw",
       "title": "A Masterclass in Symbolism: New CM Honors Old Roots",
       "published_at": "2026-06-27T01:16:27Z",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "zMoGtMvKWSk",
       "title": "புதிய மின்சார சட்டம்: தனியார் நிறுவனங்கள் மின்சாரம் வழங்குமா?",
       "published_at": "2026-06-27T01:15:34Z",
-      "views": 19,
+      "views": 40,
       "likes": 1,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "4CuIXJZyKPI",
       "title": "மின்சார யூனிட்டுக்கு ரூ.1.52 நஷ்டம்! என்ன இந்த ACSARR GAP?",
       "published_at": "2026-06-27T01:15:29Z",
-      "views": 20,
+      "views": 57,
       "likes": 0,
       "comments": 0
     },
@@ -108,8 +108,8 @@
       "video_id": "JaBkActvTGk",
       "title": "மின்வெட்டால் இன்டக்ஷன் ஸ்டவ்களும் இல்லையா? என்ன செய்வது?",
       "published_at": "2026-06-27T01:15:27Z",
-      "views": 38,
-      "likes": 1,
+      "views": 643,
+      "likes": 7,
       "comments": 0
     },
     {
@@ -132,7 +132,7 @@
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 1063,
+      "views": 1096,
       "likes": 4,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "p7UBND7bFwo",
       "title": "தமிழ்நாட்டில் மின்வெட்டா? இரவு AC பயன்பாடுதான் காரணமா?",
       "published_at": "2026-06-25T08:27:34Z",
-      "views": 634,
+      "views": 644,
       "likes": 6,
       "comments": 0
     }
