@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T19:05:40.295344+00:00",
+  "generated_at": "2026-06-28T02:40:44.816010+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,11 +13,11 @@
     "total_channel_videos": 872,
     "total_channel_views": 186259,
     "videos_analyzed": 10,
-    "recent_total_views": 2416,
-    "recent_total_likes": 19,
+    "recent_total_views": 2634,
+    "recent_total_likes": 21,
     "recent_total_comments": 0,
-    "average_views_per_video": 241.6,
-    "average_likes_per_video": 1.9,
+    "average_views_per_video": 263.4,
+    "average_likes_per_video": 2.1,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 213.6
   },
@@ -26,7 +26,7 @@
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 1214,
+      "views": 1261,
       "likes": 5,
       "comments": 0
     },
@@ -34,15 +34,15 @@
       "video_id": "JaBkActvTGk",
       "title": "மின்வெட்டால் இன்டக்ஷன் ஸ்டவ்களும் இல்லையா? என்ன செய்வது?",
       "published_at": "2026-06-27T01:15:27Z",
-      "views": 680,
-      "likes": 7,
+      "views": 690,
+      "likes": 8,
       "comments": 0
     },
     {
       "video_id": "4CuIXJZyKPI",
       "title": "மின்சார யூனிட்டுக்கு ரூ.1.52 நஷ்டம்! என்ன இந்த ACSARR GAP?",
       "published_at": "2026-06-27T01:15:29Z",
-      "views": 197,
+      "views": 316,
       "likes": 2,
       "comments": 0
     },
@@ -50,15 +50,15 @@
       "video_id": "zMoGtMvKWSk",
       "title": "புதிய மின்சார சட்டம்: தனியார் நிறுவனங்கள் மின்சாரம் வழங்குமா?",
       "published_at": "2026-06-27T01:15:34Z",
-      "views": 129,
-      "likes": 5,
+      "views": 165,
+      "likes": 6,
       "comments": 0
     },
     {
       "video_id": "3Eogr8eE_Yo",
       "title": "Record Voter Turnout: Are Voters Desperate for Change?",
       "published_at": "2026-06-27T01:16:37Z",
-      "views": 89,
+      "views": 95,
       "likes": 0,
       "comments": 0
     }
@@ -84,7 +84,7 @@
       "video_id": "3Eogr8eE_Yo",
       "title": "Record Voter Turnout: Are Voters Desperate for Change?",
       "published_at": "2026-06-27T01:16:37Z",
-      "views": 89,
+      "views": 95,
       "likes": 0,
       "comments": 0
     },
@@ -100,15 +100,15 @@
       "video_id": "zMoGtMvKWSk",
       "title": "புதிய மின்சார சட்டம்: தனியார் நிறுவனங்கள் மின்சாரம் வழங்குமா?",
       "published_at": "2026-06-27T01:15:34Z",
-      "views": 129,
-      "likes": 5,
+      "views": 165,
+      "likes": 6,
       "comments": 0
     },
     {
       "video_id": "4CuIXJZyKPI",
       "title": "மின்சார யூனிட்டுக்கு ரூ.1.52 நஷ்டம்! என்ன இந்த ACSARR GAP?",
       "published_at": "2026-06-27T01:15:29Z",
-      "views": 197,
+      "views": 316,
       "likes": 2,
       "comments": 0
     },
@@ -116,8 +116,8 @@
       "video_id": "JaBkActvTGk",
       "title": "மின்வெட்டால் இன்டக்ஷன் ஸ்டவ்களும் இல்லையா? என்ன செய்வது?",
       "published_at": "2026-06-27T01:15:27Z",
-      "views": 680,
-      "likes": 7,
+      "views": 690,
+      "likes": 8,
       "comments": 0
     },
     {
@@ -140,7 +140,7 @@
       "video_id": "C8ntQVrtQxU",
       "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
       "published_at": "2026-06-25T08:27:41Z",
-      "views": 1214,
+      "views": 1261,
       "likes": 5,
       "comments": 0
     }
