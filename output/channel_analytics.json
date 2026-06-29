@@ -1,153 +1,153 @@
 {
-  "generated_at": "2026-06-29T02:41:00.693621+00:00",
+  "generated_at": "2026-06-29T10:25:13.416912+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 386,
-    "video_count": 872,
-    "view_count": 188350
+    "video_count": 881,
+    "view_count": 188793
   },
   "summary": {
     "total_channel_subscribers": 386,
-    "total_channel_videos": 872,
-    "total_channel_views": 188350,
+    "total_channel_videos": 881,
+    "total_channel_views": 188793,
     "videos_analyzed": 10,
-    "recent_total_views": 3373,
-    "recent_total_likes": 23,
+    "recent_total_views": 1500,
+    "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 337.3,
-    "average_likes_per_video": 2.3,
+    "average_views_per_video": 150.0,
+    "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 216.0
+    "average_channel_views_per_video": 214.29
   },
   "top_videos": [
     {
-      "video_id": "C8ntQVrtQxU",
-      "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
-      "published_at": "2026-06-25T08:27:41Z",
-      "views": 1478,
-      "likes": 5,
+      "video_id": "AMEDKkcLm8w",
+      "title": "Voter Fatigue & Corruption: The Vacuum for a New Party",
+      "published_at": "2026-06-29T03:21:50Z",
+      "views": 396,
+      "likes": 1,
       "comments": 0
     },
     {
-      "video_id": "JaBkActvTGk",
-      "title": "மின்வெட்டால் இன்டக்ஷன் ஸ்டவ்களும் இல்லையா? என்ன செய்வது?",
-      "published_at": "2026-06-27T01:15:27Z",
-      "views": 941,
-      "likes": 10,
-      "comments": 0
-    },
-    {
-      "video_id": "4CuIXJZyKPI",
-      "title": "மின்சார யூனிட்டுக்கு ரூ.1.52 நஷ்டம்! என்ன இந்த ACSARR GAP?",
-      "published_at": "2026-06-27T01:15:29Z",
-      "views": 436,
-      "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "zMoGtMvKWSk",
-      "title": "புதிய மின்சார சட்டம்: தனியார் நிறுவனங்கள் மின்சாரம் வழங்குமா?",
-      "published_at": "2026-06-27T01:15:34Z",
-      "views": 261,
-      "likes": 6,
-      "comments": 0
-    },
-    {
-      "video_id": "3Eogr8eE_Yo",
-      "title": "Record Voter Turnout: Are Voters Desperate for Change?",
-      "published_at": "2026-06-27T01:16:37Z",
-      "views": 107,
+      "video_id": "3G87RgvXBDw",
+      "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
+      "published_at": "2026-06-29T03:22:39Z",
+      "views": 307,
       "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "oZmMmdDO4vU",
+      "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
+      "published_at": "2026-06-29T03:21:37Z",
+      "views": 218,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "yKs1jhG05zo",
+      "title": "Behind the Veil: A State's 'Corporate' Vision Document",
+      "published_at": "2026-06-29T03:21:56Z",
+      "views": 203,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "nq3N2L07ttw",
+      "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
+      "published_at": "2026-06-29T03:21:31Z",
+      "views": 113,
+      "likes": 2,
       "comments": 0
     }
   ],
   "recent_videos": [
     {
-      "video_id": "XEf5C_9srbA",
-      "title": "சேற்றில் சிக்கிய வீரர்கள்! என்ன நடந்தது?",
-      "published_at": "2026-06-27T15:00:29Z",
-      "views": 34,
+      "video_id": "LdQYWBHfjJQ",
+      "title": "Building a Narrative: How New Parties Gain Legitimacy",
+      "published_at": "2026-06-29T03:22:44Z",
+      "views": 63,
       "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "f4SNxG5Rktg",
-      "title": "Rebellion: How a Party Gained Unexpected Trust Vote Wins",
-      "published_at": "2026-06-27T01:16:44Z",
-      "views": 86,
+      "video_id": "3G87RgvXBDw",
+      "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
+      "published_at": "2026-06-29T03:22:39Z",
+      "views": 307,
       "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "3Eogr8eE_Yo",
-      "title": "Record Voter Turnout: Are Voters Desperate for Change?",
-      "published_at": "2026-06-27T01:16:37Z",
-      "views": 107,
+      "video_id": "JnsOTXnrmbs",
+      "title": "Free Electricity: A 'Politically Sticky' Populist Move?",
+      "published_at": "2026-06-29T03:22:37Z",
+      "views": 24,
       "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "5C-LU4AeZiw",
-      "title": "A Masterclass in Symbolism: New CM Honors Old Roots",
-      "published_at": "2026-06-27T01:16:27Z",
-      "views": 30,
+      "video_id": "vBbxvbpWgV4",
+      "title": "Hung Assembly: Anti-Establishment Forced to Make Deals!",
+      "published_at": "2026-06-29T03:21:57Z",
+      "views": 98,
       "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "zMoGtMvKWSk",
-      "title": "புதிய மின்சார சட்டம்: தனியார் நிறுவனங்கள் மின்சாரம் வழங்குமா?",
-      "published_at": "2026-06-27T01:15:34Z",
-      "views": 261,
-      "likes": 6,
+      "video_id": "yKs1jhG05zo",
+      "title": "Behind the Veil: A State's 'Corporate' Vision Document",
+      "published_at": "2026-06-29T03:21:56Z",
+      "views": 203,
+      "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "4CuIXJZyKPI",
-      "title": "மின்சார யூனிட்டுக்கு ரூ.1.52 நஷ்டம்! என்ன இந்த ACSARR GAP?",
-      "published_at": "2026-06-27T01:15:29Z",
-      "views": 436,
+      "video_id": "AMEDKkcLm8w",
+      "title": "Voter Fatigue & Corruption: The Vacuum for a New Party",
+      "published_at": "2026-06-29T03:21:50Z",
+      "views": 396,
+      "likes": 1,
+      "comments": 0
+    },
+    {
+      "video_id": "oZmMmdDO4vU",
+      "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
+      "published_at": "2026-06-29T03:21:37Z",
+      "views": 218,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "nq3N2L07ttw",
+      "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
+      "published_at": "2026-06-29T03:21:31Z",
+      "views": 113,
       "likes": 2,
       "comments": 0
     },
     {
-      "video_id": "JaBkActvTGk",
-      "title": "மின்வெட்டால் இன்டக்ஷன் ஸ்டவ்களும் இல்லையா? என்ன செய்வது?",
-      "published_at": "2026-06-27T01:15:27Z",
-      "views": 941,
-      "likes": 10,
-      "comments": 0
-    },
-    {
-      "video_id": "JoBuox7LsZ0",
-      "title": "Can You Believe Only Two Teams Dominated for 60 Years?",
-      "published_at": "2026-06-25T15:00:15Z",
-      "views": 0,
+      "video_id": "JhCt9ulaUfs",
+      "title": "மின்வெட்டால் மாணவர்கள், விவசாயிகள் படும் அவதி! என்ன தீர்வு?",
+      "published_at": "2026-06-29T03:21:30Z",
+      "views": 19,
       "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "aNmne59mvXQ",
-      "title": "முதல் அமைச்சர் யார்? விஜய் அல்லது உதயநிதி தான் BEST",
-      "published_at": "2026-06-25T15:00:08Z",
-      "views": 0,
+      "video_id": "XEf5C_9srbA",
+      "title": "சேற்றில் சிக்கிய வீரர்கள்! என்ன நடந்தது?",
+      "published_at": "2026-06-27T15:00:29Z",
+      "views": 59,
       "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "C8ntQVrtQxU",
-      "title": "ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?",
-      "published_at": "2026-06-25T08:27:41Z",
-      "views": 1478,
-      "likes": 5,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'ஸ்மார்ட் மீட்டர்கள்: மின்சார திருட்டை தடுக்குமா? எப்படி இயங்கும்?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'சேற்றில் சிக்கிய வீரர்கள்! என்ன நடந்தது?' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'Voter Fatigue & Corruption: The Vacuum for a New Party' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'Building a Narrative: How New Parties Gain Legitimacy' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
