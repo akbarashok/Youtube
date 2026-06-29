@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-29T15:32:27.965392+00:00",
+  "generated_at": "2026-06-29T19:44:44.264752+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 386,
+    "subscriber_count": 387,
     "video_count": 881,
     "view_count": 188793
   },
   "summary": {
-    "total_channel_subscribers": 386,
+    "total_channel_subscribers": 387,
     "total_channel_videos": 881,
     "total_channel_views": 188793,
     "videos_analyzed": 10,
-    "recent_total_views": 1791,
-    "recent_total_likes": 3,
+    "recent_total_views": 1775,
+    "recent_total_likes": 4,
     "recent_total_comments": 0,
-    "average_views_per_video": 179.1,
-    "average_likes_per_video": 0.3,
+    "average_views_per_video": 177.5,
+    "average_likes_per_video": 0.4,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 214.29
   },
@@ -26,7 +26,7 @@
       "video_id": "AMEDKkcLm8w",
       "title": "Voter Fatigue & Corruption: The Vacuum for a New Party",
       "published_at": "2026-06-29T03:21:50Z",
-      "views": 437,
+      "views": 434,
       "likes": 1,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
       "published_at": "2026-06-29T03:22:39Z",
-      "views": 311,
+      "views": 305,
       "likes": 0,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 289,
+      "views": 287,
       "likes": 0,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 231,
+      "views": 230,
       "likes": 2,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "yKs1jhG05zo",
       "title": "Behind the Veil: A State's 'Corporate' Vision Document",
       "published_at": "2026-06-29T03:21:56Z",
-      "views": 203,
+      "views": 188,
       "likes": 0,
       "comments": 0
     }
@@ -76,7 +76,7 @@
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
       "published_at": "2026-06-29T03:22:39Z",
-      "views": 311,
+      "views": 305,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "vBbxvbpWgV4",
       "title": "Hung Assembly: Anti-Establishment Forced to Make Deals!",
       "published_at": "2026-06-29T03:21:57Z",
-      "views": 115,
+      "views": 114,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "yKs1jhG05zo",
       "title": "Behind the Veil: A State's 'Corporate' Vision Document",
       "published_at": "2026-06-29T03:21:56Z",
-      "views": 203,
+      "views": 188,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "AMEDKkcLm8w",
       "title": "Voter Fatigue & Corruption: The Vacuum for a New Party",
       "published_at": "2026-06-29T03:21:50Z",
-      "views": 437,
+      "views": 434,
       "likes": 1,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 289,
+      "views": 287,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 231,
+      "views": 230,
       "likes": 2,
       "comments": 0
     },
@@ -140,8 +140,8 @@
       "video_id": "XEf5C_9srbA",
       "title": "சேற்றில் சிக்கிய வீரர்கள்! என்ன நடந்தது?",
       "published_at": "2026-06-27T15:00:29Z",
-      "views": 85,
-      "likes": 0,
+      "views": 97,
+      "likes": 1,
       "comments": 0
     }
   ],
