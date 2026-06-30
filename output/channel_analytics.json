@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-30T13:59:50.717390+00:00",
+  "generated_at": "2026-06-30T19:43:50.640309+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 388,
-    "video_count": 881,
+    "video_count": 882,
     "view_count": 190854
   },
   "summary": {
     "total_channel_subscribers": 388,
-    "total_channel_videos": 881,
+    "total_channel_videos": 882,
     "total_channel_views": 190854,
     "videos_analyzed": 10,
-    "recent_total_views": 3862,
-    "recent_total_likes": 19,
+    "recent_total_views": 4224,
+    "recent_total_likes": 18,
     "recent_total_comments": 0,
-    "average_views_per_video": 386.2,
-    "average_likes_per_video": 1.9,
+    "average_views_per_video": 422.4,
+    "average_likes_per_video": 1.8,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 216.63
+    "average_channel_views_per_video": 216.39
   },
   "top_videos": [
     {
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 978,
+      "views": 1449,
       "likes": 0,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "AMEDKkcLm8w",
       "title": "Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK",
       "published_at": "2026-06-29T03:21:50Z",
-      "views": 973,
+      "views": 983,
       "likes": 2,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 880,
+      "views": 898,
       "likes": 16,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
       "published_at": "2026-06-29T03:22:39Z",
-      "views": 373,
+      "views": 374,
       "likes": 0,
       "comments": 0
     },
@@ -65,10 +65,18 @@
   ],
   "recent_videos": [
     {
+      "video_id": "kjsVqsVF65s",
+      "title": "போர் இல்லாமல் ஜெருசலேமை பிடித்தது எப்படி தெரியுமா",
+      "published_at": "2026-06-30T15:00:25Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "LdQYWBHfjJQ",
       "title": "Building a Narrative: How New Parties Gain Legitimacy",
       "published_at": "2026-06-29T03:22:44Z",
-      "views": 73,
+      "views": 76,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +84,7 @@
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
       "published_at": "2026-06-29T03:22:39Z",
-      "views": 373,
+      "views": 374,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +92,7 @@
       "video_id": "JnsOTXnrmbs",
       "title": "Free Electricity: A 'Politically Sticky' Populist Move?",
       "published_at": "2026-06-29T03:22:37Z",
-      "views": 104,
+      "views": 106,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +100,7 @@
       "video_id": "vBbxvbpWgV4",
       "title": "Hung Assembly: Anti-Establishment Forced to Make Deals!",
       "published_at": "2026-06-29T03:21:57Z",
-      "views": 125,
+      "views": 130,
       "likes": 0,
       "comments": 0
     },
@@ -108,7 +116,7 @@
       "video_id": "AMEDKkcLm8w",
       "title": "Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK",
       "published_at": "2026-06-29T03:21:50Z",
-      "views": 973,
+      "views": 983,
       "likes": 2,
       "comments": 0
     },
@@ -116,7 +124,7 @@
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 978,
+      "views": 1449,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +132,7 @@
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 880,
+      "views": 898,
       "likes": 16,
       "comments": 0
     },
@@ -135,19 +143,11 @@
       "views": 20,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "XEf5C_9srbA",
-      "title": "சேற்றில் சிக்கிய வீரர்கள்! என்ன நடந்தது?",
-      "published_at": "2026-06-27T15:00:29Z",
-      "views": 148,
-      "likes": 1,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of '40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'Building a Narrative: How New Parties Gain Legitimacy' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'போர் இல்லாமல் ஜெருசலேமை பிடித்தது எப்படி தெரியுமா' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
