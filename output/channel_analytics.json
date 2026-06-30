@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-30T02:36:17.054854+00:00",
+  "generated_at": "2026-06-30T08:57:59.865465+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 387,
+    "subscriber_count": 388,
     "video_count": 881,
-    "view_count": 188793
+    "view_count": 190854
   },
   "summary": {
-    "total_channel_subscribers": 387,
+    "total_channel_subscribers": 388,
     "total_channel_videos": 881,
-    "total_channel_views": 188793,
+    "total_channel_views": 190854,
     "videos_analyzed": 10,
-    "recent_total_views": 1841,
-    "recent_total_likes": 5,
+    "recent_total_views": 3650,
+    "recent_total_likes": 19,
     "recent_total_comments": 0,
-    "average_views_per_video": 184.1,
-    "average_likes_per_video": 0.5,
+    "average_views_per_video": 365.0,
+    "average_likes_per_video": 1.9,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 214.29
+    "average_channel_views_per_video": 216.63
   },
   "top_videos": [
-    {
-      "video_id": "AMEDKkcLm8w",
-      "title": "Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK",
-      "published_at": "2026-06-29T03:21:50Z",
-      "views": 446,
-      "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "3G87RgvXBDw",
-      "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
-      "published_at": "2026-06-29T03:22:39Z",
-      "views": 314,
-      "likes": 0,
-      "comments": 0
-    },
     {
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 287,
+      "views": 913,
       "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "AMEDKkcLm8w",
+      "title": "Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK",
+      "published_at": "2026-06-29T03:21:50Z",
+      "views": 878,
+      "likes": 2,
       "comments": 0
     },
     {
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 230,
-      "likes": 3,
+      "views": 862,
+      "likes": 16,
+      "comments": 0
+    },
+    {
+      "video_id": "3G87RgvXBDw",
+      "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
+      "published_at": "2026-06-29T03:22:39Z",
+      "views": 372,
+      "likes": 0,
       "comments": 0
     },
     {
@@ -68,7 +68,7 @@
       "video_id": "LdQYWBHfjJQ",
       "title": "Building a Narrative: How New Parties Gain Legitimacy",
       "published_at": "2026-06-29T03:22:44Z",
-      "views": 66,
+      "views": 69,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
       "published_at": "2026-06-29T03:22:39Z",
-      "views": 314,
+      "views": 372,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "JnsOTXnrmbs",
       "title": "Free Electricity: A 'Politically Sticky' Populist Move?",
       "published_at": "2026-06-29T03:22:37Z",
-      "views": 64,
+      "views": 97,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "vBbxvbpWgV4",
       "title": "Hung Assembly: Anti-Establishment Forced to Make Deals!",
       "published_at": "2026-06-29T03:21:57Z",
-      "views": 114,
+      "views": 120,
       "likes": 0,
       "comments": 0
     },
@@ -108,15 +108,15 @@
       "video_id": "AMEDKkcLm8w",
       "title": "Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK",
       "published_at": "2026-06-29T03:21:50Z",
-      "views": 446,
-      "likes": 1,
+      "views": 878,
+      "likes": 2,
       "comments": 0
     },
     {
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 287,
+      "views": 913,
       "likes": 0,
       "comments": 0
     },
@@ -124,8 +124,8 @@
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 230,
-      "likes": 3,
+      "views": 862,
+      "likes": 16,
       "comments": 0
     },
     {
@@ -140,13 +140,13 @@
       "video_id": "XEf5C_9srbA",
       "title": "சேற்றில் சிக்கிய வீரர்கள்! என்ன நடந்தது?",
       "published_at": "2026-06-27T15:00:29Z",
-      "views": 112,
+      "views": 131,
       "likes": 1,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK' because it is outperforming the recent channel average.",
+    "Review the format and topic of '40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload 'Building a Narrative: How New Parties Gain Legitimacy' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
