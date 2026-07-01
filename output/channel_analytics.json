@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-01T02:41:39.445986+00:00",
+  "generated_at": "2026-07-01T09:31:35.957327+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 388,
     "video_count": 882,
-    "view_count": 190854
+    "view_count": 192413
   },
   "summary": {
     "total_channel_subscribers": 388,
     "total_channel_videos": 882,
-    "total_channel_views": 190854,
+    "total_channel_views": 192413,
     "videos_analyzed": 10,
-    "recent_total_views": 4651,
-    "recent_total_likes": 19,
+    "recent_total_views": 6318,
+    "recent_total_likes": 23,
     "recent_total_comments": 0,
-    "average_views_per_video": 465.1,
-    "average_likes_per_video": 1.9,
+    "average_views_per_video": 631.8,
+    "average_likes_per_video": 2.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 216.39
+    "average_channel_views_per_video": 218.16
   },
   "top_videos": [
     {
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 1846,
-      "likes": 1,
+      "views": 3509,
+      "likes": 5,
       "comments": 0
     },
     {
@@ -42,7 +42,7 @@
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 906,
+      "views": 907,
       "likes": 16,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
       "published_at": "2026-06-29T03:22:39Z",
-      "views": 380,
+      "views": 381,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "LdQYWBHfjJQ",
       "title": "Building a Narrative: How New Parties Gain Legitimacy",
       "published_at": "2026-06-29T03:22:44Z",
-      "views": 82,
+      "views": 84,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
       "published_at": "2026-06-29T03:22:39Z",
-      "views": 380,
+      "views": 381,
       "likes": 0,
       "comments": 0
     },
@@ -124,15 +124,15 @@
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 1846,
-      "likes": 1,
+      "views": 3509,
+      "likes": 5,
       "comments": 0
     },
     {
       "video_id": "nq3N2L07ttw",
       "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
       "published_at": "2026-06-29T03:21:31Z",
-      "views": 906,
+      "views": 907,
       "likes": 16,
       "comments": 0
     },
