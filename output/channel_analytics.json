@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-02T02:30:55.720583+00:00",
+  "generated_at": "2026-07-02T08:43:06.693980+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 388,
     "video_count": 882,
-    "view_count": 192413
+    "view_count": 196952
   },
   "summary": {
     "total_channel_subscribers": 388,
     "total_channel_videos": 882,
-    "total_channel_views": 192413,
+    "total_channel_views": 196952,
     "videos_analyzed": 10,
-    "recent_total_views": 7585,
+    "recent_total_views": 7601,
     "recent_total_likes": 24,
     "recent_total_comments": 0,
-    "average_views_per_video": 758.5,
+    "average_views_per_video": 760.1,
     "average_likes_per_video": 2.4,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 218.16
+    "average_channel_views_per_video": 223.3
   },
   "top_videos": [
     {
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 4762,
+      "views": 4779,
       "likes": 6,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "vBbxvbpWgV4",
       "title": "Hung Assembly: Anti-Establishment Forced to Make Deals!",
       "published_at": "2026-06-29T03:21:57Z",
-      "views": 136,
+      "views": 135,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "oZmMmdDO4vU",
       "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
       "published_at": "2026-06-29T03:21:37Z",
-      "views": 4762,
+      "views": 4779,
       "likes": 6,
       "comments": 0
     },
