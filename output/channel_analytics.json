@@ -1,51 +1,27 @@
 {
-  "generated_at": "2026-07-02T13:40:49.940649+00:00",
+  "generated_at": "2026-07-02T19:11:25.343071+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 388,
-    "video_count": 882,
+    "video_count": 887,
     "view_count": 196952
   },
   "summary": {
     "total_channel_subscribers": 388,
-    "total_channel_videos": 882,
+    "total_channel_videos": 887,
     "total_channel_views": 196952,
     "videos_analyzed": 10,
-    "recent_total_views": 7622,
-    "recent_total_likes": 24,
+    "recent_total_views": 859,
+    "recent_total_likes": 0,
     "recent_total_comments": 0,
-    "average_views_per_video": 762.2,
-    "average_likes_per_video": 2.4,
+    "average_views_per_video": 85.9,
+    "average_likes_per_video": 0.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 223.3
+    "average_channel_views_per_video": 222.04
   },
   "top_videos": [
-    {
-      "video_id": "oZmMmdDO4vU",
-      "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
-      "published_at": "2026-06-29T03:21:37Z",
-      "views": 4797,
-      "likes": 6,
-      "comments": 0
-    },
-    {
-      "video_id": "AMEDKkcLm8w",
-      "title": "Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK",
-      "published_at": "2026-06-29T03:21:50Z",
-      "views": 984,
-      "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "nq3N2L07ttw",
-      "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
-      "published_at": "2026-06-29T03:21:31Z",
-      "views": 920,
-      "likes": 16,
-      "comments": 0
-    },
     {
       "video_id": "3G87RgvXBDw",
       "title": "Political Mutiny: 26 Expelled in Brutal Retaliation!",
@@ -55,15 +31,79 @@
       "comments": 0
     },
     {
-      "video_id": "yKs1jhG05zo",
-      "title": "Can Actor Vijay Actually Transform Tamil Nadu? #PoliticalReview #Analysis",
-      "published_at": "2026-06-29T03:21:56Z",
-      "views": 189,
+      "video_id": "vBbxvbpWgV4",
+      "title": "Hung Assembly: Anti-Establishment Forced to Make Deals!",
+      "published_at": "2026-06-29T03:21:57Z",
+      "views": 136,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "JnsOTXnrmbs",
+      "title": "Free Electricity: A 'Politically Sticky' Populist Move?",
+      "published_at": "2026-06-29T03:22:37Z",
+      "views": 109,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "55XfGuTckXM",
+      "title": "Actor-Politician Kicks In Shattered Gates! Meet TVK",
+      "published_at": "2026-07-02T15:45:08Z",
+      "views": 91,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "LdQYWBHfjJQ",
+      "title": "Building a Narrative: How New Parties Gain Legitimacy",
+      "published_at": "2026-06-29T03:22:44Z",
+      "views": 84,
       "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "TPUnBYgABsQ",
+      "title": "From 'Cinema Tsunami' to CM: Prove Yourself Day One!",
+      "published_at": "2026-07-02T15:45:15Z",
+      "views": 12,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "55XfGuTckXM",
+      "title": "Actor-Politician Kicks In Shattered Gates! Meet TVK",
+      "published_at": "2026-07-02T15:45:08Z",
+      "views": 91,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "e6ailG-1B_I",
+      "title": "How a new party 'Redefined the Map' & Fractured Votes",
+      "published_at": "2026-07-02T15:45:05Z",
+      "views": 16,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "7TA33u30MvM",
+      "title": "Inclusive Governance: Strategic Representation in Cabinet",
+      "published_at": "2026-07-02T15:44:52Z",
+      "views": 15,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "XUgaLiSb7xs",
+      "title": "New Chief's Move: Elite Police for Firm Control",
+      "published_at": "2026-07-02T15:44:48Z",
+      "views": 12,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "kjsVqsVF65s",
       "title": "போர் இல்லாமல் ஜெருசலேமை பிடித்தது எப்படி தெரியுமா",
@@ -100,55 +140,14 @@
       "video_id": "vBbxvbpWgV4",
       "title": "Hung Assembly: Anti-Establishment Forced to Make Deals!",
       "published_at": "2026-06-29T03:21:57Z",
-      "views": 135,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "yKs1jhG05zo",
-      "title": "Can Actor Vijay Actually Transform Tamil Nadu? #PoliticalReview #Analysis",
-      "published_at": "2026-06-29T03:21:56Z",
-      "views": 189,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "AMEDKkcLm8w",
-      "title": "Vijay's TVK: The New Alternative in Tamil Nadu Politics #TamilNaduPolitics #TVK",
-      "published_at": "2026-06-29T03:21:50Z",
-      "views": 984,
-      "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "oZmMmdDO4vU",
-      "title": "40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?",
-      "published_at": "2026-06-29T03:21:37Z",
-      "views": 4797,
-      "likes": 6,
-      "comments": 0
-    },
-    {
-      "video_id": "nq3N2L07ttw",
-      "title": "மின்வாரிய கடன் சுமை: புதிய திட்டங்கள் முடங்குவதன் காரணம்!",
-      "published_at": "2026-06-29T03:21:31Z",
-      "views": 920,
-      "likes": 16,
-      "comments": 0
-    },
-    {
-      "video_id": "JhCt9ulaUfs",
-      "title": "மின்வெட்டால் மாணவர்கள், விவசாயிகள் படும் அவதி! என்ன தீர்வு?",
-      "published_at": "2026-06-29T03:21:30Z",
-      "views": 20,
+      "views": 136,
       "likes": 0,
       "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of '40% மின்வாரிய காலி பணியிடங்களை ஏன் நிரப்பவில்லை?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'போர் இல்லாமல் ஜெருசலேமை பிடித்தது எப்படி தெரியுமா' with stronger titles, descriptions, and thumbnails.",
-    "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
-    "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
+    "Review the format and topic of 'Political Mutiny: 26 Expelled in Brutal Retaliation!' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'From 'Cinema Tsunami' to CM: Prove Yourself Day One!' with stronger titles, descriptions, and thumbnails.",
+    "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments."
   ]
 }
