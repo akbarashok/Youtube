@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-03T02:06:25.867049+00:00",
+  "generated_at": "2026-07-03T08:50:58.849734+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 388,
     "video_count": 887,
-    "view_count": 196989
+    "view_count": 197108
   },
   "summary": {
     "total_channel_subscribers": 388,
     "total_channel_videos": 887,
-    "total_channel_views": 196989,
+    "total_channel_views": 197108,
     "videos_analyzed": 10,
-    "recent_total_views": 1515,
+    "recent_total_views": 1539,
     "recent_total_likes": 0,
     "recent_total_comments": 0,
-    "average_views_per_video": 151.5,
+    "average_views_per_video": 153.9,
     "average_likes_per_video": 0.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 222.08
+    "average_channel_views_per_video": 222.22
   },
   "top_videos": [
     {
       "video_id": "TPUnBYgABsQ",
       "title": "From 'Cinema Tsunami' to CM: Prove Yourself Day One!",
       "published_at": "2026-07-02T15:45:15Z",
-      "views": 491,
+      "views": 494,
       "likes": 0,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "TPUnBYgABsQ",
       "title": "From 'Cinema Tsunami' to CM: Prove Yourself Day One!",
       "published_at": "2026-07-02T15:45:15Z",
-      "views": 491,
+      "views": 494,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "e6ailG-1B_I",
       "title": "How a new party 'Redefined the Map' & Fractured Votes",
       "published_at": "2026-07-02T15:45:05Z",
-      "views": 34,
+      "views": 44,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "XUgaLiSb7xs",
       "title": "New Chief's Move: Elite Police for Firm Control",
       "published_at": "2026-07-02T15:44:48Z",
-      "views": 48,
+      "views": 59,
       "likes": 0,
       "comments": 0
     },
