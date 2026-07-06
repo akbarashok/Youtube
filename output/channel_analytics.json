@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-05T19:03:18.561816+00:00",
+  "generated_at": "2026-07-06T02:24:29.995991+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 394,
     "video_count": 891,
-    "view_count": 201838
+    "view_count": 201953
   },
   "summary": {
     "total_channel_subscribers": 394,
     "total_channel_videos": 891,
-    "total_channel_views": 201838,
+    "total_channel_views": 201953,
     "videos_analyzed": 10,
-    "recent_total_views": 4731,
+    "recent_total_views": 4775,
     "recent_total_likes": 75,
     "recent_total_comments": 0,
-    "average_views_per_video": 473.1,
+    "average_views_per_video": 477.5,
     "average_likes_per_video": 7.5,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 226.53
+    "average_channel_views_per_video": 226.66
   },
   "top_videos": [
     {
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1382,
+      "views": 1409,
       "likes": 18,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "KSjmLDkFrXw",
       "title": "சமூக வலைத்தளங்கள் அரசியலை ரியாலிட்டி ஷோவாக்கியது",
       "published_at": "2026-07-03T15:52:45Z",
-      "views": 1256,
+      "views": 1265,
       "likes": 25,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "S3ZUrvz52Zk",
       "title": "அரசியல்வாதிகள் யூடியூப் & இன்ஸ்டாகிராம் மூலம் மக்களிடம்",
       "published_at": "2026-07-03T15:53:13Z",
-      "views": 1247,
+      "views": 1256,
       "likes": 31,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1382,
+      "views": 1409,
       "likes": 18,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "S3ZUrvz52Zk",
       "title": "அரசியல்வாதிகள் யூடியூப் & இன்ஸ்டாகிராம் மூலம் மக்களிடம்",
       "published_at": "2026-07-03T15:53:13Z",
-      "views": 1247,
+      "views": 1256,
       "likes": 31,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "KSjmLDkFrXw",
       "title": "சமூக வலைத்தளங்கள் அரசியலை ரியாலிட்டி ஷோவாக்கியது",
       "published_at": "2026-07-03T15:52:45Z",
-      "views": 1256,
+      "views": 1265,
       "likes": 25,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "XUgaLiSb7xs",
       "title": "New Chief's Move: Elite Police for Firm Control",
       "published_at": "2026-07-02T15:44:48Z",
-      "views": 70,
+      "views": 69,
       "likes": 1,
       "comments": 0
     },
