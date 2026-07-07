@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-06T19:44:13.330608+00:00",
+  "generated_at": "2026-07-07T02:12:58.620473+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 402,
+    "subscriber_count": 401,
     "video_count": 894,
     "view_count": 202023
   },
   "summary": {
-    "total_channel_subscribers": 402,
+    "total_channel_subscribers": 401,
     "total_channel_videos": 894,
     "total_channel_views": 202023,
     "videos_analyzed": 10,
-    "recent_total_views": 5942,
-    "recent_total_likes": 121,
+    "recent_total_views": 6548,
+    "recent_total_likes": 112,
     "recent_total_comments": 0,
-    "average_views_per_video": 594.2,
-    "average_likes_per_video": 12.1,
+    "average_views_per_video": 654.8,
+    "average_likes_per_video": 11.2,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 225.98
   },
@@ -26,7 +26,7 @@
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1472,
+      "views": 1479,
       "likes": 18,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "S3ZUrvz52Zk",
       "title": "அரசியல்வாதிகள் யூடியூப் & இன்ஸ்டாகிராம் மூலம் மக்களிடம்",
       "published_at": "2026-07-03T15:53:13Z",
-      "views": 1264,
+      "views": 1266,
       "likes": 32,
       "comments": 0
     },
@@ -50,16 +50,16 @@
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 761,
-      "likes": 19,
+      "views": 1057,
+      "likes": 13,
       "comments": 0
     },
     {
-      "video_id": "TPUnBYgABsQ",
-      "title": "Can Vijay Prove Himself as Tamil Nadu's Chief Minister?",
-      "published_at": "2026-07-02T15:45:15Z",
-      "views": 491,
-      "likes": 0,
+      "video_id": "iu0dfqp3_7g",
+      "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
+      "published_at": "2026-07-06T15:26:51Z",
+      "views": 751,
+      "likes": 22,
       "comments": 0
     }
   ],
@@ -68,15 +68,15 @@
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 480,
-      "likes": 25,
+      "views": 751,
+      "likes": 22,
       "comments": 0
     },
     {
       "video_id": "AIsco5bmOS8",
       "title": "விவசாய கடன் தள்ளுபடி! TASMAC கடைகள் மூடல்!",
       "published_at": "2026-07-06T15:26:24Z",
-      "views": 37,
+      "views": 63,
       "likes": 2,
       "comments": 0
     },
@@ -84,15 +84,15 @@
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 761,
-      "likes": 19,
+      "views": 1057,
+      "likes": 13,
       "comments": 0
     },
     {
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1472,
+      "views": 1479,
       "likes": 18,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "S3ZUrvz52Zk",
       "title": "அரசியல்வாதிகள் யூடியூப் & இன்ஸ்டாகிராம் மூலம் மக்களிடம்",
       "published_at": "2026-07-03T15:53:13Z",
-      "views": 1264,
+      "views": 1266,
       "likes": 32,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "TPUnBYgABsQ",
       "title": "Can Vijay Prove Himself as Tamil Nadu's Chief Minister?",
       "published_at": "2026-07-02T15:45:15Z",
-      "views": 491,
+      "views": 493,
       "likes": 0,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "55XfGuTckXM",
       "title": "Actor-Politician Kicks In Shattered Gates! Meet TVK",
       "published_at": "2026-07-02T15:45:08Z",
-      "views": 109,
+      "views": 110,
       "likes": 0,
       "comments": 0
     },
@@ -140,14 +140,13 @@
       "video_id": "e6ailG-1B_I",
       "title": "How TVK Shattered Tamil Nadu's Political Order #TamilNadu #Politics #Election",
       "published_at": "2026-07-02T15:45:05Z",
-      "views": 53,
+      "views": 54,
       "likes": 0,
       "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'ஓட்டை கப்பலை ஓட்டும் அரசியல்' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
