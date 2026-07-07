@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-07-07T02:12:58.620473+00:00",
+  "generated_at": "2026-07-07T09:26:11.619849+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 401,
-    "video_count": 894,
-    "view_count": 202023
+    "subscriber_count": 407,
+    "video_count": 898,
+    "view_count": 202086
   },
   "summary": {
-    "total_channel_subscribers": 401,
-    "total_channel_videos": 894,
-    "total_channel_views": 202023,
+    "total_channel_subscribers": 407,
+    "total_channel_videos": 898,
+    "total_channel_views": 202086,
     "videos_analyzed": 10,
-    "recent_total_views": 6548,
-    "recent_total_likes": 112,
-    "recent_total_comments": 0,
-    "average_views_per_video": 654.8,
-    "average_likes_per_video": 11.2,
-    "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 225.98
+    "recent_total_views": 8104,
+    "recent_total_likes": 184,
+    "recent_total_comments": 1,
+    "average_views_per_video": 810.4,
+    "average_likes_per_video": 18.4,
+    "average_comments_per_video": 0.1,
+    "average_channel_views_per_video": 225.04
   },
   "top_videos": [
+    {
+      "video_id": "iu0dfqp3_7g",
+      "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
+      "published_at": "2026-07-06T15:26:51Z",
+      "views": 1548,
+      "likes": 44,
+      "comments": 0
+    },
     {
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1479,
+      "views": 1488,
       "likes": 18,
       "comments": 0
     },
@@ -50,49 +58,73 @@
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 1057,
-      "likes": 13,
-      "comments": 0
-    },
-    {
-      "video_id": "iu0dfqp3_7g",
-      "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
-      "published_at": "2026-07-06T15:26:51Z",
-      "views": 751,
-      "likes": 22,
+      "views": 1088,
+      "likes": 14,
       "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "-CDy6z9bj-0",
+      "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
+      "published_at": "2026-07-07T09:00:16Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "Hz0yH_oyDi8",
+      "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
+      "published_at": "2026-07-07T05:06:17Z",
+      "views": 526,
+      "likes": 14,
+      "comments": 0
+    },
+    {
+      "video_id": "dPb-c7jQxSg",
+      "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
+      "published_at": "2026-07-07T05:06:13Z",
+      "views": 89,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "h_blnOWxvGQ",
+      "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
+      "published_at": "2026-07-07T05:06:03Z",
+      "views": 760,
+      "likes": 32,
+      "comments": 1
+    },
+    {
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 751,
-      "likes": 22,
+      "views": 1548,
+      "likes": 44,
       "comments": 0
     },
     {
       "video_id": "AIsco5bmOS8",
       "title": "விவசாய கடன் தள்ளுபடி! TASMAC கடைகள் மூடல்!",
       "published_at": "2026-07-06T15:26:24Z",
-      "views": 63,
-      "likes": 2,
+      "views": 64,
+      "likes": 3,
       "comments": 0
     },
     {
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 1057,
-      "likes": 13,
+      "views": 1088,
+      "likes": 14,
       "comments": 0
     },
     {
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1479,
+      "views": 1488,
       "likes": 18,
       "comments": 0
     },
@@ -111,42 +143,11 @@
       "views": 1275,
       "likes": 25,
       "comments": 0
-    },
-    {
-      "video_id": "kGMAhc53-uo",
-      "title": "சாதாரண போர் இல்லை இது ஒரு பெரிய சவால்!",
-      "published_at": "2026-07-03T15:00:03Z",
-      "views": 0,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "TPUnBYgABsQ",
-      "title": "Can Vijay Prove Himself as Tamil Nadu's Chief Minister?",
-      "published_at": "2026-07-02T15:45:15Z",
-      "views": 493,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "55XfGuTckXM",
-      "title": "Actor-Politician Kicks In Shattered Gates! Meet TVK",
-      "published_at": "2026-07-02T15:45:08Z",
-      "views": 110,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "e6ailG-1B_I",
-      "title": "How TVK Shattered Tamil Nadu's Political Order #TamilNadu #Politics #Election",
-      "published_at": "2026-07-02T15:45:05Z",
-      "views": 54,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'ஓட்டை கப்பலை ஓட்டும் அரசியல்' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
