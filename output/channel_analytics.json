@@ -1,48 +1,56 @@
 {
-  "generated_at": "2026-07-07T14:09:52.949867+00:00",
+  "generated_at": "2026-07-07T19:42:53.962739+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 408,
     "video_count": 898,
-    "view_count": 202086
+    "view_count": 204405
   },
   "summary": {
     "total_channel_subscribers": 408,
     "total_channel_videos": 898,
-    "total_channel_views": 202086,
+    "total_channel_views": 204405,
     "videos_analyzed": 10,
-    "recent_total_views": 13166,
-    "recent_total_likes": 194,
+    "recent_total_views": 15606,
+    "recent_total_likes": 210,
     "recent_total_comments": 1,
-    "average_views_per_video": 1316.6,
-    "average_likes_per_video": 19.4,
+    "average_views_per_video": 1560.6,
+    "average_likes_per_video": 21.0,
     "average_comments_per_video": 0.1,
-    "average_channel_views_per_video": 225.04
+    "average_channel_views_per_video": 227.62
   },
   "top_videos": [
     {
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4425,
-      "likes": 47,
+      "views": 4606,
+      "likes": 48,
       "comments": 0
     },
     {
       "video_id": "h_blnOWxvGQ",
       "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
       "published_at": "2026-07-07T05:06:03Z",
-      "views": 1903,
-      "likes": 35,
+      "views": 3026,
+      "likes": 42,
       "comments": 1
+    },
+    {
+      "video_id": "Hz0yH_oyDi8",
+      "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
+      "published_at": "2026-07-07T05:06:17Z",
+      "views": 1726,
+      "likes": 18,
+      "comments": 0
     },
     {
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1532,
+      "views": 1545,
       "likes": 18,
       "comments": 0
     },
@@ -52,14 +60,6 @@
       "published_at": "2026-07-03T15:52:45Z",
       "views": 1276,
       "likes": 25,
-      "comments": 0
-    },
-    {
-      "video_id": "S3ZUrvz52Zk",
-      "title": "அரசியல்வாதிகள் யூடியூப் & இன்ஸ்டாகிராம் மூலம் மக்களிடம்",
-      "published_at": "2026-07-03T15:53:13Z",
-      "views": 1269,
-      "likes": 32,
       "comments": 0
     }
   ],
@@ -76,39 +76,39 @@
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
-      "views": 858,
-      "likes": 11,
+      "views": 1726,
+      "likes": 18,
       "comments": 0
     },
     {
       "video_id": "dPb-c7jQxSg",
       "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
       "published_at": "2026-07-07T05:06:13Z",
-      "views": 659,
-      "likes": 9,
+      "views": 858,
+      "likes": 10,
       "comments": 0
     },
     {
       "video_id": "h_blnOWxvGQ",
       "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
       "published_at": "2026-07-07T05:06:03Z",
-      "views": 1903,
-      "likes": 35,
+      "views": 3026,
+      "likes": 42,
       "comments": 1
     },
     {
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4425,
-      "likes": 47,
+      "views": 4606,
+      "likes": 48,
       "comments": 0
     },
     {
       "video_id": "AIsco5bmOS8",
       "title": "விவசாய கடன் தள்ளுபடி! TASMAC கடைகள் மூடல்!",
       "published_at": "2026-07-06T15:26:24Z",
-      "views": 95,
+      "views": 111,
       "likes": 3,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 1149,
+      "views": 1189,
       "likes": 14,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "RukbK_Jqz6A",
       "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
       "published_at": "2026-07-03T15:53:42Z",
-      "views": 1532,
+      "views": 1545,
       "likes": 18,
       "comments": 0
     },
