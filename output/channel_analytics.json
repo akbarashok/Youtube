@@ -1,69 +1,93 @@
 {
-  "generated_at": "2026-07-08T01:53:22.494279+00:00",
+  "generated_at": "2026-07-08T08:10:16.011780+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 408,
-    "video_count": 898,
-    "view_count": 204405
+    "subscriber_count": 409,
+    "video_count": 899,
+    "view_count": 213579
   },
   "summary": {
-    "total_channel_subscribers": 408,
-    "total_channel_videos": 898,
-    "total_channel_views": 204405,
+    "total_channel_subscribers": 409,
+    "total_channel_videos": 899,
+    "total_channel_views": 213579,
     "videos_analyzed": 10,
-    "recent_total_views": 16460,
-    "recent_total_likes": 209,
+    "recent_total_views": 13036,
+    "recent_total_likes": 148,
     "recent_total_comments": 1,
-    "average_views_per_video": 1646.0,
-    "average_likes_per_video": 20.9,
+    "average_views_per_video": 1303.6,
+    "average_likes_per_video": 14.8,
     "average_comments_per_video": 0.1,
-    "average_channel_views_per_video": 227.62
+    "average_channel_views_per_video": 237.57
   },
   "top_videos": [
     {
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4694,
-      "likes": 49,
+      "views": 4758,
+      "likes": 50,
       "comments": 0
     },
     {
       "video_id": "h_blnOWxvGQ",
       "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
       "published_at": "2026-07-07T05:06:03Z",
-      "views": 3425,
-      "likes": 42,
+      "views": 3467,
+      "likes": 44,
       "comments": 1
     },
     {
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
-      "views": 2018,
-      "likes": 17,
+      "views": 2500,
+      "likes": 27,
       "comments": 0
     },
     {
-      "video_id": "RukbK_Jqz6A",
-      "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
-      "published_at": "2026-07-03T15:53:42Z",
-      "views": 1545,
-      "likes": 18,
+      "video_id": "-f4S_XqOLB8",
+      "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
+      "published_at": "2026-07-06T15:26:14Z",
+      "views": 1215,
+      "likes": 14,
       "comments": 0
     },
     {
-      "video_id": "KSjmLDkFrXw",
-      "title": "சமூக வலைத்தளங்கள் அரசியலை ரியாலிட்டி ஷோவாக்கியது",
-      "published_at": "2026-07-03T15:52:45Z",
-      "views": 1276,
-      "likes": 25,
+      "video_id": "dPb-c7jQxSg",
+      "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
+      "published_at": "2026-07-07T05:06:13Z",
+      "views": 967,
+      "likes": 10,
       "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "6RoByPIoP-4",
+      "title": "வாரிசு அரசியலை விமர்சித்தாரா முதல்வர்?",
+      "published_at": "2026-07-08T07:00:31Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "ojIcaSB0fDQ",
+      "title": "தமிழ்நாட்டின் புதிய அரசியல் கட்டமைப்பு!",
+      "published_at": "2026-07-08T07:00:30Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "Fh-ukgRxBF0",
+      "title": "கூட்டணி கட்சிகளை அமைச்சரவையில் சேர்த்தது ஏன்?",
+      "published_at": "2026-07-08T07:00:24Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "-CDy6z9bj-0",
       "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
@@ -76,39 +100,39 @@
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
-      "views": 2018,
-      "likes": 17,
+      "views": 2500,
+      "likes": 27,
       "comments": 0
     },
     {
       "video_id": "dPb-c7jQxSg",
       "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
       "published_at": "2026-07-07T05:06:13Z",
-      "views": 912,
-      "likes": 9,
+      "views": 967,
+      "likes": 10,
       "comments": 0
     },
     {
       "video_id": "h_blnOWxvGQ",
       "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
       "published_at": "2026-07-07T05:06:03Z",
-      "views": 3425,
-      "likes": 42,
+      "views": 3467,
+      "likes": 44,
       "comments": 1
     },
     {
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4694,
-      "likes": 49,
+      "views": 4758,
+      "likes": 50,
       "comments": 0
     },
     {
       "video_id": "AIsco5bmOS8",
       "title": "விவசாய கடன் தள்ளுபடி! TASMAC கடைகள் மூடல்!",
       "published_at": "2026-07-06T15:26:24Z",
-      "views": 123,
+      "views": 129,
       "likes": 3,
       "comments": 0
     },
@@ -116,38 +140,14 @@
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 1198,
+      "views": 1215,
       "likes": 14,
-      "comments": 0
-    },
-    {
-      "video_id": "RukbK_Jqz6A",
-      "title": "ஓட்டை கப்பலை ஓட்டும் அரசியல்",
-      "published_at": "2026-07-03T15:53:42Z",
-      "views": 1545,
-      "likes": 18,
-      "comments": 0
-    },
-    {
-      "video_id": "S3ZUrvz52Zk",
-      "title": "அரசியல்வாதிகள் யூடியூப் & இன்ஸ்டாகிராம் மூலம் மக்களிடம்",
-      "published_at": "2026-07-03T15:53:13Z",
-      "views": 1269,
-      "likes": 32,
-      "comments": 0
-    },
-    {
-      "video_id": "KSjmLDkFrXw",
-      "title": "சமூக வலைத்தளங்கள் அரசியலை ரியாலிட்டி ஷோவாக்கியது",
-      "published_at": "2026-07-03T15:52:45Z",
-      "views": 1276,
-      "likes": 25,
       "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'வாரிசு அரசியலை விமர்சித்தாரா முதல்வர்?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
