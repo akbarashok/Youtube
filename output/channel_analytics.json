@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-09T14:34:45.009079+00:00",
+  "generated_at": "2026-07-09T19:24:14.904396+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 410,
+    "subscriber_count": 412,
     "video_count": 899,
-    "view_count": 216226
+    "view_count": 216318
   },
   "summary": {
-    "total_channel_subscribers": 410,
+    "total_channel_subscribers": 412,
     "total_channel_videos": 899,
-    "total_channel_views": 216226,
+    "total_channel_views": 216318,
     "videos_analyzed": 10,
-    "recent_total_views": 14188,
-    "recent_total_likes": 160,
+    "recent_total_views": 14317,
+    "recent_total_likes": 162,
     "recent_total_comments": 1,
-    "average_views_per_video": 1418.8,
-    "average_likes_per_video": 16.0,
+    "average_views_per_video": 1431.7,
+    "average_likes_per_video": 16.2,
     "average_comments_per_video": 0.1,
-    "average_channel_views_per_video": 240.52
+    "average_channel_views_per_video": 240.62
   },
   "top_videos": [
     {
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4944,
+      "views": 4952,
       "likes": 51,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "h_blnOWxvGQ",
       "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
       "published_at": "2026-07-07T05:06:03Z",
-      "views": 3631,
+      "views": 3643,
       "likes": 45,
       "comments": 1
     },
@@ -42,7 +42,7 @@
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
-      "views": 2952,
+      "views": 2959,
       "likes": 29,
       "comments": 0
     },
@@ -50,7 +50,7 @@
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 1227,
+      "views": 1240,
       "likes": 13,
       "comments": 0
     },
@@ -58,7 +58,7 @@
       "video_id": "dPb-c7jQxSg",
       "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
       "published_at": "2026-07-07T05:06:13Z",
-      "views": 1011,
+      "views": 1016,
       "likes": 11,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "6RoByPIoP-4",
       "title": "வாரிசு அரசியலை விமர்சித்தாரா முதல்வர்?",
       "published_at": "2026-07-08T07:00:31Z",
-      "views": 75,
+      "views": 91,
       "likes": 1,
       "comments": 0
     },
@@ -76,15 +76,15 @@
       "video_id": "ojIcaSB0fDQ",
       "title": "தமிழ்நாட்டின் புதிய அரசியல் கட்டமைப்பு!",
       "published_at": "2026-07-08T07:00:30Z",
-      "views": 82,
-      "likes": 4,
+      "views": 109,
+      "likes": 6,
       "comments": 0
     },
     {
       "video_id": "Fh-ukgRxBF0",
       "title": "கூட்டணி கட்சிகளை அமைச்சரவையில் சேர்த்தது ஏன்?",
       "published_at": "2026-07-08T07:00:24Z",
-      "views": 83,
+      "views": 121,
       "likes": 2,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "-CDy6z9bj-0",
       "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
       "published_at": "2026-07-07T09:00:16Z",
-      "views": 14,
+      "views": 16,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
-      "views": 2952,
+      "views": 2959,
       "likes": 29,
       "comments": 0
     },
@@ -108,7 +108,7 @@
       "video_id": "dPb-c7jQxSg",
       "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
       "published_at": "2026-07-07T05:06:13Z",
-      "views": 1011,
+      "views": 1016,
       "likes": 11,
       "comments": 0
     },
@@ -116,7 +116,7 @@
       "video_id": "h_blnOWxvGQ",
       "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
       "published_at": "2026-07-07T05:06:03Z",
-      "views": 3631,
+      "views": 3643,
       "likes": 45,
       "comments": 1
     },
@@ -124,7 +124,7 @@
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4944,
+      "views": 4952,
       "likes": 51,
       "comments": 0
     },
@@ -132,7 +132,7 @@
       "video_id": "AIsco5bmOS8",
       "title": "விவசாய கடன் தள்ளுபடி! TASMAC கடைகள் மூடல்!",
       "published_at": "2026-07-06T15:26:24Z",
-      "views": 169,
+      "views": 170,
       "likes": 4,
       "comments": 0
     },
@@ -140,7 +140,7 @@
       "video_id": "-f4S_XqOLB8",
       "title": "தமிழகத்தில் ஆட்சியமைக்க 118, ஆனால் கிடைத்ததோ 108!",
       "published_at": "2026-07-06T15:26:14Z",
-      "views": 1227,
+      "views": 1240,
       "likes": 13,
       "comments": 0
     }
