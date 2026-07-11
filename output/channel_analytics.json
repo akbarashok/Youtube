@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-10T19:17:06.459682+00:00",
+  "generated_at": "2026-07-11T01:52:05.858353+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 413,
     "video_count": 899,
-    "view_count": 216609
+    "view_count": 216761
   },
   "summary": {
     "total_channel_subscribers": 413,
     "total_channel_videos": 899,
-    "total_channel_views": 216609,
+    "total_channel_views": 216761,
     "videos_analyzed": 10,
-    "recent_total_views": 14540,
+    "recent_total_views": 14549,
     "recent_total_likes": 166,
     "recent_total_comments": 1,
-    "average_views_per_video": 1454.0,
+    "average_views_per_video": 1454.9,
     "average_likes_per_video": 16.6,
     "average_comments_per_video": 0.1,
-    "average_channel_views_per_video": 240.94
+    "average_channel_views_per_video": 241.11
   },
   "top_videos": [
     {
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4990,
+      "views": 4991,
       "likes": 51,
       "comments": 0
     },
@@ -42,7 +42,7 @@
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
-      "views": 2980,
+      "views": 2986,
       "likes": 29,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "ojIcaSB0fDQ",
       "title": "தமிழ்நாட்டின் புதிய அரசியல் கட்டமைப்பு!",
       "published_at": "2026-07-08T07:00:30Z",
-      "views": 147,
+      "views": 146,
       "likes": 9,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "-CDy6z9bj-0",
       "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
       "published_at": "2026-07-07T09:00:16Z",
-      "views": 35,
+      "views": 38,
       "likes": 0,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
-      "views": 2980,
+      "views": 2986,
       "likes": 29,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "iu0dfqp3_7g",
       "title": "முதலமைச்சர் விஜயின் அதிரடி குற்றச்சாட்டுகள்!",
       "published_at": "2026-07-06T15:26:51Z",
-      "views": 4990,
+      "views": 4991,
       "likes": 51,
       "comments": 0
     },
