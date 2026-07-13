@@ -1,49 +1,33 @@
 {
-  "generated_at": "2026-07-13T08:51:49.619390+00:00",
+  "generated_at": "2026-07-13T14:09:51.318469+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 413,
-    "video_count": 904,
+    "subscriber_count": 414,
+    "video_count": 906,
     "view_count": 217022
   },
   "summary": {
-    "total_channel_subscribers": 413,
-    "total_channel_videos": 904,
+    "total_channel_subscribers": 414,
+    "total_channel_videos": 906,
     "total_channel_views": 217022,
     "videos_analyzed": 10,
-    "recent_total_views": 8266,
-    "recent_total_likes": 100,
-    "recent_total_comments": 1,
-    "average_views_per_video": 826.6,
-    "average_likes_per_video": 10.0,
-    "average_comments_per_video": 0.1,
-    "average_channel_views_per_video": 240.07
+    "recent_total_views": 3614,
+    "recent_total_likes": 44,
+    "recent_total_comments": 0,
+    "average_views_per_video": 361.4,
+    "average_likes_per_video": 4.4,
+    "average_comments_per_video": 0.0,
+    "average_channel_views_per_video": 239.54
   },
   "top_videos": [
-    {
-      "video_id": "h_blnOWxvGQ",
-      "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
-      "published_at": "2026-07-07T05:06:03Z",
-      "views": 3647,
-      "likes": 45,
-      "comments": 1
-    },
     {
       "video_id": "Hz0yH_oyDi8",
       "title": "அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?",
       "published_at": "2026-07-07T05:06:17Z",
       "views": 2986,
       "likes": 29,
-      "comments": 0
-    },
-    {
-      "video_id": "dPb-c7jQxSg",
-      "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
-      "published_at": "2026-07-07T05:06:13Z",
-      "views": 1023,
-      "likes": 11,
       "comments": 0
     },
     {
@@ -61,9 +45,41 @@
       "views": 148,
       "likes": 9,
       "comments": 0
+    },
+    {
+      "video_id": "6RoByPIoP-4",
+      "title": "வாரிசு அரசியலை விமர்சித்தாரா முதல்வர்?",
+      "published_at": "2026-07-08T07:00:31Z",
+      "views": 107,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "-CDy6z9bj-0",
+      "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
+      "published_at": "2026-07-07T09:00:16Z",
+      "views": 63,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "n8Sme745jPI",
+      "title": "தமிழ்நாட்டில் 60 ஆண்டுக்கால அரசியல் மாற்றம்",
+      "published_at": "2026-07-13T10:01:10Z",
+      "views": 11,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "JpgK5poPXME",
+      "title": "பள்ளிகள், கோவில்கள் அருகில் டாஸ்மாக் கடைகள் மூடல்",
+      "published_at": "2026-07-13T10:01:02Z",
+      "views": 5,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "PP74at9WuXQ",
       "title": "இது வெறும் தேர்தல் முடிவல்ல, அரசியல் சாமராஜ்யம்!",
@@ -116,7 +132,7 @@
       "video_id": "-CDy6z9bj-0",
       "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
       "published_at": "2026-07-07T09:00:16Z",
-      "views": 61,
+      "views": 63,
       "likes": 0,
       "comments": 0
     },
@@ -127,27 +143,11 @@
       "views": 2986,
       "likes": 29,
       "comments": 0
-    },
-    {
-      "video_id": "dPb-c7jQxSg",
-      "title": "அரசியல் நாகரிகம் தரம் தாழ்ந்துவிட்டதா?",
-      "published_at": "2026-07-07T05:06:13Z",
-      "views": 1023,
-      "likes": 11,
-      "comments": 0
-    },
-    {
-      "video_id": "h_blnOWxvGQ",
-      "title": "தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!",
-      "published_at": "2026-07-07T05:06:03Z",
-      "views": 3647,
-      "likes": 45,
-      "comments": 1
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'தமிழக வரலாற்றில் முதல் கூட்டணி ஆட்சி!' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'இது வெறும் தேர்தல் முடிவல்ல, அரசியல் சாமராஜ்யம்!' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'அரசியல் வாரிசு vs நடிகர்: யார் சிறந்தவர்?' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'தமிழ்நாட்டில் 60 ஆண்டுக்கால அரசியல் மாற்றம்' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
