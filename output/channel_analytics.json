@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:13:52.376838+00:00",
+  "generated_at": "2026-07-14T01:44:15.333644+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
@@ -13,11 +13,11 @@
     "total_channel_videos": 906,
     "total_channel_views": 217036,
     "videos_analyzed": 10,
-    "recent_total_views": 3643,
-    "recent_total_likes": 44,
+    "recent_total_views": 3651,
+    "recent_total_likes": 45,
     "recent_total_comments": 0,
-    "average_views_per_video": 364.3,
-    "average_likes_per_video": 4.4,
+    "average_views_per_video": 365.1,
+    "average_likes_per_video": 4.5,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 239.55
   },
@@ -58,7 +58,7 @@
       "video_id": "-CDy6z9bj-0",
       "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
       "published_at": "2026-07-07T09:00:16Z",
-      "views": 64,
+      "views": 67,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "n8Sme745jPI",
       "title": "தமிழ்நாட்டில் 60 ஆண்டுக்கால அரசியல் மாற்றம்",
       "published_at": "2026-07-13T10:01:10Z",
-      "views": 22,
+      "views": 23,
       "likes": 0,
       "comments": 0
     },
@@ -76,8 +76,8 @@
       "video_id": "JpgK5poPXME",
       "title": "பள்ளிகள், கோவில்கள் அருகில் டாஸ்மாக் கடைகள் மூடல்",
       "published_at": "2026-07-13T10:01:02Z",
-      "views": 22,
-      "likes": 0,
+      "views": 26,
+      "likes": 1,
       "comments": 0
     },
     {
@@ -132,7 +132,7 @@
       "video_id": "-CDy6z9bj-0",
       "title": "போரின்றி நடந்த குருசேட் – பேச்சுவார்த்தைகளின் தொடக்கம்",
       "published_at": "2026-07-07T09:00:16Z",
-      "views": 64,
+      "views": 67,
       "likes": 0,
       "comments": 0
     },
