@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-16T13:23:45.782794+00:00",
+  "generated_at": "2026-07-16T18:57:54.288329+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 909,
-    "view_count": 217229
+    "view_count": 217236
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 909,
-    "total_channel_views": 217229,
+    "total_channel_views": 217236,
     "videos_analyzed": 10,
-    "recent_total_views": 1102,
+    "recent_total_views": 1271,
     "recent_total_likes": 33,
     "recent_total_comments": 0,
-    "average_views_per_video": 110.2,
+    "average_views_per_video": 127.1,
     "average_likes_per_video": 3.3,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 238.98
@@ -26,7 +26,7 @@
       "video_id": "YkVA3AV9wtY",
       "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
       "published_at": "2026-07-16T02:12:48Z",
-      "views": 344,
+      "views": 446,
       "likes": 8,
       "comments": 0
     },
@@ -34,7 +34,7 @@
       "video_id": "1FVvRcaAblg",
       "title": "இந்த ஆட்சியின் சர்வைவல் ஸ்ட்ராடஜி என்ன?",
       "published_at": "2026-07-16T02:12:23Z",
-      "views": 210,
+      "views": 272,
       "likes": 7,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "YkVA3AV9wtY",
       "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
       "published_at": "2026-07-16T02:12:48Z",
-      "views": 344,
+      "views": 446,
       "likes": 8,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "uKbeLjcs_tI",
       "title": "கம்யூனிஸ்ட் கட்சிகளின் வெளி ஆதரவு!",
       "published_at": "2026-07-16T02:12:47Z",
-      "views": 11,
+      "views": 16,
       "likes": 1,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "1FVvRcaAblg",
       "title": "இந்த ஆட்சியின் சர்வைவல் ஸ்ட்ராடஜி என்ன?",
       "published_at": "2026-07-16T02:12:23Z",
-      "views": 210,
+      "views": 272,
       "likes": 7,
       "comments": 0
     },
