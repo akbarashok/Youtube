@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-23T01:58:26.260707+00:00",
+  "generated_at": "2026-07-23T08:13:45.593230+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 909,
-    "view_count": 218834
+    "view_count": 218838
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 909,
-    "total_channel_views": 218834,
+    "total_channel_views": 218838,
     "videos_analyzed": 10,
-    "recent_total_views": 2103,
+    "recent_total_views": 2107,
     "recent_total_likes": 41,
     "recent_total_comments": 0,
-    "average_views_per_video": 210.3,
+    "average_views_per_video": 210.7,
     "average_likes_per_video": 4.1,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 240.74
+    "average_channel_views_per_video": 240.75
   },
   "top_videos": [
     {
       "video_id": "YkVA3AV9wtY",
       "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
       "published_at": "2026-07-16T02:12:48Z",
-      "views": 696,
+      "views": 697,
       "likes": 12,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "YkVA3AV9wtY",
       "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
       "published_at": "2026-07-16T02:12:48Z",
-      "views": 696,
+      "views": 697,
       "likes": 12,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "n8Sme745jPI",
       "title": "தமிழ்நாட்டில் 60 ஆண்டுக்கால அரசியல் மாற்றம்",
       "published_at": "2026-07-13T10:01:10Z",
-      "views": 49,
+      "views": 50,
       "likes": 2,
       "comments": 0
     },
@@ -100,7 +100,7 @@
       "video_id": "JpgK5poPXME",
       "title": "பள்ளிகள், கோவில்கள் அருகில் டாஸ்மாக் கடைகள் மூடல்",
       "published_at": "2026-07-13T10:01:02Z",
-      "views": 101,
+      "views": 103,
       "likes": 3,
       "comments": 0
     },
