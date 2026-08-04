@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-04T08:22:56.381863+00:00",
+  "generated_at": "2026-08-04T13:50:04.305766+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 414,
     "video_count": 909,
-    "view_count": 218969
+    "view_count": 218971
   },
   "summary": {
     "total_channel_subscribers": 414,
     "total_channel_videos": 909,
-    "total_channel_views": 218969,
+    "total_channel_views": 218971,
     "videos_analyzed": 10,
-    "recent_total_views": 2107,
+    "recent_total_views": 2109,
     "recent_total_likes": 41,
     "recent_total_comments": 0,
-    "average_views_per_video": 210.7,
+    "average_views_per_video": 210.9,
     "average_likes_per_video": 4.1,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 240.89
@@ -26,7 +26,7 @@
       "video_id": "YkVA3AV9wtY",
       "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
       "published_at": "2026-07-16T02:12:48Z",
-      "views": 697,
+      "views": 699,
       "likes": 12,
       "comments": 0
     },
@@ -68,7 +68,7 @@
       "video_id": "YkVA3AV9wtY",
       "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
       "published_at": "2026-07-16T02:12:48Z",
-      "views": 697,
+      "views": 699,
       "likes": 12,
       "comments": 0
     },
