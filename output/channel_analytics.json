@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-09T12:31:35.703353+00:00",
+  "generated_at": "2026-08-09T18:26:41.504502+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
-    "subscriber_count": 414,
-    "video_count": 909,
-    "view_count": 218983
+    "subscriber_count": 415,
+    "video_count": 914,
+    "view_count": 218984
   },
   "summary": {
-    "total_channel_subscribers": 414,
-    "total_channel_videos": 909,
-    "total_channel_views": 218983,
+    "total_channel_subscribers": 415,
+    "total_channel_videos": 914,
+    "total_channel_views": 218984,
     "videos_analyzed": 10,
-    "recent_total_views": 2110,
-    "recent_total_likes": 41,
+    "recent_total_views": 2052,
+    "recent_total_likes": 27,
     "recent_total_comments": 0,
-    "average_views_per_video": 211.0,
-    "average_likes_per_video": 4.1,
+    "average_views_per_video": 205.2,
+    "average_likes_per_video": 2.7,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 240.91
+    "average_channel_views_per_video": 239.59
   },
   "top_videos": [
     {
@@ -47,23 +47,71 @@
       "comments": 0
     },
     {
-      "video_id": "ojIcaSB0fDQ",
-      "title": "தமிழ்நாட்டின் புதிய அரசியல் கட்டமைப்பு!",
-      "published_at": "2026-07-08T07:00:30Z",
-      "views": 148,
-      "likes": 9,
+      "video_id": "q4nalIPdyvk",
+      "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
+      "published_at": "2026-08-09T13:39:19Z",
+      "views": 192,
+      "likes": 0,
       "comments": 0
     },
     {
-      "video_id": "6RoByPIoP-4",
-      "title": "வாரிசு அரசியலை விமர்சித்தாரா முதல்வர்?",
-      "published_at": "2026-07-08T07:00:31Z",
-      "views": 107,
-      "likes": 2,
+      "video_id": "QNzKw6p7IJU",
+      "title": "ஒரு கடன் வரலாற்றை எப்படி மாற்றியது?",
+      "published_at": "2026-08-09T13:39:14Z",
+      "views": 152,
+      "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "FtUV4vrIbk4",
+      "title": "சிலுவைப்போர் வீரர்கள் vs. கத்தோலிக்கர்கள்",
+      "published_at": "2026-08-09T13:39:19Z",
+      "views": 81,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "q4nalIPdyvk",
+      "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
+      "published_at": "2026-08-09T13:39:19Z",
+      "views": 192,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "QNzKw6p7IJU",
+      "title": "ஒரு கடன் வரலாற்றை எப்படி மாற்றியது?",
+      "published_at": "2026-08-09T13:39:14Z",
+      "views": 152,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "fwMOedxNrkg",
+      "title": "Saint vs. Sultan: The strangest meeting in Crusade history!",
+      "published_at": "2026-08-09T13:38:46Z",
+      "views": 4,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "yvEb0ZMjPtU",
+      "title": "Jerusalem for Damieta? Why Crusaders said NO!",
+      "published_at": "2026-08-09T13:38:43Z",
+      "views": 4,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "TFvOf84RnR4",
+      "title": "The price of stubbornness: A Crusade's tragic end!",
+      "published_at": "2026-08-09T13:38:37Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "YkVA3AV9wtY",
       "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
@@ -95,58 +143,11 @@
       "views": 50,
       "likes": 2,
       "comments": 0
-    },
-    {
-      "video_id": "JpgK5poPXME",
-      "title": "பள்ளிகள், கோவில்கள் அருகில் டாஸ்மாக் கடைகள் மூடல்",
-      "published_at": "2026-07-13T10:01:02Z",
-      "views": 103,
-      "likes": 3,
-      "comments": 0
-    },
-    {
-      "video_id": "PP74at9WuXQ",
-      "title": "இது வெறும் தேர்தல் முடிவல்ல, அரசியல் சாமராஜ்யம்!",
-      "published_at": "2026-07-11T04:34:58Z",
-      "views": 55,
-      "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "zufcwi8-hds",
-      "title": "70 நாட்களில் அதிரடி கொள்கை முடிவுகள்!",
-      "published_at": "2026-07-11T04:34:48Z",
-      "views": 37,
-      "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "xozxUqLgdLg",
-      "title": "முதல்வர் - எதிர்க்கட்சி தலைவர்: ஒரே பின்னணி?",
-      "published_at": "2026-07-11T04:34:40Z",
-      "views": 41,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "6RoByPIoP-4",
-      "title": "வாரிசு அரசியலை விமர்சித்தாரா முதல்வர்?",
-      "published_at": "2026-07-08T07:00:31Z",
-      "views": 107,
-      "likes": 2,
-      "comments": 0
-    },
-    {
-      "video_id": "ojIcaSB0fDQ",
-      "title": "தமிழ்நாட்டின் புதிய அரசியல் கட்டமைப்பு!",
-      "published_at": "2026-07-08T07:00:30Z",
-      "views": 148,
-      "likes": 9,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'எப்படி தரவுகளோடு அரசியல் அலசல்?' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'சிலுவைப்போர் வீரர்கள் vs. கத்தோலிக்கர்கள்' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
