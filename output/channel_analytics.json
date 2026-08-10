@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-10T01:04:42.060454+00:00",
+  "generated_at": "2026-08-10T07:13:42.174811+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 914,
-    "view_count": 218984
+    "view_count": 218986
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 914,
-    "total_channel_views": 218984,
+    "total_channel_views": 218986,
     "videos_analyzed": 10,
-    "recent_total_views": 2156,
+    "recent_total_views": 2158,
     "recent_total_likes": 27,
     "recent_total_comments": 0,
-    "average_views_per_video": 215.6,
+    "average_views_per_video": 215.8,
     "average_likes_per_video": 2.7,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 239.59
@@ -50,7 +50,7 @@
       "video_id": "q4nalIPdyvk",
       "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
       "published_at": "2026-08-09T13:39:19Z",
-      "views": 234,
+      "views": 235,
       "likes": 0,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "q4nalIPdyvk",
       "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
       "published_at": "2026-08-09T13:39:19Z",
-      "views": 234,
+      "views": 235,
       "likes": 0,
       "comments": 0
     },
@@ -92,7 +92,7 @@
       "video_id": "fwMOedxNrkg",
       "title": "Saint vs. Sultan: The strangest meeting in Crusade history!",
       "published_at": "2026-08-09T13:38:46Z",
-      "views": 21,
+      "views": 22,
       "likes": 0,
       "comments": 0
     },
