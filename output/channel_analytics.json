@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-11T12:43:24.177456+00:00",
+  "generated_at": "2026-08-11T18:49:21.827669+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
-    "video_count": 915,
-    "view_count": 219539
+    "video_count": 918,
+    "view_count": 219541
   },
   "summary": {
     "total_channel_subscribers": 415,
-    "total_channel_videos": 915,
-    "total_channel_views": 219539,
+    "total_channel_videos": 918,
+    "total_channel_views": 219541,
     "videos_analyzed": 10,
-    "recent_total_views": 2164,
-    "recent_total_likes": 27,
+    "recent_total_views": 1245,
+    "recent_total_likes": 14,
     "recent_total_comments": 0,
-    "average_views_per_video": 216.4,
-    "average_likes_per_video": 2.7,
+    "average_views_per_video": 124.5,
+    "average_likes_per_video": 1.4,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 239.93
+    "average_channel_views_per_video": 239.15
   },
   "top_videos": [
     {
@@ -28,22 +28,6 @@
       "published_at": "2026-07-16T02:12:48Z",
       "views": 699,
       "likes": 12,
-      "comments": 0
-    },
-    {
-      "video_id": "1FVvRcaAblg",
-      "title": "இந்த ஆட்சியின் சர்வைவல் ஸ்ட்ராடஜி என்ன?",
-      "published_at": "2026-07-16T02:12:23Z",
-      "views": 610,
-      "likes": 10,
-      "comments": 0
-    },
-    {
-      "video_id": "uKbeLjcs_tI",
-      "title": "கம்யூனிஸ்ட் கட்சிகளின் வெளி ஆதரவு!",
-      "published_at": "2026-07-16T02:12:47Z",
-      "views": 260,
-      "likes": 1,
       "comments": 0
     },
     {
@@ -61,9 +45,49 @@
       "views": 181,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "FtUV4vrIbk4",
+      "title": "சிலுவைப்போர் வீரர்கள் vs. கத்தோலிக்கர்கள்",
+      "published_at": "2026-08-09T13:39:19Z",
+      "views": 98,
+      "likes": 2,
+      "comments": 0
+    },
+    {
+      "video_id": "fwMOedxNrkg",
+      "title": "Saint vs. Sultan: The strangest meeting in Crusade history!",
+      "published_at": "2026-08-09T13:38:46Z",
+      "views": 24,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "RbsPgjYR3HU",
+      "title": "Egypt: The soft underbelly of the Islamic Empire?",
+      "published_at": "2026-08-11T17:00:14Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "3QBaiQF8SRk",
+      "title": "Jerusalem by way of Egypt? A Crusade's strange strategy!",
+      "published_at": "2026-08-11T17:00:10Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "XBf_BksNO-s",
+      "title": "Sultan's Secret Weapon: Patience and the Nile's floods!",
+      "published_at": "2026-08-11T17:00:02Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "FtUV4vrIbk4",
       "title": "சிலுவைப்போர் வீரர்கள் vs. கத்தோலிக்கர்கள்",
@@ -100,7 +124,7 @@
       "video_id": "yvEb0ZMjPtU",
       "title": "Jerusalem for Damieta? Why Crusaders said NO!",
       "published_at": "2026-08-09T13:38:43Z",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0
     },
@@ -119,35 +143,11 @@
       "views": 699,
       "likes": 12,
       "comments": 0
-    },
-    {
-      "video_id": "uKbeLjcs_tI",
-      "title": "கம்யூனிஸ்ட் கட்சிகளின் வெளி ஆதரவு!",
-      "published_at": "2026-07-16T02:12:47Z",
-      "views": 260,
-      "likes": 1,
-      "comments": 0
-    },
-    {
-      "video_id": "1FVvRcaAblg",
-      "title": "இந்த ஆட்சியின் சர்வைவல் ஸ்ட்ராடஜி என்ன?",
-      "published_at": "2026-07-16T02:12:23Z",
-      "views": 610,
-      "likes": 10,
-      "comments": 0
-    },
-    {
-      "video_id": "n8Sme745jPI",
-      "title": "தமிழ்நாட்டில் 60 ஆண்டுக்கால அரசியல் மாற்றம்",
-      "published_at": "2026-07-13T10:01:10Z",
-      "views": 50,
-      "likes": 2,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'எப்படி தரவுகளோடு அரசியல் அலசல்?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'சிலுவைப்போர் வீரர்கள் vs. கத்தோலிக்கர்கள்' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'Egypt: The soft underbelly of the Islamic Empire?' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
