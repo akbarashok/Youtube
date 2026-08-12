@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-12T07:10:26.196130+00:00",
+  "generated_at": "2026-08-12T12:47:56.717944+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 918,
-    "view_count": 219541
+    "view_count": 219542
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 918,
-    "total_channel_views": 219541,
+    "total_channel_views": 219542,
     "videos_analyzed": 10,
-    "recent_total_views": 1253,
+    "recent_total_views": 1254,
     "recent_total_likes": 14,
     "recent_total_comments": 0,
-    "average_views_per_video": 125.3,
+    "average_views_per_video": 125.4,
     "average_likes_per_video": 1.4,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 239.15
@@ -76,7 +76,7 @@
       "video_id": "3QBaiQF8SRk",
       "title": "Jerusalem by way of Egypt? A Crusade's strange strategy!",
       "published_at": "2026-08-11T17:00:10Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
