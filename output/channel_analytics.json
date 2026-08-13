@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-13T12:49:54.473077+00:00",
+  "generated_at": "2026-08-13T18:50:59.402886+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 918,
-    "view_count": 219557
+    "view_count": 219560
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 918,
-    "total_channel_views": 219557,
+    "total_channel_views": 219560,
     "videos_analyzed": 10,
-    "recent_total_views": 1259,
+    "recent_total_views": 1261,
     "recent_total_likes": 14,
     "recent_total_comments": 0,
-    "average_views_per_video": 125.9,
+    "average_views_per_video": 126.1,
     "average_likes_per_video": 1.4,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 239.17
@@ -76,7 +76,7 @@
       "video_id": "3QBaiQF8SRk",
       "title": "Jerusalem by way of Egypt? A Crusade's strange strategy!",
       "published_at": "2026-08-11T17:00:10Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
@@ -84,7 +84,7 @@
       "video_id": "XBf_BksNO-s",
       "title": "Sultan's Secret Weapon: Patience and the Nile's floods!",
       "published_at": "2026-08-11T17:00:02Z",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
