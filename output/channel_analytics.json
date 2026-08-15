@@ -1,35 +1,27 @@
 {
-  "generated_at": "2026-08-15T12:19:58.271709+00:00",
+  "generated_at": "2026-08-15T18:15:30.316667+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
-    "video_count": 918,
-    "view_count": 219569
+    "video_count": 920,
+    "view_count": 219570
   },
   "summary": {
     "total_channel_subscribers": 415,
-    "total_channel_videos": 918,
-    "total_channel_views": 219569,
+    "total_channel_videos": 920,
+    "total_channel_views": 219570,
     "videos_analyzed": 10,
-    "recent_total_views": 1264,
-    "recent_total_likes": 14,
+    "recent_total_views": 559,
+    "recent_total_likes": 2,
     "recent_total_comments": 0,
-    "average_views_per_video": 126.4,
-    "average_likes_per_video": 1.4,
+    "average_views_per_video": 55.9,
+    "average_likes_per_video": 0.2,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 239.18
+    "average_channel_views_per_video": 238.66
   },
   "top_videos": [
-    {
-      "video_id": "YkVA3AV9wtY",
-      "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
-      "published_at": "2026-07-16T02:12:48Z",
-      "views": 699,
-      "likes": 12,
-      "comments": 0
-    },
     {
       "video_id": "q4nalIPdyvk",
       "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
@@ -40,7 +32,7 @@
     },
     {
       "video_id": "QNzKw6p7IJU",
-      "title": "ஒரு கடன் வரலாற்றை எப்படி மாற்றியது?",
+      "title": "இந்த கடன் இல்லாவிட்டால், உலக வரைபடமே வேறாக இருக்கும்! #history #shorts",
       "published_at": "2026-08-09T13:39:14Z",
       "views": 181,
       "likes": 0,
@@ -61,9 +53,41 @@
       "views": 24,
       "likes": 0,
       "comments": 0
+    },
+    {
+      "video_id": "XBf_BksNO-s",
+      "title": "Sultan's Secret Weapon: Patience and the Nile's floods!",
+      "published_at": "2026-08-11T17:00:02Z",
+      "views": 8,
+      "likes": 0,
+      "comments": 0
     }
   ],
   "recent_videos": [
+    {
+      "video_id": "6YwSwrS2wzc",
+      "title": "பேராசை இல்லை, உயிர் பிழைக்க ஒரு முடிவ",
+      "published_at": "2026-08-15T16:48:15Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "hFAiIApPQCE",
+      "title": "கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய",
+      "published_at": "2026-08-15T16:48:08Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "video_id": "NbALVHsw23o",
+      "title": "நானும் உங்களில் ஒருவன்: தலைவனின் வியூகம",
+      "published_at": "2026-08-15T16:48:06Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     {
       "video_id": "RbsPgjYR3HU",
       "title": "Egypt: The soft underbelly of the Islamic Empire?",
@@ -106,7 +130,7 @@
     },
     {
       "video_id": "QNzKw6p7IJU",
-      "title": "ஒரு கடன் வரலாற்றை எப்படி மாற்றியது?",
+      "title": "இந்த கடன் இல்லாவிட்டால், உலக வரைபடமே வேறாக இருக்கும்! #history #shorts",
       "published_at": "2026-08-09T13:39:14Z",
       "views": 181,
       "likes": 0,
@@ -119,35 +143,11 @@
       "views": 24,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "yvEb0ZMjPtU",
-      "title": "Jerusalem for Damieta? Why Crusaders said NO!",
-      "published_at": "2026-08-09T13:38:43Z",
-      "views": 6,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "TFvOf84RnR4",
-      "title": "The price of stubbornness: A Crusade's tragic end!",
-      "published_at": "2026-08-09T13:38:37Z",
-      "views": 0,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "YkVA3AV9wtY",
-      "title": "எப்படி தரவுகளோடு அரசியல் அலசல்?",
-      "published_at": "2026-07-16T02:12:48Z",
-      "views": 699,
-      "likes": 12,
-      "comments": 0
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'எப்படி தரவுகளோடு அரசியல் அலசல்?' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'Egypt: The soft underbelly of the Islamic Empire?' with stronger titles, descriptions, and thumbnails.",
+    "Review the format and topic of 'வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப' because it is outperforming the recent channel average.",
+    "Consider refreshing the packaging of the latest upload 'பேராசை இல்லை, உயிர் பிழைக்க ஒரு முடிவ' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
