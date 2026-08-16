@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-16T12:20:58.757484+00:00",
+  "generated_at": "2026-08-16T18:15:54.186023+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 920,
-    "view_count": 219570
+    "view_count": 219763
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 920,
-    "total_channel_views": 219570,
+    "total_channel_views": 219763,
     "videos_analyzed": 10,
-    "recent_total_views": 796,
+    "recent_total_views": 835,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 79.6,
+    "average_views_per_video": 83.5,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 238.66
+    "average_channel_views_per_video": 238.87
   },
   "top_videos": [
+    {
+      "video_id": "hFAiIApPQCE",
+      "title": "கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய",
+      "published_at": "2026-08-15T16:48:08Z",
+      "views": 257,
+      "likes": 1,
+      "comments": 0
+    },
     {
       "video_id": "q4nalIPdyvk",
       "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
       "published_at": "2026-08-09T13:39:19Z",
       "views": 237,
       "likes": 0,
-      "comments": 0
-    },
-    {
-      "video_id": "hFAiIApPQCE",
-      "title": "கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய",
-      "published_at": "2026-08-15T16:48:08Z",
-      "views": 218,
-      "likes": 1,
       "comments": 0
     },
     {
@@ -76,7 +76,7 @@
       "video_id": "hFAiIApPQCE",
       "title": "கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய",
       "published_at": "2026-08-15T16:48:08Z",
-      "views": 218,
+      "views": 257,
       "likes": 1,
       "comments": 0
     },
@@ -146,7 +146,7 @@
     }
   ],
   "recommendations": [
-    "Review the format and topic of 'வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப' because it is outperforming the recent channel average.",
+    "Review the format and topic of 'கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய' because it is outperforming the recent channel average.",
     "Consider refreshing the packaging of the latest upload 'பேராசை இல்லை, உயிர் பிழைக்க ஒரு முடிவ' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
