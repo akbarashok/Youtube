@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-18T12:26:54.734255+00:00",
+  "generated_at": "2026-08-18T18:24:02.239454+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 921,
-    "view_count": 219938
+    "view_count": 219949
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 921,
-    "total_channel_views": 219938,
+    "total_channel_views": 219949,
     "videos_analyzed": 10,
-    "recent_total_views": 932,
+    "recent_total_views": 934,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 93.2,
+    "average_views_per_video": 93.4,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 238.8
+    "average_channel_views_per_video": 238.82
   },
   "top_videos": [
     {
@@ -34,7 +34,7 @@
       "video_id": "q4nalIPdyvk",
       "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
       "published_at": "2026-08-09T13:39:19Z",
-      "views": 237,
+      "views": 239,
       "likes": 0,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "q4nalIPdyvk",
       "title": "வரலாறு என்பது என்ன? உணர்ச்சிகளா? வியாப",
       "published_at": "2026-08-09T13:39:19Z",
-      "views": 237,
+      "views": 239,
       "likes": 0,
       "comments": 0
     },
