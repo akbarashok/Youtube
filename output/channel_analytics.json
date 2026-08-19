@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-19T00:43:23.343819+00:00",
+  "generated_at": "2026-08-19T06:28:02.218408+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 921,
-    "view_count": 219949
+    "view_count": 219951
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 921,
-    "total_channel_views": 219949,
+    "total_channel_views": 219951,
     "videos_analyzed": 10,
-    "recent_total_views": 934,
+    "recent_total_views": 935,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 93.4,
+    "average_views_per_video": 93.5,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
     "average_channel_views_per_video": 238.82
@@ -26,7 +26,7 @@
       "video_id": "hFAiIApPQCE",
       "title": "கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய",
       "published_at": "2026-08-15T16:48:08Z",
-      "views": 349,
+      "views": 350,
       "likes": 1,
       "comments": 0
     },
@@ -76,7 +76,7 @@
       "video_id": "hFAiIApPQCE",
       "title": "கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய",
       "published_at": "2026-08-15T16:48:08Z",
-      "views": 349,
+      "views": 350,
       "likes": 1,
       "comments": 0
     },
