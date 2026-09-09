@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-09T15:37:53.105008+00:00",
+  "generated_at": "2026-09-09T20:13:53.167685+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 414,
-    "video_count": 921,
+    "video_count": 922,
     "view_count": 220057
   },
   "summary": {
     "total_channel_subscribers": 414,
-    "total_channel_videos": 921,
+    "total_channel_videos": 922,
     "total_channel_views": 220057,
     "videos_analyzed": 10,
-    "recent_total_views": 936,
+    "recent_total_views": 925,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 93.6,
+    "average_views_per_video": 92.5,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 238.93
+    "average_channel_views_per_video": 238.67
   },
   "top_videos": [
     {
@@ -55,18 +55,26 @@
       "comments": 0
     },
     {
-      "video_id": "fwMOedxNrkg",
-      "title": "Saint vs. Sultan: The strangest meeting in Crusade history!",
-      "published_at": "2026-08-09T13:38:46Z",
-      "views": 25,
+      "video_id": "6YwSwrS2wzc",
+      "title": "इतिहास का सबसे बड़ा गलतफहमी: असली सच्चाई क्या है? #history #mystery #shorts",
+      "published_at": "2026-08-15T16:48:15Z",
+      "views": 22,
       "likes": 0,
       "comments": 0
     }
   ],
   "recent_videos": [
     {
+      "video_id": "M6vucjjIRZQ",
+      "title": "Why your food never tastes like a restaurant's #cookingtricks #foodie #cooking",
+      "published_at": "2026-09-09T18:07:52Z",
+      "views": 14,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "video_id": "6YwSwrS2wzc",
-      "title": "பேராசை இல்லை, உயிர் பிழைக்க ஒரு முடிவ",
+      "title": "इतिहास का सबसे बड़ा गलतफहमी: असली सच्चाई क्या है? #history #mystery #shorts",
       "published_at": "2026-08-15T16:48:15Z",
       "views": 22,
       "likes": 0,
@@ -135,19 +143,11 @@
       "views": 181,
       "likes": 0,
       "comments": 0
-    },
-    {
-      "video_id": "fwMOedxNrkg",
-      "title": "Saint vs. Sultan: The strangest meeting in Crusade history!",
-      "published_at": "2026-08-09T13:38:46Z",
-      "views": 25,
-      "likes": 0,
-      "comments": 0
     }
   ],
   "recommendations": [
     "Review the format and topic of 'கண்பார்வை இழந்தும் உலகின் சிறந்த அரசிய' because it is outperforming the recent channel average.",
-    "Consider refreshing the packaging of the latest upload 'பேராசை இல்லை, உயிர் பிழைக்க ஒரு முடிவ' with stronger titles, descriptions, and thumbnails.",
+    "Consider refreshing the packaging of the latest upload 'Why your food never tastes like a restaurant's #cookingtricks #foodie #cooking' with stronger titles, descriptions, and thumbnails.",
     "Increase audience interaction prompts by asking one clear question in each video and description to encourage more comments.",
     "Add clearer calls to action for likes and highlight the main value earlier to improve engagement rate."
   ]
