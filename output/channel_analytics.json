@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-13T20:02:08.750564+00:00",
+  "generated_at": "2026-09-14T02:34:58.577541+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 414,
     "video_count": 922,
-    "view_count": 220120
+    "view_count": 220128
   },
   "summary": {
     "total_channel_subscribers": 414,
     "total_channel_videos": 922,
-    "total_channel_views": 220120,
+    "total_channel_views": 220128,
     "videos_analyzed": 10,
-    "recent_total_views": 958,
+    "recent_total_views": 960,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 95.8,
+    "average_views_per_video": 96.0,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 238.74
+    "average_channel_views_per_video": 238.75
   },
   "top_videos": [
     {
@@ -58,7 +58,7 @@
       "video_id": "M6vucjjIRZQ",
       "title": "Why your food never tastes like a restaurant's #cookingtricks #foodie #cooking",
       "published_at": "2026-09-09T18:07:52Z",
-      "views": 47,
+      "views": 49,
       "likes": 0,
       "comments": 0
     }
@@ -68,7 +68,7 @@
       "video_id": "M6vucjjIRZQ",
       "title": "Why your food never tastes like a restaurant's #cookingtricks #foodie #cooking",
       "published_at": "2026-09-09T18:07:52Z",
-      "views": 47,
+      "views": 49,
       "likes": 0,
       "comments": 0
     },
