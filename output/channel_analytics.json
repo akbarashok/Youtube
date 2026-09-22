@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-22T02:34:44.953349+00:00",
+  "generated_at": "2026-09-22T10:38:49.693621+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 414,
     "video_count": 922,
-    "view_count": 220158
+    "view_count": 220164
   },
   "summary": {
     "total_channel_subscribers": 414,
     "total_channel_videos": 922,
-    "total_channel_views": 220158,
+    "total_channel_views": 220164,
     "videos_analyzed": 10,
     "recent_total_views": 961,
     "recent_total_likes": 0,
@@ -19,7 +19,7 @@
     "average_views_per_video": 96.1,
     "average_likes_per_video": 0.0,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 238.78
+    "average_channel_views_per_video": 238.79
   },
   "top_videos": [
     {
