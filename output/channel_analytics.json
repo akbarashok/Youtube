@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-09T03:49:17.943029+00:00",
+  "generated_at": "2026-11-09T14:45:45.470825+00:00",
   "channel": {
     "channel_id": "UCD2tQfzg9giJWdcaqtma8rA",
     "title": "NOOLISAM",
     "published_at": "2021-06-25T14:53:59.672569Z",
     "subscriber_count": 415,
     "video_count": 922,
-    "view_count": 220488
+    "view_count": 220505
   },
   "summary": {
     "total_channel_subscribers": 415,
     "total_channel_videos": 922,
-    "total_channel_views": 220488,
+    "total_channel_views": 220505,
     "videos_analyzed": 10,
-    "recent_total_views": 963,
+    "recent_total_views": 964,
     "recent_total_likes": 3,
     "recent_total_comments": 0,
-    "average_views_per_video": 96.3,
+    "average_views_per_video": 96.4,
     "average_likes_per_video": 0.3,
     "average_comments_per_video": 0.0,
-    "average_channel_views_per_video": 239.14
+    "average_channel_views_per_video": 239.16
   },
   "top_videos": [
     {
@@ -50,7 +50,7 @@
       "video_id": "FtUV4vrIbk4",
       "title": "சிலுவைப்போர் வீரர்கள் vs. கத்தோலிக்கர்கள்",
       "published_at": "2026-08-09T13:39:19Z",
-      "views": 101,
+      "views": 102,
       "likes": 2,
       "comments": 0
     },
@@ -124,7 +124,7 @@
       "video_id": "FtUV4vrIbk4",
       "title": "சிலுவைப்போர் வீரர்கள் vs. கத்தோலிக்கர்கள்",
       "published_at": "2026-08-09T13:39:19Z",
-      "views": 101,
+      "views": 102,
       "likes": 2,
       "comments": 0
     },
